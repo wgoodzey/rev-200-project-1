@@ -1,0 +1,3474 @@
+﻿id,todo_id,task,completed
+1,5,Validate results,0
+2,5,Verify completion,1
+3,6,Run tests,1
+4,6,Check edge cases,0
+5,6,Verify completion,0
+6,7,Draft initial version,1
+7,7,Document findings,0
+8,7,Resolve issues,0
+9,9,Get feedback,1
+10,9,Review details,0
+11,11,Resolve issues,1
+12,11,Resolve issues,1
+13,12,Resolve issues,0
+14,13,Finalize task,1
+15,17,Validate results,1
+16,17,Document findings,1
+17,17,Get feedback,1
+18,23,Validate results,1
+19,23,Finalize task,0
+20,24,Get feedback,0
+21,24,Get feedback,0
+22,24,Resolve issues,0
+23,25,Check edge cases,0
+24,25,Check edge cases,1
+25,25,Review details,0
+26,26,Implement changes,0
+27,26,Implement changes,0
+28,26,Implement changes,1
+29,26,Validate results,1
+30,27,Resolve issues,0
+31,27,Document findings,0
+32,31,Review details,1
+33,31,Implement changes,1
+34,31,Draft initial version,1
+35,32,Get feedback,0
+36,32,Check edge cases,1
+37,32,Gather information,0
+38,40,Verify completion,0
+39,43,Resolve issues,0
+40,43,Gather information,0
+41,43,Gather information,0
+42,44,Document findings,0
+43,44,Review details,0
+44,46,Implement changes,0
+45,46,Draft initial version,1
+46,46,Validate results,0
+47,46,Verify completion,0
+48,47,Gather information,0
+49,47,Validate results,0
+50,47,Finalize task,1
+51,47,Resolve issues,1
+52,47,Implement changes,0
+53,48,Document findings,1
+54,49,Check edge cases,1
+55,49,Review details,0
+56,49,Document findings,0
+57,51,Implement changes,0
+58,53,Review details,0
+59,54,Implement changes,1
+60,56,Document findings,1
+61,59,Verify completion,1
+62,59,Verify completion,1
+63,59,Resolve issues,0
+64,60,Review details,0
+65,60,Finalize task,0
+66,60,Validate results,0
+67,60,Document findings,0
+68,61,Run tests,0
+69,61,Resolve issues,0
+70,61,Check edge cases,0
+71,62,Get feedback,0
+72,62,Validate results,1
+73,63,Document findings,1
+74,64,Gather information,0
+75,64,Document findings,0
+76,71,Finalize task,1
+77,71,Draft initial version,0
+78,73,Validate results,0
+79,73,Gather information,0
+80,73,Implement changes,0
+81,74,Draft initial version,0
+82,74,Check edge cases,0
+83,75,Finalize task,0
+84,75,Validate results,1
+85,77,Finalize task,0
+86,77,Validate results,0
+87,77,Validate results,0
+88,80,Finalize task,1
+89,80,Implement changes,0
+90,80,Implement changes,0
+91,80,Finalize task,0
+92,80,Validate results,1
+93,81,Review details,1
+94,81,Resolve issues,0
+95,81,Gather information,0
+96,81,Validate results,1
+97,81,Draft initial version,1
+98,82,Implement changes,1
+99,82,Draft initial version,1
+100,82,Implement changes,0
+101,82,Draft initial version,1
+102,82,Get feedback,0
+103,84,Get feedback,0
+104,88,Draft initial version,0
+105,88,Get feedback,0
+106,88,Finalize task,0
+107,88,Draft initial version,0
+108,88,Gather information,0
+109,89,Document findings,0
+110,89,Resolve issues,0
+111,89,Finalize task,1
+112,91,Get feedback,0
+113,91,Finalize task,1
+114,91,Draft initial version,0
+115,92,Resolve issues,0
+116,92,Review details,0
+117,92,Run tests,0
+118,96,Gather information,0
+119,96,Implement changes,0
+120,98,Resolve issues,0
+121,98,Finalize task,0
+122,99,Check edge cases,0
+123,99,Validate results,0
+124,99,Check edge cases,0
+125,101,Gather information,1
+126,101,Resolve issues,1
+127,101,Run tests,1
+128,101,Finalize task,0
+129,102,Resolve issues,0
+130,102,Run tests,0
+131,104,Check edge cases,0
+132,106,Draft initial version,1
+133,106,Resolve issues,0
+134,107,Get feedback,1
+135,107,Review details,1
+136,110,Implement changes,0
+137,110,Implement changes,1
+138,111,Finalize task,1
+139,112,Check edge cases,0
+140,112,Get feedback,1
+141,113,Finalize task,1
+142,113,Document findings,0
+143,113,Gather information,0
+144,114,Implement changes,0
+145,114,Validate results,1
+146,115,Run tests,0
+147,115,Run tests,0
+148,115,Document findings,0
+149,116,Verify completion,1
+150,116,Validate results,0
+151,116,Get feedback,0
+152,116,Verify completion,0
+153,116,Get feedback,0
+154,117,Check edge cases,1
+155,117,Document findings,0
+156,118,Draft initial version,0
+157,119,Review details,0
+158,119,Gather information,0
+159,119,Get feedback,0
+160,120,Document findings,0
+161,122,Implement changes,1
+162,122,Validate results,0
+163,122,Check edge cases,0
+164,127,Finalize task,1
+165,127,Document findings,1
+166,127,Verify completion,1
+167,128,Get feedback,0
+168,131,Verify completion,0
+169,131,Get feedback,0
+170,131,Gather information,1
+171,132,Document findings,0
+172,132,Run tests,0
+173,132,Check edge cases,0
+174,133,Finalize task,1
+175,133,Resolve issues,0
+176,133,Validate results,0
+177,134,Check edge cases,0
+178,134,Draft initial version,0
+179,134,Implement changes,1
+180,134,Document findings,1
+181,134,Document findings,0
+182,135,Review details,1
+183,138,Draft initial version,1
+184,143,Verify completion,0
+185,143,Draft initial version,0
+186,143,Review details,0
+187,144,Review details,1
+188,146,Draft initial version,0
+189,146,Implement changes,0
+190,146,Review details,0
+191,149,Finalize task,0
+192,150,Run tests,1
+193,150,Finalize task,0
+194,151,Validate results,0
+195,151,Validate results,0
+196,151,Check edge cases,1
+197,151,Document findings,0
+198,151,Draft initial version,0
+199,152,Gather information,0
+200,152,Gather information,0
+201,152,Review details,0
+202,152,Implement changes,0
+203,152,Gather information,1
+204,153,Resolve issues,1
+205,153,Verify completion,0
+206,154,Gather information,0
+207,154,Resolve issues,0
+208,154,Review details,0
+209,155,Draft initial version,1
+210,155,Gather information,0
+211,155,Gather information,0
+212,155,Document findings,0
+213,155,Check edge cases,1
+214,159,Verify completion,0
+215,159,Get feedback,1
+216,159,Implement changes,1
+217,160,Check edge cases,0
+218,160,Review details,0
+219,160,Get feedback,0
+220,161,Get feedback,0
+221,163,Document findings,0
+222,163,Check edge cases,0
+223,163,Review details,1
+224,165,Finalize task,0
+225,165,Finalize task,0
+226,165,Gather information,0
+227,170,Review details,0
+228,170,Get feedback,0
+229,172,Review details,1
+230,173,Verify completion,0
+231,173,Verify completion,0
+232,176,Document findings,0
+233,176,Get feedback,0
+234,176,Finalize task,0
+235,177,Document findings,0
+236,177,Document findings,0
+237,177,Validate results,0
+238,178,Resolve issues,0
+239,178,Finalize task,0
+240,178,Review details,0
+241,179,Run tests,0
+242,179,Resolve issues,0
+243,179,Finalize task,0
+244,180,Finalize task,0
+245,182,Run tests,0
+246,182,Draft initial version,0
+247,182,Document findings,0
+248,182,Run tests,1
+249,182,Check edge cases,1
+250,183,Run tests,0
+251,183,Check edge cases,0
+252,184,Review details,0
+253,184,Review details,0
+254,187,Run tests,0
+255,187,Check edge cases,0
+256,187,Gather information,1
+257,190,Document findings,0
+258,190,Run tests,1
+259,190,Get feedback,0
+260,191,Validate results,0
+261,191,Verify completion,0
+262,191,Gather information,0
+263,192,Draft initial version,1
+264,195,Document findings,1
+265,195,Document findings,1
+266,200,Resolve issues,1
+267,200,Run tests,0
+268,200,Finalize task,0
+269,201,Review details,0
+270,201,Gather information,0
+271,202,Run tests,1
+272,202,Resolve issues,0
+273,203,Gather information,0
+274,203,Run tests,1
+275,203,Finalize task,1
+276,203,Gather information,1
+277,203,Run tests,0
+278,204,Gather information,0
+279,204,Verify completion,1
+280,205,Implement changes,1
+281,205,Draft initial version,0
+282,205,Draft initial version,0
+283,210,Run tests,1
+284,210,Get feedback,1
+285,211,Finalize task,1
+286,211,Check edge cases,1
+287,211,Validate results,1
+288,212,Resolve issues,0
+289,213,Validate results,1
+290,214,Gather information,0
+291,214,Implement changes,0
+292,214,Verify completion,1
+293,215,Run tests,0
+294,215,Draft initial version,0
+295,215,Finalize task,0
+296,215,Draft initial version,0
+297,215,Resolve issues,1
+298,216,Verify completion,0
+299,216,Get feedback,0
+300,216,Run tests,0
+301,218,Draft initial version,0
+302,221,Validate results,1
+303,221,Review details,0
+304,221,Draft initial version,0
+305,222,Run tests,0
+306,222,Implement changes,0
+307,223,Get feedback,1
+308,223,Validate results,1
+309,223,Resolve issues,1
+310,225,Implement changes,0
+311,225,Gather information,1
+312,225,Draft initial version,0
+313,225,Gather information,1
+314,225,Get feedback,0
+315,228,Check edge cases,0
+316,229,Check edge cases,0
+317,229,Get feedback,0
+318,230,Draft initial version,1
+319,230,Implement changes,1
+320,230,Get feedback,0
+321,231,Review details,0
+322,231,Implement changes,1
+323,231,Draft initial version,0
+324,232,Finalize task,0
+325,232,Verify completion,0
+326,234,Review details,1
+327,234,Get feedback,0
+328,234,Validate results,1
+329,235,Document findings,0
+330,235,Gather information,0
+331,237,Verify completion,0
+332,237,Resolve issues,0
+333,237,Check edge cases,0
+334,239,Draft initial version,0
+335,239,Verify completion,0
+336,239,Get feedback,0
+337,239,Implement changes,0
+338,239,Check edge cases,0
+339,242,Review details,0
+340,242,Resolve issues,0
+341,242,Check edge cases,0
+342,245,Gather information,0
+343,246,Resolve issues,0
+344,246,Gather information,0
+345,246,Implement changes,1
+346,248,Resolve issues,0
+347,248,Check edge cases,1
+348,249,Run tests,0
+349,249,Finalize task,1
+350,249,Check edge cases,0
+351,250,Resolve issues,1
+352,254,Implement changes,0
+353,254,Resolve issues,1
+354,255,Get feedback,0
+355,255,Resolve issues,1
+356,256,Get feedback,0
+357,257,Finalize task,0
+358,259,Draft initial version,0
+359,259,Verify completion,1
+360,260,Resolve issues,0
+361,262,Run tests,0
+362,262,Resolve issues,1
+363,262,Gather information,0
+364,264,Run tests,0
+365,264,Verify completion,0
+366,264,Draft initial version,0
+367,264,Validate results,1
+368,264,Check edge cases,1
+369,265,Draft initial version,0
+370,265,Validate results,0
+371,266,Finalize task,1
+372,266,Verify completion,0
+373,266,Resolve issues,0
+374,267,Document findings,0
+375,267,Run tests,0
+376,270,Run tests,1
+377,270,Check edge cases,1
+378,270,Resolve issues,0
+379,271,Validate results,0
+380,271,Finalize task,0
+381,271,Run tests,1
+382,274,Implement changes,0
+383,274,Finalize task,0
+384,274,Draft initial version,0
+385,278,Verify completion,0
+386,278,Get feedback,0
+387,279,Review details,0
+388,280,Gather information,0
+389,280,Check edge cases,0
+390,280,Check edge cases,0
+391,281,Document findings,0
+392,281,Resolve issues,0
+393,281,Run tests,0
+394,282,Verify completion,1
+395,283,Get feedback,0
+396,284,Implement changes,0
+397,284,Resolve issues,0
+398,284,Review details,0
+399,284,Document findings,1
+400,288,Get feedback,1
+401,289,Review details,0
+402,289,Get feedback,1
+403,289,Review details,0
+404,293,Check edge cases,0
+405,293,Run tests,1
+406,294,Check edge cases,0
+407,295,Gather information,0
+408,295,Run tests,0
+409,295,Run tests,1
+410,296,Gather information,0
+411,296,Verify completion,0
+412,297,Resolve issues,0
+413,297,Resolve issues,1
+414,297,Run tests,0
+415,299,Validate results,0
+416,300,Review details,0
+417,300,Check edge cases,0
+418,301,Resolve issues,1
+419,301,Document findings,1
+420,301,Get feedback,0
+421,306,Gather information,1
+422,306,Get feedback,0
+423,306,Draft initial version,0
+424,310,Review details,0
+425,310,Draft initial version,0
+426,313,Finalize task,0
+427,313,Get feedback,1
+428,313,Resolve issues,0
+429,313,Run tests,0
+430,313,Document findings,1
+431,314,Gather information,1
+432,314,Resolve issues,0
+433,316,Review details,1
+434,316,Finalize task,1
+435,316,Document findings,0
+436,321,Resolve issues,0
+437,321,Verify completion,0
+438,321,Check edge cases,1
+439,323,Draft initial version,0
+440,323,Verify completion,0
+441,323,Document findings,0
+442,324,Run tests,0
+443,324,Draft initial version,1
+444,324,Implement changes,0
+445,324,Implement changes,1
+446,324,Finalize task,1
+447,325,Resolve issues,0
+448,325,Review details,0
+449,331,Validate results,0
+450,331,Finalize task,1
+451,333,Validate results,1
+452,333,Review details,0
+453,333,Get feedback,1
+454,335,Check edge cases,0
+455,335,Resolve issues,0
+456,335,Get feedback,0
+457,336,Run tests,0
+458,336,Validate results,0
+459,336,Gather information,1
+460,337,Draft initial version,0
+461,337,Get feedback,0
+462,337,Implement changes,0
+463,337,Validate results,0
+464,337,Validate results,0
+465,338,Verify completion,0
+466,338,Document findings,1
+467,339,Run tests,0
+468,339,Finalize task,1
+469,341,Get feedback,0
+470,341,Verify completion,0
+471,341,Check edge cases,1
+472,342,Implement changes,1
+473,342,Draft initial version,1
+474,342,Gather information,0
+475,342,Check edge cases,0
+476,343,Document findings,0
+477,343,Run tests,1
+478,343,Review details,0
+479,345,Finalize task,0
+480,346,Draft initial version,0
+481,346,Resolve issues,0
+482,348,Check edge cases,0
+483,348,Draft initial version,0
+484,349,Gather information,0
+485,349,Verify completion,0
+486,350,Get feedback,1
+487,350,Run tests,0
+488,351,Review details,0
+489,351,Check edge cases,0
+490,351,Gather information,0
+491,355,Draft initial version,1
+492,355,Document findings,0
+493,355,Resolve issues,1
+494,356,Resolve issues,1
+495,356,Document findings,0
+496,356,Review details,0
+497,357,Run tests,0
+498,357,Review details,1
+499,358,Check edge cases,0
+500,361,Finalize task,0
+501,361,Finalize task,1
+502,366,Implement changes,1
+503,366,Finalize task,0
+504,367,Review details,0
+505,367,Verify completion,0
+506,369,Check edge cases,1
+507,369,Implement changes,0
+508,369,Implement changes,0
+509,370,Gather information,0
+510,370,Run tests,0
+511,370,Validate results,0
+512,371,Run tests,0
+513,371,Implement changes,1
+514,371,Verify completion,0
+515,372,Run tests,0
+516,372,Run tests,1
+517,373,Implement changes,1
+518,373,Review details,0
+519,375,Resolve issues,0
+520,377,Validate results,0
+521,377,Get feedback,0
+522,378,Run tests,0
+523,378,Implement changes,0
+524,379,Implement changes,0
+525,379,Document findings,0
+526,379,Get feedback,1
+527,379,Document findings,1
+528,379,Review details,1
+529,380,Document findings,0
+530,381,Document findings,1
+531,382,Document findings,0
+532,382,Resolve issues,0
+533,382,Implement changes,1
+534,383,Document findings,0
+535,383,Document findings,0
+536,384,Document findings,1
+537,384,Finalize task,1
+538,384,Check edge cases,0
+539,385,Gather information,0
+540,385,Review details,0
+541,385,Implement changes,0
+542,386,Draft initial version,0
+543,386,Document findings,0
+544,389,Resolve issues,1
+545,391,Check edge cases,1
+546,391,Check edge cases,0
+547,391,Draft initial version,0
+548,393,Finalize task,0
+549,394,Gather information,0
+550,394,Review details,1
+551,396,Verify completion,1
+552,396,Implement changes,0
+553,396,Resolve issues,1
+554,397,Validate results,0
+555,397,Draft initial version,1
+556,397,Draft initial version,1
+557,400,Resolve issues,0
+558,400,Gather information,1
+559,402,Resolve issues,0
+560,402,Verify completion,0
+561,404,Gather information,1
+562,404,Verify completion,0
+563,407,Run tests,1
+564,407,Draft initial version,1
+565,407,Resolve issues,0
+566,408,Verify completion,0
+567,408,Check edge cases,0
+568,411,Implement changes,0
+569,411,Verify completion,0
+570,411,Resolve issues,0
+571,411,Gather information,0
+572,415,Implement changes,0
+573,416,Review details,0
+574,416,Run tests,0
+575,419,Validate results,1
+576,420,Check edge cases,0
+577,420,Document findings,0
+578,422,Finalize task,0
+579,422,Verify completion,1
+580,422,Draft initial version,0
+581,428,Gather information,1
+582,428,Validate results,0
+583,428,Validate results,0
+584,429,Review details,0
+585,429,Verify completion,0
+586,430,Resolve issues,1
+587,430,Get feedback,0
+588,431,Implement changes,0
+589,431,Validate results,1
+590,432,Verify completion,0
+591,432,Resolve issues,0
+592,432,Verify completion,0
+593,434,Resolve issues,0
+594,434,Gather information,0
+595,434,Run tests,1
+596,436,Run tests,1
+597,436,Document findings,0
+598,437,Document findings,1
+599,438,Draft initial version,0
+600,438,Gather information,0
+601,438,Verify completion,0
+602,439,Get feedback,0
+603,439,Finalize task,0
+604,439,Document findings,1
+605,444,Review details,0
+606,444,Document findings,0
+607,446,Implement changes,1
+608,446,Resolve issues,0
+609,446,Implement changes,1
+610,446,Draft initial version,0
+611,446,Implement changes,0
+612,449,Validate results,0
+613,449,Verify completion,0
+614,449,Implement changes,1
+615,451,Document findings,1
+616,451,Resolve issues,1
+617,458,Implement changes,0
+618,458,Get feedback,0
+619,460,Verify completion,1
+620,460,Get feedback,0
+621,463,Draft initial version,1
+622,463,Resolve issues,0
+623,465,Document findings,1
+624,465,Check edge cases,1
+625,465,Verify completion,0
+626,466,Review details,0
+627,466,Resolve issues,1
+628,466,Verify completion,0
+629,467,Run tests,0
+630,467,Check edge cases,0
+631,467,Finalize task,1
+632,469,Gather information,0
+633,469,Check edge cases,1
+634,469,Document findings,0
+635,473,Document findings,0
+636,473,Implement changes,0
+637,474,Finalize task,0
+638,474,Review details,0
+639,475,Gather information,0
+640,475,Draft initial version,0
+641,475,Get feedback,0
+642,475,Implement changes,1
+643,475,Run tests,0
+644,476,Check edge cases,1
+645,476,Validate results,0
+646,478,Implement changes,0
+647,478,Verify completion,1
+648,479,Resolve issues,0
+649,481,Implement changes,0
+650,481,Validate results,0
+651,482,Finalize task,0
+652,482,Implement changes,1
+653,482,Run tests,0
+654,483,Verify completion,0
+655,483,Gather information,0
+656,484,Gather information,0
+657,484,Document findings,1
+658,484,Review details,0
+659,485,Check edge cases,0
+660,485,Gather information,0
+661,485,Get feedback,1
+662,486,Get feedback,1
+663,486,Check edge cases,0
+664,486,Check edge cases,1
+665,487,Review details,0
+666,487,Get feedback,0
+667,487,Resolve issues,0
+668,489,Verify completion,0
+669,489,Check edge cases,0
+670,489,Gather information,0
+671,491,Gather information,1
+672,493,Verify completion,1
+673,494,Implement changes,0
+674,498,Document findings,0
+675,499,Draft initial version,0
+676,499,Document findings,0
+677,500,Get feedback,0
+678,500,Check edge cases,0
+679,500,Check edge cases,0
+680,501,Verify completion,1
+681,501,Finalize task,0
+682,501,Review details,0
+683,506,Resolve issues,0
+684,512,Check edge cases,0
+685,512,Document findings,0
+686,512,Gather information,0
+687,513,Verify completion,1
+688,513,Implement changes,1
+689,513,Draft initial version,1
+690,513,Gather information,0
+691,513,Draft initial version,0
+692,517,Implement changes,0
+693,517,Resolve issues,0
+694,519,Draft initial version,0
+695,520,Draft initial version,0
+696,520,Review details,0
+697,522,Implement changes,0
+698,523,Implement changes,0
+699,523,Finalize task,0
+700,525,Validate results,0
+701,525,Review details,1
+702,525,Get feedback,0
+703,525,Document findings,0
+704,527,Implement changes,0
+705,527,Check edge cases,1
+706,527,Draft initial version,0
+707,528,Review details,1
+708,528,Document findings,0
+709,530,Check edge cases,0
+710,536,Document findings,0
+711,536,Verify completion,0
+712,536,Implement changes,0
+713,536,Verify completion,0
+714,536,Get feedback,0
+715,537,Get feedback,0
+716,540,Run tests,0
+717,541,Validate results,1
+718,541,Resolve issues,0
+719,541,Implement changes,1
+720,541,Document findings,1
+721,541,Gather information,0
+722,547,Validate results,0
+723,547,Gather information,0
+724,547,Implement changes,0
+725,549,Implement changes,1
+726,551,Check edge cases,0
+727,551,Resolve issues,0
+728,551,Validate results,0
+729,553,Get feedback,0
+730,553,Gather information,0
+731,553,Finalize task,0
+732,554,Draft initial version,0
+733,554,Document findings,0
+734,554,Finalize task,1
+735,554,Check edge cases,0
+736,554,Gather information,1
+737,556,Review details,0
+738,556,Implement changes,0
+739,557,Implement changes,0
+740,559,Resolve issues,1
+741,559,Review details,1
+742,560,Verify completion,0
+743,560,Implement changes,0
+744,560,Check edge cases,0
+745,560,Finalize task,0
+746,560,Check edge cases,1
+747,562,Document findings,0
+748,562,Review details,1
+749,562,Check edge cases,0
+750,564,Gather information,0
+751,564,Validate results,0
+752,564,Get feedback,0
+753,566,Draft initial version,1
+754,567,Gather information,0
+755,567,Get feedback,0
+756,567,Validate results,1
+757,567,Validate results,0
+758,568,Verify completion,0
+759,569,Check edge cases,0
+760,569,Finalize task,0
+761,571,Get feedback,1
+762,574,Get feedback,0
+763,575,Implement changes,1
+764,575,Implement changes,1
+765,575,Verify completion,1
+766,575,Finalize task,0
+767,576,Implement changes,0
+768,576,Document findings,0
+769,576,Get feedback,0
+770,579,Resolve issues,0
+771,579,Validate results,1
+772,579,Get feedback,0
+773,580,Review details,0
+774,580,Review details,0
+775,580,Check edge cases,0
+776,583,Draft initial version,0
+777,586,Verify completion,0
+778,586,Finalize task,0
+779,586,Get feedback,0
+780,586,Validate results,1
+781,589,Finalize task,0
+782,589,Check edge cases,1
+783,589,Review details,1
+784,592,Review details,0
+785,592,Draft initial version,0
+786,592,Finalize task,0
+787,593,Gather information,1
+788,593,Draft initial version,1
+789,593,Finalize task,0
+790,595,Implement changes,0
+791,597,Review details,0
+792,597,Verify completion,0
+793,598,Draft initial version,1
+794,598,Review details,0
+795,598,Check edge cases,1
+796,599,Get feedback,0
+797,599,Draft initial version,1
+798,601,Resolve issues,1
+799,601,Implement changes,1
+800,601,Finalize task,0
+801,603,Finalize task,0
+802,603,Validate results,0
+803,604,Document findings,0
+804,604,Gather information,0
+805,604,Resolve issues,1
+806,605,Validate results,0
+807,605,Gather information,0
+808,607,Verify completion,0
+809,608,Implement changes,0
+810,608,Verify completion,1
+811,612,Run tests,1
+812,615,Document findings,1
+813,615,Review details,0
+814,618,Resolve issues,1
+815,618,Check edge cases,1
+816,619,Gather information,0
+817,619,Document findings,0
+818,619,Document findings,1
+819,622,Resolve issues,1
+820,622,Validate results,1
+821,624,Finalize task,1
+822,625,Finalize task,1
+823,626,Check edge cases,0
+824,626,Validate results,0
+825,627,Review details,1
+826,627,Finalize task,1
+827,627,Review details,0
+828,629,Verify completion,1
+829,632,Validate results,0
+830,632,Verify completion,0
+831,632,Implement changes,0
+832,633,Validate results,0
+833,634,Validate results,0
+834,634,Validate results,0
+835,634,Document findings,0
+836,634,Check edge cases,0
+837,636,Document findings,1
+838,636,Check edge cases,0
+839,637,Run tests,1
+840,637,Resolve issues,0
+841,637,Run tests,1
+842,638,Review details,0
+843,638,Implement changes,0
+844,640,Document findings,1
+845,640,Implement changes,0
+846,641,Draft initial version,0
+847,641,Finalize task,0
+848,642,Run tests,0
+849,642,Get feedback,1
+850,646,Review details,1
+851,646,Document findings,0
+852,647,Implement changes,0
+853,647,Document findings,0
+854,647,Draft initial version,0
+855,648,Draft initial version,0
+856,648,Check edge cases,1
+857,648,Run tests,0
+858,648,Gather information,0
+859,649,Implement changes,0
+860,649,Draft initial version,1
+861,649,Verify completion,0
+862,654,Review details,0
+863,654,Resolve issues,0
+864,656,Verify completion,1
+865,656,Draft initial version,1
+866,657,Implement changes,0
+867,657,Get feedback,0
+868,657,Review details,0
+869,658,Validate results,1
+870,658,Run tests,0
+871,658,Verify completion,0
+872,664,Resolve issues,1
+873,664,Verify completion,0
+874,664,Finalize task,0
+875,667,Verify completion,0
+876,667,Document findings,1
+877,667,Run tests,1
+878,667,Run tests,0
+879,667,Document findings,1
+880,669,Implement changes,0
+881,669,Review details,0
+882,671,Draft initial version,0
+883,673,Validate results,0
+884,674,Implement changes,0
+885,674,Get feedback,1
+886,674,Review details,1
+887,677,Resolve issues,0
+888,677,Implement changes,0
+889,677,Review details,1
+890,678,Finalize task,1
+891,678,Finalize task,0
+892,678,Check edge cases,0
+893,679,Review details,0
+894,679,Verify completion,0
+895,680,Verify completion,0
+896,683,Draft initial version,0
+897,685,Implement changes,0
+898,692,Implement changes,0
+899,692,Implement changes,0
+900,693,Resolve issues,1
+901,693,Draft initial version,1
+902,693,Gather information,0
+903,696,Get feedback,0
+904,696,Validate results,1
+905,696,Get feedback,0
+906,698,Get feedback,0
+907,698,Resolve issues,0
+908,698,Get feedback,0
+909,699,Draft initial version,0
+910,699,Verify completion,0
+911,701,Resolve issues,0
+912,701,Check edge cases,1
+913,701,Resolve issues,0
+914,704,Review details,1
+915,704,Validate results,0
+916,704,Resolve issues,0
+917,705,Resolve issues,1
+918,707,Document findings,0
+919,707,Run tests,0
+920,708,Review details,1
+921,710,Implement changes,0
+922,710,Review details,1
+923,710,Resolve issues,1
+924,718,Validate results,0
+925,719,Verify completion,0
+926,719,Verify completion,0
+927,722,Implement changes,0
+928,722,Run tests,0
+929,722,Validate results,0
+930,722,Finalize task,0
+931,724,Gather information,0
+932,724,Review details,1
+933,724,Run tests,0
+934,724,Document findings,1
+935,725,Draft initial version,1
+936,725,Draft initial version,0
+937,727,Run tests,0
+938,727,Gather information,0
+939,727,Draft initial version,0
+940,731,Draft initial version,0
+941,731,Implement changes,0
+942,732,Run tests,1
+943,733,Gather information,0
+944,734,Resolve issues,0
+945,734,Validate results,1
+946,734,Gather information,0
+947,736,Get feedback,1
+948,737,Implement changes,0
+949,737,Get feedback,0
+950,737,Gather information,0
+951,740,Document findings,1
+952,743,Gather information,1
+953,743,Finalize task,0
+954,750,Gather information,0
+955,750,Draft initial version,0
+956,750,Validate results,0
+957,751,Resolve issues,0
+958,751,Resolve issues,1
+959,751,Check edge cases,1
+960,754,Verify completion,0
+961,761,Implement changes,1
+962,761,Implement changes,0
+963,761,Check edge cases,0
+964,763,Implement changes,0
+965,763,Get feedback,1
+966,765,Verify completion,0
+967,765,Document findings,1
+968,765,Finalize task,1
+969,767,Verify completion,1
+970,768,Get feedback,0
+971,772,Document findings,0
+972,775,Document findings,0
+973,778,Run tests,0
+974,783,Finalize task,0
+975,783,Run tests,1
+976,783,Get feedback,0
+977,783,Finalize task,0
+978,785,Get feedback,1
+979,785,Review details,0
+980,785,Get feedback,1
+981,786,Draft initial version,0
+982,786,Check edge cases,0
+983,786,Resolve issues,0
+984,792,Gather information,1
+985,792,Check edge cases,1
+986,794,Get feedback,0
+987,794,Finalize task,0
+988,795,Gather information,1
+989,795,Document findings,0
+990,796,Verify completion,0
+991,796,Resolve issues,0
+992,796,Run tests,0
+993,797,Check edge cases,0
+994,801,Check edge cases,0
+995,806,Implement changes,1
+996,806,Validate results,0
+997,806,Implement changes,0
+998,809,Gather information,0
+999,809,Resolve issues,0
+1000,817,Review details,0
+1001,817,Review details,0
+1002,817,Document findings,0
+1003,818,Finalize task,0
+1004,819,Finalize task,0
+1005,820,Finalize task,0
+1006,820,Validate results,0
+1007,821,Finalize task,0
+1008,821,Draft initial version,0
+1009,823,Check edge cases,0
+1010,827,Finalize task,1
+1011,828,Review details,0
+1012,828,Implement changes,0
+1013,828,Finalize task,0
+1014,828,Get feedback,0
+1015,831,Review details,1
+1016,831,Draft initial version,1
+1017,831,Verify completion,0
+1018,831,Run tests,0
+1019,831,Gather information,1
+1020,833,Review details,0
+1021,833,Get feedback,0
+1022,842,Run tests,0
+1023,842,Validate results,1
+1024,842,Run tests,0
+1025,844,Validate results,0
+1026,844,Review details,0
+1027,845,Document findings,0
+1028,846,Gather information,0
+1029,846,Review details,0
+1030,846,Run tests,1
+1031,847,Verify completion,0
+1032,851,Draft initial version,0
+1033,854,Resolve issues,0
+1034,854,Implement changes,0
+1035,854,Review details,0
+1036,856,Gather information,0
+1037,856,Get feedback,1
+1038,856,Draft initial version,0
+1039,857,Run tests,0
+1040,857,Document findings,1
+1041,857,Finalize task,1
+1042,858,Run tests,0
+1043,858,Gather information,0
+1044,858,Document findings,0
+1045,860,Resolve issues,1
+1046,860,Gather information,0
+1047,860,Resolve issues,1
+1048,862,Draft initial version,0
+1049,862,Implement changes,0
+1050,862,Document findings,1
+1051,865,Check edge cases,1
+1052,865,Validate results,1
+1053,865,Run tests,0
+1054,865,Finalize task,1
+1055,865,Validate results,1
+1056,868,Draft initial version,0
+1057,868,Check edge cases,0
+1058,868,Document findings,1
+1059,871,Review details,1
+1060,872,Run tests,0
+1061,872,Resolve issues,0
+1062,872,Get feedback,0
+1063,875,Implement changes,0
+1064,875,Finalize task,1
+1065,875,Resolve issues,0
+1066,876,Gather information,0
+1067,878,Implement changes,0
+1068,878,Document findings,0
+1069,878,Gather information,1
+1070,879,Review details,0
+1071,879,Validate results,0
+1072,885,Resolve issues,0
+1073,886,Review details,1
+1074,887,Implement changes,1
+1075,887,Resolve issues,0
+1076,891,Document findings,0
+1077,891,Validate results,0
+1078,894,Implement changes,1
+1079,895,Verify completion,0
+1080,899,Implement changes,0
+1081,902,Review details,0
+1082,902,Draft initial version,0
+1083,902,Gather information,1
+1084,903,Draft initial version,1
+1085,903,Draft initial version,0
+1086,903,Review details,1
+1087,904,Review details,1
+1088,905,Draft initial version,1
+1089,906,Check edge cases,0
+1090,906,Validate results,0
+1091,908,Finalize task,0
+1092,908,Review details,1
+1093,914,Finalize task,1
+1094,914,Finalize task,1
+1095,916,Implement changes,1
+1096,916,Verify completion,0
+1097,918,Resolve issues,1
+1098,918,Verify completion,0
+1099,919,Draft initial version,1
+1100,919,Finalize task,0
+1101,919,Verify completion,1
+1102,921,Implement changes,1
+1103,921,Document findings,0
+1104,921,Document findings,1
+1105,922,Document findings,0
+1106,922,Review details,0
+1107,925,Check edge cases,0
+1108,925,Implement changes,1
+1109,925,Draft initial version,1
+1110,926,Draft initial version,0
+1111,926,Validate results,1
+1112,926,Review details,1
+1113,929,Implement changes,1
+1114,929,Run tests,0
+1115,931,Check edge cases,0
+1116,931,Gather information,0
+1117,932,Implement changes,0
+1118,932,Verify completion,0
+1119,932,Resolve issues,0
+1120,933,Resolve issues,0
+1121,933,Resolve issues,0
+1122,934,Validate results,1
+1123,934,Get feedback,1
+1124,935,Run tests,0
+1125,935,Finalize task,0
+1126,935,Resolve issues,1
+1127,935,Run tests,1
+1128,936,Run tests,1
+1129,936,Implement changes,1
+1130,937,Verify completion,0
+1131,937,Resolve issues,0
+1132,938,Resolve issues,0
+1133,938,Check edge cases,0
+1134,938,Draft initial version,0
+1135,939,Draft initial version,0
+1136,939,Review details,0
+1137,939,Finalize task,0
+1138,939,Draft initial version,0
+1139,939,Document findings,0
+1140,940,Resolve issues,0
+1141,941,Validate results,0
+1142,941,Review details,0
+1143,941,Get feedback,1
+1144,942,Implement changes,1
+1145,942,Run tests,0
+1146,942,Check edge cases,0
+1147,943,Finalize task,1
+1148,944,Finalize task,0
+1149,946,Gather information,1
+1150,948,Review details,0
+1151,948,Gather information,0
+1152,949,Draft initial version,0
+1153,949,Get feedback,0
+1154,951,Draft initial version,1
+1155,952,Document findings,1
+1156,957,Finalize task,0
+1157,958,Draft initial version,1
+1158,961,Run tests,0
+1159,961,Verify completion,0
+1160,961,Implement changes,0
+1161,964,Draft initial version,0
+1162,968,Document findings,0
+1163,969,Check edge cases,1
+1164,969,Check edge cases,0
+1165,969,Resolve issues,1
+1166,970,Review details,0
+1167,970,Finalize task,0
+1168,970,Verify completion,1
+1169,974,Resolve issues,1
+1170,974,Get feedback,1
+1171,975,Finalize task,0
+1172,975,Validate results,0
+1173,975,Run tests,0
+1174,976,Validate results,0
+1175,976,Run tests,1
+1176,976,Draft initial version,0
+1177,978,Finalize task,1
+1178,978,Finalize task,1
+1179,980,Review details,0
+1180,980,Review details,0
+1181,984,Check edge cases,1
+1182,984,Implement changes,1
+1183,985,Get feedback,0
+1184,985,Document findings,0
+1185,987,Run tests,0
+1186,987,Document findings,0
+1187,998,Review details,0
+1188,998,Get feedback,1
+1189,999,Verify completion,1
+1190,1000,Verify completion,0
+1191,1000,Run tests,0
+1192,1003,Resolve issues,1
+1193,1003,Document findings,1
+1194,1011,Implement changes,1
+1195,1018,Review details,1
+1196,1018,Implement changes,0
+1197,1020,Validate results,1
+1198,1021,Check edge cases,0
+1199,1021,Implement changes,0
+1200,1022,Gather information,0
+1201,1022,Document findings,0
+1202,1023,Verify completion,0
+1203,1023,Run tests,0
+1204,1025,Get feedback,1
+1205,1025,Implement changes,0
+1206,1025,Get feedback,1
+1207,1026,Gather information,1
+1208,1030,Implement changes,0
+1209,1030,Finalize task,0
+1210,1031,Gather information,0
+1211,1031,Review details,0
+1212,1031,Resolve issues,0
+1213,1032,Check edge cases,0
+1214,1032,Validate results,0
+1215,1032,Gather information,1
+1216,1032,Document findings,0
+1217,1037,Gather information,0
+1218,1037,Resolve issues,0
+1219,1037,Document findings,0
+1220,1040,Verify completion,0
+1221,1042,Review details,0
+1222,1042,Validate results,0
+1223,1042,Implement changes,1
+1224,1043,Check edge cases,0
+1225,1043,Validate results,1
+1226,1043,Review details,1
+1227,1043,Verify completion,0
+1228,1043,Implement changes,0
+1229,1044,Resolve issues,0
+1230,1044,Verify completion,1
+1231,1044,Document findings,1
+1232,1046,Run tests,1
+1233,1046,Document findings,0
+1234,1046,Implement changes,0
+1235,1046,Run tests,1
+1236,1047,Check edge cases,1
+1237,1047,Check edge cases,0
+1238,1049,Validate results,0
+1239,1051,Gather information,0
+1240,1051,Verify completion,1
+1241,1051,Get feedback,0
+1242,1052,Draft initial version,0
+1243,1052,Draft initial version,0
+1244,1052,Resolve issues,0
+1245,1054,Gather information,0
+1246,1054,Validate results,1
+1247,1054,Finalize task,0
+1248,1055,Draft initial version,0
+1249,1055,Finalize task,1
+1250,1056,Document findings,0
+1251,1056,Document findings,0
+1252,1057,Review details,0
+1253,1058,Validate results,0
+1254,1059,Draft initial version,1
+1255,1059,Draft initial version,0
+1256,1063,Check edge cases,0
+1257,1063,Draft initial version,1
+1258,1063,Run tests,1
+1259,1063,Draft initial version,0
+1260,1064,Validate results,1
+1261,1068,Get feedback,0
+1262,1072,Resolve issues,0
+1263,1072,Resolve issues,1
+1264,1072,Finalize task,1
+1265,1072,Document findings,1
+1266,1075,Review details,1
+1267,1075,Document findings,0
+1268,1075,Resolve issues,0
+1269,1075,Validate results,0
+1270,1075,Gather information,1
+1271,1076,Run tests,0
+1272,1076,Finalize task,1
+1273,1076,Validate results,0
+1274,1076,Check edge cases,0
+1275,1076,Resolve issues,1
+1276,1078,Validate results,0
+1277,1078,Document findings,1
+1278,1083,Run tests,0
+1279,1083,Draft initial version,1
+1280,1083,Finalize task,1
+1281,1084,Run tests,0
+1282,1084,Review details,0
+1283,1085,Gather information,1
+1284,1085,Get feedback,0
+1285,1085,Document findings,0
+1286,1086,Document findings,1
+1287,1086,Document findings,0
+1288,1089,Get feedback,0
+1289,1090,Implement changes,1
+1290,1090,Implement changes,0
+1291,1090,Get feedback,1
+1292,1094,Implement changes,0
+1293,1094,Get feedback,0
+1294,1095,Document findings,0
+1295,1095,Verify completion,0
+1296,1095,Document findings,0
+1297,1096,Verify completion,0
+1298,1101,Resolve issues,0
+1299,1102,Implement changes,0
+1300,1102,Review details,0
+1301,1102,Validate results,1
+1302,1102,Implement changes,0
+1303,1105,Check edge cases,0
+1304,1108,Check edge cases,0
+1305,1108,Validate results,1
+1306,1109,Run tests,0
+1307,1109,Review details,0
+1308,1110,Implement changes,0
+1309,1111,Review details,1
+1310,1111,Resolve issues,0
+1311,1112,Verify completion,0
+1312,1112,Resolve issues,0
+1313,1112,Draft initial version,1
+1314,1115,Verify completion,1
+1315,1115,Get feedback,0
+1316,1116,Verify completion,1
+1317,1116,Review details,1
+1318,1116,Validate results,0
+1319,1118,Gather information,0
+1320,1119,Verify completion,0
+1321,1119,Validate results,1
+1322,1119,Implement changes,0
+1323,1119,Check edge cases,0
+1324,1119,Run tests,1
+1325,1120,Finalize task,0
+1326,1120,Implement changes,0
+1327,1124,Check edge cases,1
+1328,1124,Draft initial version,1
+1329,1124,Check edge cases,0
+1330,1124,Verify completion,0
+1331,1124,Finalize task,0
+1332,1125,Implement changes,0
+1333,1126,Resolve issues,1
+1334,1127,Document findings,0
+1335,1127,Get feedback,1
+1336,1127,Resolve issues,1
+1337,1131,Implement changes,0
+1338,1132,Implement changes,0
+1339,1132,Get feedback,0
+1340,1134,Implement changes,0
+1341,1134,Review details,0
+1342,1136,Check edge cases,0
+1343,1136,Review details,0
+1344,1136,Run tests,1
+1345,1136,Get feedback,0
+1346,1136,Implement changes,0
+1347,1137,Run tests,1
+1348,1137,Run tests,0
+1349,1137,Run tests,1
+1350,1139,Implement changes,0
+1351,1139,Get feedback,0
+1352,1139,Resolve issues,0
+1353,1143,Gather information,1
+1354,1143,Run tests,0
+1355,1144,Finalize task,0
+1356,1144,Run tests,1
+1357,1147,Draft initial version,0
+1358,1148,Run tests,0
+1359,1150,Verify completion,0
+1360,1150,Implement changes,0
+1361,1150,Resolve issues,1
+1362,1157,Document findings,0
+1363,1157,Validate results,1
+1364,1157,Gather information,1
+1365,1157,Resolve issues,0
+1366,1157,Finalize task,0
+1367,1158,Draft initial version,0
+1368,1158,Draft initial version,1
+1369,1158,Check edge cases,1
+1370,1160,Finalize task,0
+1371,1160,Validate results,0
+1372,1161,Implement changes,0
+1373,1161,Gather information,1
+1374,1165,Review details,0
+1375,1165,Check edge cases,0
+1376,1166,Validate results,0
+1377,1168,Document findings,0
+1378,1168,Finalize task,0
+1379,1168,Get feedback,0
+1380,1170,Get feedback,0
+1381,1170,Draft initial version,0
+1382,1170,Check edge cases,0
+1383,1171,Gather information,0
+1384,1171,Resolve issues,0
+1385,1171,Draft initial version,0
+1386,1172,Resolve issues,0
+1387,1173,Draft initial version,0
+1388,1173,Resolve issues,1
+1389,1174,Gather information,0
+1390,1176,Validate results,1
+1391,1176,Check edge cases,1
+1392,1180,Run tests,1
+1393,1181,Review details,1
+1394,1181,Gather information,0
+1395,1181,Resolve issues,0
+1396,1181,Finalize task,0
+1397,1181,Get feedback,0
+1398,1186,Verify completion,0
+1399,1187,Finalize task,0
+1400,1187,Check edge cases,0
+1401,1187,Review details,0
+1402,1188,Resolve issues,0
+1403,1189,Review details,1
+1404,1190,Gather information,1
+1405,1191,Run tests,0
+1406,1191,Check edge cases,0
+1407,1194,Review details,0
+1408,1194,Resolve issues,0
+1409,1194,Document findings,0
+1410,1194,Check edge cases,0
+1411,1194,Get feedback,0
+1412,1196,Run tests,0
+1413,1197,Document findings,1
+1414,1197,Finalize task,0
+1415,1198,Get feedback,1
+1416,1198,Gather information,0
+1417,1199,Implement changes,1
+1418,1199,Implement changes,0
+1419,1201,Draft initial version,0
+1420,1201,Review details,0
+1421,1201,Gather information,0
+1422,1201,Check edge cases,1
+1423,1203,Resolve issues,0
+1424,1203,Draft initial version,0
+1425,1203,Run tests,0
+1426,1205,Document findings,0
+1427,1205,Verify completion,0
+1428,1206,Finalize task,0
+1429,1209,Finalize task,1
+1430,1209,Implement changes,0
+1431,1211,Verify completion,0
+1432,1212,Draft initial version,0
+1433,1212,Review details,0
+1434,1215,Document findings,1
+1435,1215,Finalize task,0
+1436,1216,Verify completion,0
+1437,1216,Review details,1
+1438,1216,Draft initial version,0
+1439,1216,Get feedback,1
+1440,1217,Document findings,0
+1441,1217,Review details,0
+1442,1217,Document findings,1
+1443,1219,Document findings,0
+1444,1219,Review details,0
+1445,1221,Get feedback,0
+1446,1221,Implement changes,0
+1447,1224,Review details,0
+1448,1224,Review details,0
+1449,1225,Gather information,0
+1450,1225,Get feedback,0
+1451,1228,Get feedback,0
+1452,1229,Verify completion,0
+1453,1229,Finalize task,0
+1454,1229,Document findings,0
+1455,1234,Finalize task,0
+1456,1234,Review details,0
+1457,1234,Validate results,1
+1458,1234,Finalize task,0
+1459,1239,Resolve issues,0
+1460,1242,Document findings,0
+1461,1242,Review details,0
+1462,1243,Get feedback,0
+1463,1244,Document findings,0
+1464,1244,Review details,1
+1465,1244,Document findings,0
+1466,1244,Resolve issues,0
+1467,1246,Get feedback,0
+1468,1249,Check edge cases,0
+1469,1249,Resolve issues,1
+1470,1249,Implement changes,0
+1471,1252,Gather information,0
+1472,1252,Finalize task,0
+1473,1252,Document findings,0
+1474,1252,Document findings,1
+1475,1252,Document findings,1
+1476,1253,Get feedback,0
+1477,1253,Validate results,0
+1478,1253,Finalize task,0
+1479,1253,Get feedback,1
+1480,1254,Check edge cases,0
+1481,1254,Validate results,1
+1482,1257,Finalize task,0
+1483,1258,Verify completion,0
+1484,1258,Implement changes,0
+1485,1259,Run tests,0
+1486,1259,Document findings,0
+1487,1262,Resolve issues,1
+1488,1262,Implement changes,0
+1489,1262,Gather information,0
+1490,1262,Gather information,0
+1491,1263,Gather information,0
+1492,1263,Document findings,0
+1493,1265,Run tests,0
+1494,1268,Review details,1
+1495,1269,Check edge cases,0
+1496,1269,Validate results,1
+1497,1269,Resolve issues,1
+1498,1269,Document findings,0
+1499,1271,Verify completion,0
+1500,1271,Document findings,0
+1501,1271,Document findings,0
+1502,1273,Finalize task,0
+1503,1273,Run tests,0
+1504,1273,Verify completion,0
+1505,1274,Finalize task,0
+1506,1274,Validate results,0
+1507,1275,Validate results,0
+1508,1275,Get feedback,0
+1509,1275,Review details,1
+1510,1281,Validate results,1
+1511,1282,Verify completion,0
+1512,1285,Draft initial version,0
+1513,1286,Implement changes,1
+1514,1286,Implement changes,0
+1515,1286,Validate results,0
+1516,1292,Implement changes,0
+1517,1292,Finalize task,1
+1518,1294,Get feedback,1
+1519,1294,Check edge cases,1
+1520,1296,Gather information,1
+1521,1296,Resolve issues,0
+1522,1297,Validate results,0
+1523,1298,Run tests,0
+1524,1298,Verify completion,1
+1525,1301,Finalize task,0
+1526,1301,Run tests,0
+1527,1303,Review details,1
+1528,1303,Get feedback,0
+1529,1307,Gather information,0
+1530,1307,Run tests,0
+1531,1307,Finalize task,1
+1532,1310,Finalize task,0
+1533,1310,Get feedback,0
+1534,1310,Validate results,0
+1535,1313,Verify completion,1
+1536,1313,Verify completion,0
+1537,1314,Gather information,1
+1538,1314,Resolve issues,0
+1539,1314,Resolve issues,0
+1540,1315,Resolve issues,0
+1541,1316,Review details,1
+1542,1319,Check edge cases,0
+1543,1319,Document findings,0
+1544,1320,Check edge cases,0
+1545,1320,Implement changes,0
+1546,1320,Finalize task,0
+1547,1325,Gather information,1
+1548,1326,Get feedback,0
+1549,1326,Validate results,1
+1550,1326,Validate results,1
+1551,1329,Run tests,0
+1552,1329,Draft initial version,0
+1553,1329,Review details,0
+1554,1330,Document findings,0
+1555,1330,Implement changes,0
+1556,1330,Resolve issues,0
+1557,1330,Finalize task,1
+1558,1330,Draft initial version,0
+1559,1333,Verify completion,1
+1560,1333,Validate results,1
+1561,1336,Implement changes,0
+1562,1336,Document findings,1
+1563,1336,Implement changes,0
+1564,1336,Verify completion,1
+1565,1336,Review details,0
+1566,1339,Verify completion,0
+1567,1339,Document findings,0
+1568,1339,Run tests,0
+1569,1344,Review details,0
+1570,1344,Gather information,0
+1571,1345,Finalize task,0
+1572,1345,Finalize task,1
+1573,1345,Review details,1
+1574,1347,Check edge cases,1
+1575,1347,Draft initial version,0
+1576,1347,Check edge cases,1
+1577,1348,Verify completion,0
+1578,1349,Run tests,0
+1579,1349,Document findings,1
+1580,1351,Resolve issues,1
+1581,1352,Review details,1
+1582,1352,Draft initial version,0
+1583,1352,Finalize task,0
+1584,1354,Gather information,1
+1585,1354,Draft initial version,0
+1586,1354,Draft initial version,0
+1587,1359,Review details,0
+1588,1359,Check edge cases,0
+1589,1359,Review details,0
+1590,1361,Validate results,1
+1591,1361,Document findings,0
+1592,1361,Check edge cases,0
+1593,1367,Verify completion,0
+1594,1369,Draft initial version,0
+1595,1372,Verify completion,0
+1596,1372,Get feedback,0
+1597,1373,Get feedback,0
+1598,1373,Validate results,0
+1599,1373,Resolve issues,0
+1600,1373,Get feedback,0
+1601,1374,Validate results,0
+1602,1374,Validate results,0
+1603,1374,Review details,1
+1604,1375,Validate results,1
+1605,1375,Resolve issues,0
+1606,1376,Finalize task,1
+1607,1376,Validate results,0
+1608,1376,Validate results,1
+1609,1379,Gather information,0
+1610,1379,Get feedback,0
+1611,1381,Run tests,0
+1612,1381,Get feedback,1
+1613,1381,Check edge cases,0
+1614,1383,Implement changes,0
+1615,1383,Run tests,0
+1616,1383,Verify completion,0
+1617,1384,Run tests,0
+1618,1384,Run tests,0
+1619,1384,Draft initial version,0
+1620,1387,Get feedback,0
+1621,1387,Get feedback,0
+1622,1388,Implement changes,0
+1623,1388,Verify completion,0
+1624,1389,Resolve issues,0
+1625,1389,Validate results,0
+1626,1393,Gather information,0
+1627,1393,Resolve issues,1
+1628,1394,Gather information,1
+1629,1394,Document findings,1
+1630,1394,Draft initial version,1
+1631,1394,Validate results,1
+1632,1395,Resolve issues,1
+1633,1397,Get feedback,1
+1634,1399,Implement changes,0
+1635,1400,Validate results,1
+1636,1401,Draft initial version,1
+1637,1401,Run tests,1
+1638,1401,Run tests,0
+1639,1403,Draft initial version,1
+1640,1403,Run tests,0
+1641,1404,Get feedback,0
+1642,1404,Gather information,0
+1643,1405,Draft initial version,1
+1644,1405,Gather information,0
+1645,1405,Implement changes,0
+1646,1406,Verify completion,0
+1647,1406,Review details,1
+1648,1406,Document findings,0
+1649,1407,Run tests,0
+1650,1407,Draft initial version,0
+1651,1407,Run tests,1
+1652,1408,Finalize task,0
+1653,1410,Gather information,0
+1654,1410,Validate results,0
+1655,1413,Resolve issues,0
+1656,1413,Implement changes,0
+1657,1416,Validate results,0
+1658,1416,Implement changes,0
+1659,1416,Implement changes,0
+1660,1417,Resolve issues,1
+1661,1417,Review details,0
+1662,1417,Document findings,0
+1663,1422,Finalize task,0
+1664,1422,Validate results,0
+1665,1425,Run tests,1
+1666,1426,Validate results,0
+1667,1427,Gather information,0
+1668,1427,Gather information,0
+1669,1427,Check edge cases,0
+1670,1427,Gather information,0
+1671,1427,Gather information,0
+1672,1431,Implement changes,1
+1673,1432,Document findings,1
+1674,1432,Implement changes,1
+1675,1433,Validate results,1
+1676,1434,Implement changes,0
+1677,1434,Finalize task,0
+1678,1434,Review details,1
+1679,1435,Verify completion,0
+1680,1435,Validate results,1
+1681,1439,Check edge cases,0
+1682,1439,Gather information,0
+1683,1439,Resolve issues,1
+1684,1443,Verify completion,0
+1685,1443,Review details,1
+1686,1443,Run tests,0
+1687,1443,Gather information,1
+1688,1443,Finalize task,1
+1689,1444,Document findings,0
+1690,1444,Verify completion,0
+1691,1448,Resolve issues,0
+1692,1448,Check edge cases,0
+1693,1453,Document findings,0
+1694,1453,Implement changes,1
+1695,1453,Document findings,0
+1696,1454,Run tests,1
+1697,1454,Document findings,0
+1698,1457,Verify completion,0
+1699,1457,Resolve issues,0
+1700,1457,Implement changes,0
+1701,1459,Check edge cases,0
+1702,1459,Finalize task,0
+1703,1460,Document findings,0
+1704,1462,Implement changes,1
+1705,1462,Check edge cases,0
+1706,1462,Document findings,1
+1707,1462,Finalize task,1
+1708,1465,Draft initial version,0
+1709,1465,Get feedback,1
+1710,1465,Resolve issues,1
+1711,1466,Check edge cases,1
+1712,1467,Draft initial version,0
+1713,1467,Check edge cases,0
+1714,1470,Finalize task,1
+1715,1470,Run tests,0
+1716,1470,Validate results,1
+1717,1472,Review details,1
+1718,1472,Finalize task,1
+1719,1473,Document findings,0
+1720,1473,Draft initial version,1
+1721,1473,Run tests,1
+1722,1473,Get feedback,0
+1723,1474,Verify completion,1
+1724,1474,Verify completion,0
+1725,1474,Resolve issues,1
+1726,1474,Run tests,1
+1727,1478,Draft initial version,1
+1728,1478,Validate results,1
+1729,1482,Resolve issues,0
+1730,1483,Check edge cases,0
+1731,1483,Draft initial version,1
+1732,1483,Verify completion,1
+1733,1487,Gather information,0
+1734,1487,Draft initial version,0
+1735,1487,Verify completion,1
+1736,1489,Implement changes,1
+1737,1489,Validate results,1
+1738,1490,Check edge cases,0
+1739,1490,Validate results,0
+1740,1490,Finalize task,0
+1741,1493,Review details,0
+1742,1493,Document findings,1
+1743,1493,Validate results,0
+1744,1498,Document findings,0
+1745,1498,Document findings,1
+1746,1501,Gather information,0
+1747,1501,Resolve issues,0
+1748,1501,Draft initial version,0
+1749,1501,Implement changes,0
+1750,1501,Implement changes,1
+1751,1502,Get feedback,1
+1752,1504,Gather information,0
+1753,1504,Finalize task,0
+1754,1506,Gather information,0
+1755,1506,Review details,0
+1756,1506,Review details,0
+1757,1507,Review details,0
+1758,1507,Document findings,0
+1759,1507,Verify completion,0
+1760,1507,Resolve issues,0
+1761,1507,Implement changes,0
+1762,1509,Document findings,0
+1763,1509,Run tests,1
+1764,1510,Verify completion,0
+1765,1511,Implement changes,1
+1766,1513,Document findings,1
+1767,1513,Review details,0
+1768,1513,Verify completion,1
+1769,1515,Review details,1
+1770,1516,Verify completion,0
+1771,1516,Check edge cases,0
+1772,1516,Check edge cases,0
+1773,1520,Finalize task,1
+1774,1520,Resolve issues,1
+1775,1523,Resolve issues,1
+1776,1523,Check edge cases,0
+1777,1523,Finalize task,0
+1778,1524,Run tests,1
+1779,1526,Verify completion,0
+1780,1526,Review details,1
+1781,1526,Gather information,0
+1782,1534,Run tests,1
+1783,1536,Finalize task,0
+1784,1536,Draft initial version,0
+1785,1537,Validate results,0
+1786,1538,Run tests,1
+1787,1540,Document findings,0
+1788,1540,Get feedback,0
+1789,1541,Review details,0
+1790,1541,Implement changes,0
+1791,1541,Review details,0
+1792,1544,Run tests,0
+1793,1544,Run tests,0
+1794,1544,Run tests,0
+1795,1546,Finalize task,0
+1796,1546,Implement changes,0
+1797,1547,Run tests,0
+1798,1547,Verify completion,1
+1799,1547,Get feedback,0
+1800,1549,Document findings,0
+1801,1549,Resolve issues,1
+1802,1550,Check edge cases,1
+1803,1550,Run tests,0
+1804,1550,Check edge cases,1
+1805,1550,Validate results,0
+1806,1551,Get feedback,0
+1807,1551,Document findings,1
+1808,1553,Draft initial version,1
+1809,1557,Resolve issues,0
+1810,1557,Implement changes,1
+1811,1557,Get feedback,0
+1812,1558,Verify completion,1
+1813,1560,Implement changes,0
+1814,1560,Finalize task,1
+1815,1563,Verify completion,0
+1816,1564,Get feedback,0
+1817,1566,Draft initial version,1
+1818,1567,Run tests,1
+1819,1567,Draft initial version,0
+1820,1569,Gather information,1
+1821,1569,Draft initial version,0
+1822,1569,Validate results,0
+1823,1571,Finalize task,1
+1824,1571,Check edge cases,0
+1825,1571,Draft initial version,1
+1826,1571,Implement changes,0
+1827,1573,Check edge cases,1
+1828,1573,Review details,1
+1829,1580,Check edge cases,0
+1830,1582,Run tests,0
+1831,1582,Document findings,0
+1832,1582,Run tests,0
+1833,1585,Gather information,0
+1834,1585,Review details,1
+1835,1585,Resolve issues,0
+1836,1585,Get feedback,1
+1837,1585,Resolve issues,0
+1838,1586,Implement changes,0
+1839,1588,Check edge cases,0
+1840,1588,Get feedback,0
+1841,1591,Document findings,0
+1842,1591,Implement changes,0
+1843,1591,Resolve issues,0
+1844,1591,Gather information,0
+1845,1593,Validate results,1
+1846,1594,Implement changes,1
+1847,1594,Validate results,0
+1848,1594,Run tests,0
+1849,1595,Implement changes,0
+1850,1595,Validate results,0
+1851,1597,Document findings,0
+1852,1597,Run tests,0
+1853,1597,Document findings,0
+1854,1597,Gather information,0
+1855,1597,Implement changes,1
+1856,1598,Implement changes,0
+1857,1598,Check edge cases,0
+1858,1598,Get feedback,0
+1859,1599,Validate results,1
+1860,1599,Review details,1
+1861,1599,Run tests,0
+1862,1601,Implement changes,0
+1863,1601,Run tests,1
+1864,1601,Draft initial version,0
+1865,1603,Document findings,1
+1866,1606,Gather information,0
+1867,1606,Document findings,0
+1868,1608,Run tests,0
+1869,1608,Validate results,1
+1870,1609,Gather information,0
+1871,1609,Check edge cases,1
+1872,1609,Get feedback,0
+1873,1610,Document findings,1
+1874,1611,Document findings,0
+1875,1611,Verify completion,0
+1876,1612,Validate results,1
+1877,1614,Review details,0
+1878,1615,Validate results,1
+1879,1623,Gather information,0
+1880,1623,Get feedback,0
+1881,1625,Check edge cases,0
+1882,1625,Gather information,1
+1883,1625,Validate results,0
+1884,1626,Gather information,0
+1885,1626,Finalize task,0
+1886,1627,Check edge cases,0
+1887,1627,Implement changes,1
+1888,1627,Check edge cases,1
+1889,1628,Run tests,1
+1890,1629,Finalize task,0
+1891,1629,Review details,0
+1892,1629,Resolve issues,1
+1893,1630,Validate results,0
+1894,1630,Draft initial version,0
+1895,1630,Gather information,1
+1896,1631,Review details,0
+1897,1631,Draft initial version,0
+1898,1631,Draft initial version,0
+1899,1632,Finalize task,0
+1900,1632,Get feedback,0
+1901,1632,Finalize task,1
+1902,1634,Gather information,1
+1903,1634,Gather information,0
+1904,1636,Finalize task,1
+1905,1636,Draft initial version,1
+1906,1636,Implement changes,0
+1907,1637,Gather information,1
+1908,1638,Implement changes,0
+1909,1639,Validate results,1
+1910,1639,Resolve issues,0
+1911,1640,Validate results,1
+1912,1640,Gather information,0
+1913,1642,Get feedback,1
+1914,1642,Document findings,0
+1915,1642,Validate results,1
+1916,1646,Document findings,0
+1917,1647,Review details,1
+1918,1647,Gather information,1
+1919,1649,Implement changes,1
+1920,1649,Validate results,0
+1921,1651,Document findings,0
+1922,1651,Draft initial version,0
+1923,1651,Check edge cases,0
+1924,1651,Review details,0
+1925,1651,Validate results,1
+1926,1653,Check edge cases,0
+1927,1653,Document findings,1
+1928,1654,Draft initial version,1
+1929,1654,Review details,0
+1930,1656,Get feedback,1
+1931,1656,Resolve issues,1
+1932,1656,Verify completion,0
+1933,1656,Check edge cases,0
+1934,1656,Document findings,1
+1935,1657,Document findings,0
+1936,1658,Gather information,1
+1937,1658,Check edge cases,0
+1938,1658,Document findings,0
+1939,1659,Implement changes,0
+1940,1659,Finalize task,0
+1941,1659,Validate results,1
+1942,1661,Run tests,0
+1943,1665,Implement changes,0
+1944,1665,Draft initial version,0
+1945,1665,Verify completion,0
+1946,1666,Check edge cases,0
+1947,1671,Resolve issues,1
+1948,1671,Validate results,0
+1949,1671,Resolve issues,0
+1950,1674,Resolve issues,0
+1951,1676,Review details,0
+1952,1676,Gather information,0
+1953,1680,Verify completion,0
+1954,1680,Run tests,0
+1955,1681,Get feedback,0
+1956,1681,Implement changes,1
+1957,1685,Draft initial version,1
+1958,1685,Verify completion,1
+1959,1685,Validate results,1
+1960,1685,Implement changes,1
+1961,1685,Document findings,0
+1962,1686,Review details,1
+1963,1686,Gather information,0
+1964,1686,Review details,0
+1965,1686,Verify completion,0
+1966,1686,Document findings,0
+1967,1688,Get feedback,0
+1968,1688,Implement changes,0
+1969,1688,Implement changes,0
+1970,1688,Review details,1
+1971,1691,Check edge cases,0
+1972,1694,Resolve issues,1
+1973,1694,Draft initial version,0
+1974,1697,Draft initial version,1
+1975,1697,Validate results,0
+1976,1699,Verify completion,0
+1977,1699,Verify completion,1
+1978,1699,Validate results,0
+1979,1699,Run tests,0
+1980,1700,Run tests,0
+1981,1700,Run tests,1
+1982,1701,Resolve issues,1
+1983,1702,Gather information,0
+1984,1702,Gather information,0
+1985,1703,Validate results,0
+1986,1703,Verify completion,0
+1987,1704,Check edge cases,1
+1988,1704,Gather information,0
+1989,1704,Document findings,1
+1990,1707,Implement changes,0
+1991,1708,Gather information,0
+1992,1708,Run tests,0
+1993,1708,Validate results,1
+1994,1709,Validate results,0
+1995,1711,Run tests,0
+1996,1713,Implement changes,0
+1997,1713,Validate results,0
+1998,1713,Draft initial version,0
+1999,1715,Validate results,0
+2000,1715,Finalize task,1
+2001,1715,Implement changes,0
+2002,1715,Run tests,0
+2003,1716,Document findings,1
+2004,1717,Check edge cases,0
+2005,1718,Get feedback,0
+2006,1719,Finalize task,0
+2007,1719,Run tests,1
+2008,1719,Review details,0
+2009,1720,Resolve issues,1
+2010,1722,Document findings,0
+2011,1722,Run tests,0
+2012,1724,Resolve issues,0
+2013,1724,Resolve issues,0
+2014,1725,Verify completion,0
+2015,1725,Draft initial version,0
+2016,1725,Draft initial version,1
+2017,1726,Implement changes,0
+2018,1726,Finalize task,0
+2019,1727,Check edge cases,0
+2020,1727,Check edge cases,0
+2021,1728,Verify completion,0
+2022,1728,Gather information,0
+2023,1728,Implement changes,0
+2024,1728,Gather information,0
+2025,1729,Check edge cases,0
+2026,1729,Get feedback,1
+2027,1729,Document findings,0
+2028,1729,Check edge cases,0
+2029,1729,Get feedback,0
+2030,1730,Review details,0
+2031,1730,Get feedback,0
+2032,1730,Finalize task,0
+2033,1733,Resolve issues,0
+2034,1733,Verify completion,1
+2035,1736,Resolve issues,0
+2036,1736,Verify completion,0
+2037,1737,Review details,0
+2038,1741,Gather information,0
+2039,1742,Get feedback,0
+2040,1742,Finalize task,1
+2041,1744,Draft initial version,0
+2042,1744,Get feedback,0
+2043,1744,Validate results,0
+2044,1749,Get feedback,0
+2045,1749,Gather information,0
+2046,1749,Validate results,0
+2047,1751,Document findings,0
+2048,1751,Implement changes,0
+2049,1753,Review details,1
+2050,1753,Get feedback,0
+2051,1754,Implement changes,1
+2052,1754,Get feedback,0
+2053,1754,Verify completion,1
+2054,1757,Run tests,1
+2055,1757,Run tests,1
+2056,1759,Review details,0
+2057,1759,Get feedback,0
+2058,1759,Review details,0
+2059,1760,Verify completion,1
+2060,1760,Finalize task,1
+2061,1761,Verify completion,0
+2062,1761,Get feedback,0
+2063,1761,Resolve issues,1
+2064,1762,Verify completion,0
+2065,1762,Gather information,0
+2066,1765,Check edge cases,1
+2067,1765,Gather information,0
+2068,1765,Draft initial version,1
+2069,1765,Validate results,0
+2070,1766,Run tests,0
+2071,1766,Implement changes,0
+2072,1767,Implement changes,0
+2073,1767,Run tests,0
+2074,1767,Review details,0
+2075,1767,Resolve issues,0
+2076,1767,Finalize task,0
+2077,1768,Document findings,0
+2078,1768,Draft initial version,0
+2079,1768,Implement changes,0
+2080,1769,Finalize task,0
+2081,1770,Verify completion,0
+2082,1770,Check edge cases,1
+2083,1770,Resolve issues,0
+2084,1771,Draft initial version,0
+2085,1771,Review details,0
+2086,1772,Document findings,1
+2087,1772,Check edge cases,0
+2088,1773,Validate results,0
+2089,1773,Get feedback,0
+2090,1773,Run tests,1
+2091,1775,Check edge cases,1
+2092,1775,Draft initial version,1
+2093,1778,Document findings,1
+2094,1779,Verify completion,0
+2095,1779,Get feedback,0
+2096,1779,Gather information,1
+2097,1787,Review details,0
+2098,1787,Review details,0
+2099,1789,Run tests,0
+2100,1791,Gather information,0
+2101,1791,Get feedback,0
+2102,1791,Run tests,0
+2103,1792,Implement changes,0
+2104,1793,Document findings,0
+2105,1793,Implement changes,0
+2106,1794,Verify completion,1
+2107,1794,Verify completion,0
+2108,1794,Finalize task,0
+2109,1796,Run tests,1
+2110,1796,Review details,1
+2111,1798,Document findings,0
+2112,1799,Finalize task,0
+2113,1799,Document findings,1
+2114,1799,Check edge cases,0
+2115,1804,Finalize task,0
+2116,1804,Run tests,1
+2117,1804,Document findings,0
+2118,1804,Get feedback,1
+2119,1804,Gather information,0
+2120,1808,Review details,0
+2121,1808,Implement changes,0
+2122,1808,Resolve issues,0
+2123,1809,Validate results,0
+2124,1809,Document findings,1
+2125,1809,Resolve issues,0
+2126,1811,Finalize task,0
+2127,1811,Document findings,1
+2128,1811,Resolve issues,0
+2129,1811,Run tests,0
+2130,1814,Draft initial version,0
+2131,1814,Review details,1
+2132,1814,Validate results,0
+2133,1814,Get feedback,0
+2134,1816,Validate results,0
+2135,1817,Document findings,1
+2136,1817,Finalize task,0
+2137,1817,Draft initial version,0
+2138,1818,Implement changes,1
+2139,1818,Run tests,0
+2140,1818,Gather information,0
+2141,1820,Draft initial version,0
+2142,1820,Verify completion,1
+2143,1821,Document findings,0
+2144,1821,Validate results,0
+2145,1821,Review details,1
+2146,1822,Resolve issues,0
+2147,1822,Draft initial version,1
+2148,1822,Document findings,0
+2149,1825,Review details,0
+2150,1825,Validate results,1
+2151,1825,Gather information,1
+2152,1826,Verify completion,0
+2153,1828,Gather information,1
+2154,1828,Resolve issues,0
+2155,1828,Verify completion,0
+2156,1828,Verify completion,0
+2157,1829,Resolve issues,1
+2158,1829,Review details,0
+2159,1831,Resolve issues,0
+2160,1831,Resolve issues,0
+2161,1831,Resolve issues,0
+2162,1831,Check edge cases,0
+2163,1833,Implement changes,0
+2164,1833,Gather information,1
+2165,1835,Gather information,0
+2166,1835,Implement changes,1
+2167,1835,Verify completion,1
+2168,1837,Draft initial version,1
+2169,1844,Implement changes,0
+2170,1844,Run tests,1
+2171,1844,Verify completion,1
+2172,1844,Run tests,1
+2173,1845,Get feedback,1
+2174,1847,Implement changes,0
+2175,1849,Implement changes,0
+2176,1849,Run tests,0
+2177,1851,Draft initial version,0
+2178,1851,Document findings,0
+2179,1851,Get feedback,0
+2180,1852,Run tests,0
+2181,1853,Review details,0
+2182,1853,Validate results,1
+2183,1854,Review details,0
+2184,1855,Check edge cases,0
+2185,1855,Verify completion,1
+2186,1855,Finalize task,1
+2187,1856,Document findings,0
+2188,1857,Validate results,0
+2189,1857,Implement changes,1
+2190,1857,Finalize task,0
+2191,1858,Gather information,0
+2192,1858,Gather information,0
+2193,1863,Finalize task,0
+2194,1863,Document findings,0
+2195,1864,Run tests,0
+2196,1864,Review details,0
+2197,1864,Finalize task,0
+2198,1865,Validate results,1
+2199,1865,Check edge cases,1
+2200,1865,Gather information,0
+2201,1868,Document findings,1
+2202,1868,Implement changes,0
+2203,1868,Finalize task,0
+2204,1868,Check edge cases,0
+2205,1868,Review details,0
+2206,1869,Gather information,0
+2207,1870,Gather information,0
+2208,1870,Finalize task,0
+2209,1870,Get feedback,1
+2210,1870,Verify completion,0
+2211,1870,Finalize task,0
+2212,1871,Finalize task,1
+2213,1871,Implement changes,0
+2214,1871,Finalize task,1
+2215,1878,Get feedback,0
+2216,1878,Finalize task,0
+2217,1878,Review details,0
+2218,1881,Implement changes,0
+2219,1881,Finalize task,0
+2220,1881,Draft initial version,0
+2221,1884,Run tests,0
+2222,1885,Finalize task,0
+2223,1885,Verify completion,1
+2224,1885,Document findings,0
+2225,1885,Gather information,0
+2226,1885,Get feedback,0
+2227,1887,Validate results,0
+2228,1887,Draft initial version,0
+2229,1887,Get feedback,1
+2230,1887,Gather information,1
+2231,1888,Draft initial version,0
+2232,1888,Run tests,0
+2233,1888,Gather information,0
+2234,1890,Get feedback,0
+2235,1890,Finalize task,1
+2236,1890,Gather information,0
+2237,1890,Check edge cases,1
+2238,1890,Implement changes,0
+2239,1891,Gather information,0
+2240,1891,Check edge cases,0
+2241,1892,Draft initial version,0
+2242,1893,Get feedback,0
+2243,1893,Document findings,0
+2244,1893,Verify completion,0
+2245,1894,Get feedback,1
+2246,1894,Validate results,0
+2247,1894,Finalize task,0
+2248,1896,Get feedback,1
+2249,1896,Draft initial version,0
+2250,1896,Resolve issues,0
+2251,1897,Get feedback,0
+2252,1899,Validate results,0
+2253,1899,Implement changes,0
+2254,1899,Review details,1
+2255,1899,Validate results,1
+2256,1900,Gather information,0
+2257,1901,Finalize task,0
+2258,1902,Finalize task,0
+2259,1902,Verify completion,0
+2260,1903,Run tests,0
+2261,1903,Draft initial version,0
+2262,1903,Get feedback,1
+2263,1904,Validate results,0
+2264,1905,Validate results,1
+2265,1909,Verify completion,0
+2266,1909,Get feedback,0
+2267,1909,Review details,1
+2268,1912,Draft initial version,0
+2269,1914,Draft initial version,0
+2270,1918,Implement changes,0
+2271,1918,Get feedback,1
+2272,1919,Gather information,1
+2273,1919,Get feedback,0
+2274,1919,Resolve issues,0
+2275,1920,Verify completion,0
+2276,1921,Implement changes,0
+2277,1921,Gather information,1
+2278,1925,Implement changes,0
+2279,1926,Draft initial version,0
+2280,1926,Run tests,0
+2281,1927,Finalize task,1
+2282,1928,Check edge cases,1
+2283,1928,Run tests,0
+2284,1928,Draft initial version,1
+2285,1931,Implement changes,1
+2286,1931,Validate results,1
+2287,1933,Verify completion,0
+2288,1933,Run tests,0
+2289,1933,Draft initial version,1
+2290,1935,Resolve issues,1
+2291,1935,Validate results,0
+2292,1938,Implement changes,0
+2293,1938,Resolve issues,1
+2294,1942,Implement changes,0
+2295,1942,Verify completion,0
+2296,1943,Document findings,0
+2297,1943,Validate results,0
+2298,1943,Validate results,0
+2299,1944,Gather information,1
+2300,1944,Implement changes,1
+2301,1944,Get feedback,1
+2302,1944,Get feedback,0
+2303,1944,Validate results,0
+2304,1949,Verify completion,0
+2305,1953,Gather information,1
+2306,1953,Review details,0
+2307,1953,Review details,0
+2308,1957,Review details,1
+2309,1957,Review details,1
+2310,1959,Get feedback,0
+2311,1959,Gather information,1
+2312,1961,Verify completion,1
+2313,1961,Run tests,0
+2314,1961,Finalize task,0
+2315,1961,Gather information,0
+2316,1962,Implement changes,0
+2317,1962,Review details,0
+2318,1962,Draft initial version,1
+2319,1962,Draft initial version,1
+2320,1962,Resolve issues,0
+2321,1963,Check edge cases,0
+2322,1963,Finalize task,0
+2323,1964,Resolve issues,0
+2324,1964,Run tests,0
+2325,1964,Document findings,0
+2326,1964,Finalize task,1
+2327,1969,Get feedback,0
+2328,1975,Resolve issues,0
+2329,1975,Resolve issues,1
+2330,1975,Run tests,1
+2331,1976,Draft initial version,1
+2332,1977,Verify completion,0
+2333,1977,Resolve issues,0
+2334,1978,Run tests,0
+2335,1979,Validate results,0
+2336,1979,Validate results,0
+2337,1981,Get feedback,1
+2338,1981,Verify completion,0
+2339,1982,Run tests,1
+2340,1982,Finalize task,0
+2341,1983,Check edge cases,1
+2342,1983,Implement changes,1
+2343,1983,Document findings,0
+2344,1984,Document findings,0
+2345,1984,Verify completion,0
+2346,1987,Draft initial version,0
+2347,1987,Get feedback,0
+2348,1988,Check edge cases,0
+2349,1988,Review details,0
+2350,1988,Draft initial version,0
+2351,1990,Document findings,1
+2352,1990,Resolve issues,0
+2353,1994,Draft initial version,1
+2354,1994,Get feedback,0
+2355,1995,Get feedback,0
+2356,1995,Validate results,1
+2357,1998,Check edge cases,0
+2358,2001,Resolve issues,0
+2359,2001,Draft initial version,0
+2360,2003,Gather information,0
+2361,2003,Implement changes,0
+2362,2006,Validate results,0
+2363,2006,Document findings,0
+2364,2008,Document findings,0
+2365,2008,Check edge cases,0
+2366,2008,Document findings,0
+2367,2011,Document findings,0
+2368,2011,Get feedback,0
+2369,2011,Validate results,0
+2370,2011,Verify completion,0
+2371,2013,Get feedback,0
+2372,2013,Finalize task,1
+2373,2013,Verify completion,0
+2374,2017,Draft initial version,1
+2375,2017,Document findings,0
+2376,2018,Finalize task,1
+2377,2018,Validate results,0
+2378,2020,Review details,0
+2379,2024,Document findings,1
+2380,2025,Verify completion,0
+2381,2025,Check edge cases,0
+2382,2027,Draft initial version,1
+2383,2027,Document findings,1
+2384,2027,Get feedback,1
+2385,2028,Document findings,1
+2386,2029,Gather information,0
+2387,2029,Check edge cases,0
+2388,2030,Get feedback,0
+2389,2031,Review details,0
+2390,2031,Document findings,1
+2391,2031,Check edge cases,1
+2392,2032,Review details,0
+2393,2032,Gather information,0
+2394,2032,Finalize task,0
+2395,2039,Resolve issues,0
+2396,2041,Gather information,1
+2397,2041,Check edge cases,1
+2398,2041,Draft initial version,0
+2399,2045,Verify completion,0
+2400,2045,Check edge cases,0
+2401,2045,Verify completion,0
+2402,2046,Gather information,1
+2403,2046,Check edge cases,0
+2404,2046,Run tests,0
+2405,2047,Resolve issues,0
+2406,2047,Check edge cases,0
+2407,2049,Verify completion,0
+2408,2049,Implement changes,1
+2409,2049,Resolve issues,1
+2410,2051,Run tests,0
+2411,2053,Implement changes,1
+2412,2053,Validate results,1
+2413,2053,Document findings,0
+2414,2054,Verify completion,0
+2415,2054,Finalize task,0
+2416,2054,Run tests,1
+2417,2055,Document findings,0
+2418,2058,Resolve issues,1
+2419,2058,Review details,0
+2420,2058,Draft initial version,0
+2421,2060,Draft initial version,1
+2422,2060,Get feedback,0
+2423,2060,Implement changes,0
+2424,2060,Verify completion,0
+2425,2060,Document findings,0
+2426,2062,Run tests,0
+2427,2062,Finalize task,1
+2428,2067,Finalize task,0
+2429,2067,Run tests,0
+2430,2068,Run tests,0
+2431,2068,Resolve issues,0
+2432,2068,Document findings,0
+2433,2069,Check edge cases,0
+2434,2069,Finalize task,0
+2435,2069,Draft initial version,0
+2436,2069,Validate results,0
+2437,2069,Validate results,1
+2438,2071,Validate results,1
+2439,2071,Check edge cases,0
+2440,2072,Check edge cases,1
+2441,2072,Verify completion,0
+2442,2072,Finalize task,0
+2443,2074,Check edge cases,1
+2444,2074,Draft initial version,0
+2445,2074,Validate results,1
+2446,2074,Finalize task,0
+2447,2074,Validate results,0
+2448,2075,Implement changes,0
+2449,2079,Review details,0
+2450,2081,Document findings,1
+2451,2081,Finalize task,0
+2452,2081,Run tests,1
+2453,2083,Run tests,0
+2454,2084,Review details,0
+2455,2084,Check edge cases,1
+2456,2084,Review details,1
+2457,2085,Implement changes,0
+2458,2085,Run tests,0
+2459,2085,Gather information,1
+2460,2086,Verify completion,1
+2461,2086,Validate results,0
+2462,2086,Check edge cases,1
+2463,2086,Check edge cases,1
+2464,2086,Gather information,0
+2465,2087,Resolve issues,0
+2466,2088,Implement changes,0
+2467,2088,Draft initial version,1
+2468,2088,Resolve issues,0
+2469,2089,Gather information,0
+2470,2089,Draft initial version,0
+2471,2092,Gather information,0
+2472,2092,Finalize task,0
+2473,2093,Validate results,0
+2474,2095,Implement changes,0
+2475,2095,Draft initial version,1
+2476,2096,Verify completion,1
+2477,2096,Validate results,0
+2478,2097,Resolve issues,0
+2479,2097,Verify completion,0
+2480,2097,Run tests,1
+2481,2098,Verify completion,0
+2482,2098,Finalize task,0
+2483,2099,Finalize task,1
+2484,2099,Implement changes,0
+2485,2100,Review details,0
+2486,2100,Document findings,0
+2487,2100,Implement changes,0
+2488,2101,Get feedback,0
+2489,2101,Review details,1
+2490,2101,Draft initial version,0
+2491,2101,Draft initial version,0
+2492,2101,Document findings,0
+2493,2103,Implement changes,0
+2494,2103,Get feedback,0
+2495,2105,Document findings,0
+2496,2105,Draft initial version,0
+2497,2105,Document findings,1
+2498,2106,Gather information,0
+2499,2109,Document findings,1
+2500,2110,Gather information,0
+2501,2110,Verify completion,1
+2502,2110,Gather information,0
+2503,2111,Implement changes,0
+2504,2111,Get feedback,0
+2505,2112,Run tests,1
+2506,2112,Run tests,0
+2507,2112,Get feedback,1
+2508,2113,Get feedback,0
+2509,2113,Draft initial version,0
+2510,2114,Draft initial version,0
+2511,2114,Review details,1
+2512,2114,Document findings,1
+2513,2116,Finalize task,0
+2514,2116,Document findings,0
+2515,2117,Validate results,0
+2516,2120,Finalize task,0
+2517,2120,Run tests,0
+2518,2121,Implement changes,1
+2519,2121,Validate results,0
+2520,2121,Get feedback,0
+2521,2122,Verify completion,1
+2522,2123,Implement changes,1
+2523,2123,Gather information,1
+2524,2123,Check edge cases,0
+2525,2125,Implement changes,1
+2526,2127,Verify completion,0
+2527,2128,Get feedback,0
+2528,2128,Draft initial version,1
+2529,2131,Resolve issues,0
+2530,2131,Implement changes,1
+2531,2132,Resolve issues,0
+2532,2132,Implement changes,0
+2533,2132,Check edge cases,0
+2534,2133,Validate results,0
+2535,2133,Draft initial version,0
+2536,2135,Gather information,1
+2537,2135,Draft initial version,0
+2538,2138,Document findings,1
+2539,2138,Get feedback,0
+2540,2138,Review details,1
+2541,2139,Run tests,0
+2542,2139,Verify completion,1
+2543,2139,Resolve issues,1
+2544,2141,Implement changes,0
+2545,2141,Finalize task,1
+2546,2142,Draft initial version,1
+2547,2142,Validate results,1
+2548,2144,Finalize task,0
+2549,2144,Get feedback,1
+2550,2145,Draft initial version,0
+2551,2145,Validate results,0
+2552,2145,Check edge cases,0
+2553,2147,Draft initial version,1
+2554,2149,Check edge cases,1
+2555,2149,Gather information,0
+2556,2149,Gather information,0
+2557,2150,Validate results,0
+2558,2150,Gather information,0
+2559,2151,Check edge cases,1
+2560,2151,Draft initial version,0
+2561,2153,Implement changes,1
+2562,2153,Run tests,0
+2563,2155,Get feedback,0
+2564,2155,Verify completion,1
+2565,2156,Finalize task,0
+2566,2156,Resolve issues,1
+2567,2159,Document findings,0
+2568,2159,Review details,0
+2569,2159,Run tests,1
+2570,2160,Review details,1
+2571,2161,Gather information,1
+2572,2161,Resolve issues,0
+2573,2161,Run tests,0
+2574,2162,Gather information,0
+2575,2163,Implement changes,1
+2576,2163,Run tests,0
+2577,2163,Draft initial version,0
+2578,2163,Check edge cases,0
+2579,2163,Review details,0
+2580,2168,Verify completion,0
+2581,2169,Review details,0
+2582,2170,Validate results,0
+2583,2170,Check edge cases,1
+2584,2172,Get feedback,0
+2585,2172,Review details,0
+2586,2174,Gather information,0
+2587,2182,Resolve issues,0
+2588,2182,Draft initial version,0
+2589,2182,Document findings,0
+2590,2183,Check edge cases,1
+2591,2183,Implement changes,0
+2592,2184,Run tests,1
+2593,2184,Validate results,0
+2594,2184,Implement changes,1
+2595,2184,Resolve issues,1
+2596,2184,Implement changes,0
+2597,2185,Run tests,0
+2598,2187,Check edge cases,0
+2599,2188,Check edge cases,0
+2600,2188,Get feedback,0
+2601,2189,Get feedback,0
+2602,2190,Run tests,0
+2603,2191,Implement changes,1
+2604,2198,Check edge cases,0
+2605,2199,Implement changes,0
+2606,2199,Review details,1
+2607,2199,Run tests,0
+2608,2203,Review details,0
+2609,2203,Get feedback,0
+2610,2203,Get feedback,0
+2611,2204,Finalize task,1
+2612,2204,Finalize task,0
+2613,2209,Get feedback,0
+2614,2209,Check edge cases,0
+2615,2209,Gather information,0
+2616,2210,Validate results,0
+2617,2210,Document findings,0
+2618,2210,Run tests,0
+2619,2211,Check edge cases,1
+2620,2211,Run tests,1
+2621,2211,Run tests,0
+2622,2212,Gather information,0
+2623,2212,Get feedback,1
+2624,2212,Implement changes,1
+2625,2212,Review details,0
+2626,2212,Verify completion,0
+2627,2214,Get feedback,0
+2628,2214,Gather information,0
+2629,2214,Implement changes,0
+2630,2214,Draft initial version,0
+2631,2215,Finalize task,0
+2632,2216,Resolve issues,0
+2633,2216,Document findings,0
+2634,2216,Review details,0
+2635,2217,Finalize task,0
+2636,2217,Verify completion,1
+2637,2217,Document findings,0
+2638,2217,Implement changes,1
+2639,2218,Get feedback,0
+2640,2218,Check edge cases,0
+2641,2218,Validate results,1
+2642,2219,Document findings,0
+2643,2221,Run tests,1
+2644,2223,Run tests,0
+2645,2225,Get feedback,0
+2646,2225,Check edge cases,0
+2647,2227,Validate results,0
+2648,2227,Resolve issues,1
+2649,2227,Finalize task,0
+2650,2228,Draft initial version,1
+2651,2228,Resolve issues,1
+2652,2229,Draft initial version,1
+2653,2229,Verify completion,0
+2654,2229,Check edge cases,0
+2655,2232,Verify completion,0
+2656,2232,Validate results,0
+2657,2232,Verify completion,1
+2658,2235,Validate results,1
+2659,2235,Implement changes,0
+2660,2240,Implement changes,0
+2661,2240,Check edge cases,0
+2662,2240,Check edge cases,1
+2663,2242,Verify completion,0
+2664,2242,Draft initial version,1
+2665,2242,Verify completion,0
+2666,2242,Finalize task,0
+2667,2242,Draft initial version,0
+2668,2244,Validate results,0
+2669,2246,Draft initial version,1
+2670,2246,Run tests,0
+2671,2246,Review details,0
+2672,2247,Run tests,0
+2673,2247,Check edge cases,1
+2674,2247,Verify completion,1
+2675,2248,Gather information,0
+2676,2248,Verify completion,0
+2677,2248,Get feedback,1
+2678,2249,Finalize task,0
+2679,2249,Run tests,0
+2680,2249,Draft initial version,0
+2681,2251,Implement changes,0
+2682,2251,Gather information,0
+2683,2251,Validate results,1
+2684,2253,Implement changes,1
+2685,2253,Validate results,0
+2686,2255,Implement changes,1
+2687,2255,Implement changes,0
+2688,2257,Implement changes,1
+2689,2257,Resolve issues,0
+2690,2258,Run tests,0
+2691,2258,Verify completion,0
+2692,2258,Get feedback,0
+2693,2260,Document findings,0
+2694,2260,Verify completion,0
+2695,2264,Check edge cases,0
+2696,2264,Implement changes,1
+2697,2264,Validate results,1
+2698,2266,Finalize task,0
+2699,2266,Verify completion,0
+2700,2268,Validate results,1
+2701,2269,Verify completion,0
+2702,2269,Finalize task,0
+2703,2269,Run tests,0
+2704,2269,Get feedback,0
+2705,2269,Validate results,0
+2706,2272,Draft initial version,0
+2707,2272,Implement changes,1
+2708,2272,Run tests,0
+2709,2272,Run tests,1
+2710,2277,Review details,1
+2711,2278,Draft initial version,1
+2712,2280,Get feedback,1
+2713,2280,Resolve issues,1
+2714,2280,Run tests,0
+2715,2280,Run tests,0
+2716,2281,Finalize task,1
+2717,2281,Run tests,0
+2718,2285,Verify completion,0
+2719,2288,Verify completion,0
+2720,2288,Gather information,1
+2721,2292,Run tests,0
+2722,2292,Check edge cases,1
+2723,2293,Run tests,1
+2724,2293,Implement changes,0
+2725,2297,Gather information,0
+2726,2297,Implement changes,1
+2727,2300,Check edge cases,0
+2728,2300,Run tests,0
+2729,2300,Review details,0
+2730,2300,Check edge cases,0
+2731,2300,Document findings,0
+2732,2303,Check edge cases,0
+2733,2303,Draft initial version,1
+2734,2305,Verify completion,0
+2735,2308,Gather information,0
+2736,2310,Resolve issues,0
+2737,2311,Resolve issues,0
+2738,2314,Gather information,0
+2739,2315,Review details,0
+2740,2315,Finalize task,0
+2741,2316,Resolve issues,1
+2742,2316,Check edge cases,0
+2743,2317,Gather information,1
+2744,2317,Check edge cases,0
+2745,2317,Review details,0
+2746,2318,Gather information,1
+2747,2318,Validate results,0
+2748,2318,Draft initial version,0
+2749,2320,Verify completion,0
+2750,2320,Gather information,1
+2751,2321,Gather information,0
+2752,2323,Finalize task,1
+2753,2323,Gather information,0
+2754,2323,Validate results,1
+2755,2327,Draft initial version,0
+2756,2327,Gather information,1
+2757,2327,Review details,1
+2758,2328,Check edge cases,0
+2759,2328,Document findings,1
+2760,2328,Resolve issues,0
+2761,2332,Finalize task,0
+2762,2332,Get feedback,0
+2763,2332,Run tests,1
+2764,2333,Review details,1
+2765,2333,Run tests,1
+2766,2335,Review details,1
+2767,2336,Implement changes,1
+2768,2336,Draft initial version,0
+2769,2336,Get feedback,1
+2770,2337,Document findings,0
+2771,2337,Verify completion,0
+2772,2337,Verify completion,0
+2773,2338,Draft initial version,1
+2774,2344,Get feedback,0
+2775,2344,Resolve issues,0
+2776,2344,Gather information,0
+2777,2350,Gather information,0
+2778,2352,Document findings,0
+2779,2352,Get feedback,1
+2780,2353,Validate results,1
+2781,2353,Get feedback,1
+2782,2353,Resolve issues,0
+2783,2354,Finalize task,1
+2784,2354,Draft initial version,0
+2785,2354,Draft initial version,0
+2786,2354,Resolve issues,0
+2787,2363,Draft initial version,0
+2788,2363,Document findings,1
+2789,2363,Run tests,0
+2790,2366,Gather information,0
+2791,2366,Document findings,0
+2792,2366,Document findings,0
+2793,2366,Implement changes,0
+2794,2366,Gather information,0
+2795,2367,Gather information,1
+2796,2367,Check edge cases,0
+2797,2369,Resolve issues,0
+2798,2369,Run tests,0
+2799,2370,Verify completion,0
+2800,2370,Validate results,1
+2801,2372,Draft initial version,0
+2802,2372,Draft initial version,1
+2803,2372,Review details,1
+2804,2372,Review details,0
+2805,2372,Validate results,0
+2806,2374,Implement changes,0
+2807,2374,Finalize task,1
+2808,2374,Check edge cases,0
+2809,2376,Implement changes,0
+2810,2377,Check edge cases,1
+2811,2377,Draft initial version,0
+2812,2378,Get feedback,0
+2813,2378,Finalize task,0
+2814,2378,Gather information,1
+2815,2379,Get feedback,1
+2816,2382,Get feedback,1
+2817,2383,Check edge cases,1
+2818,2383,Draft initial version,1
+2819,2384,Run tests,0
+2820,2384,Resolve issues,1
+2821,2386,Document findings,0
+2822,2386,Get feedback,0
+2823,2386,Review details,0
+2824,2387,Verify completion,0
+2825,2388,Check edge cases,0
+2826,2388,Implement changes,0
+2827,2388,Resolve issues,0
+2828,2388,Get feedback,0
+2829,2388,Finalize task,1
+2830,2389,Review details,0
+2831,2389,Finalize task,1
+2832,2389,Verify completion,0
+2833,2392,Validate results,0
+2834,2393,Draft initial version,0
+2835,2393,Implement changes,0
+2836,2396,Document findings,0
+2837,2398,Resolve issues,0
+2838,2402,Resolve issues,0
+2839,2402,Review details,0
+2840,2402,Get feedback,1
+2841,2403,Get feedback,0
+2842,2403,Gather information,1
+2843,2403,Validate results,0
+2844,2404,Resolve issues,0
+2845,2405,Gather information,1
+2846,2405,Get feedback,0
+2847,2405,Validate results,1
+2848,2407,Implement changes,0
+2849,2407,Verify completion,0
+2850,2407,Finalize task,1
+2851,2410,Document findings,0
+2852,2410,Document findings,1
+2853,2410,Finalize task,0
+2854,2411,Draft initial version,0
+2855,2411,Resolve issues,0
+2856,2411,Review details,0
+2857,2412,Verify completion,0
+2858,2412,Implement changes,0
+2859,2413,Validate results,0
+2860,2413,Validate results,0
+2861,2413,Review details,0
+2862,2413,Validate results,0
+2863,2416,Check edge cases,0
+2864,2416,Review details,0
+2865,2417,Implement changes,0
+2866,2417,Gather information,0
+2867,2424,Check edge cases,0
+2868,2424,Resolve issues,1
+2869,2427,Check edge cases,0
+2870,2427,Verify completion,0
+2871,2433,Finalize task,0
+2872,2433,Review details,0
+2873,2434,Finalize task,1
+2874,2434,Document findings,0
+2875,2434,Finalize task,1
+2876,2438,Gather information,0
+2877,2440,Gather information,0
+2878,2440,Finalize task,0
+2879,2440,Get feedback,1
+2880,2441,Check edge cases,0
+2881,2443,Run tests,0
+2882,2445,Finalize task,0
+2883,2445,Finalize task,0
+2884,2445,Validate results,0
+2885,2445,Review details,1
+2886,2446,Verify completion,0
+2887,2446,Review details,0
+2888,2447,Verify completion,0
+2889,2447,Document findings,0
+2890,2449,Check edge cases,0
+2891,2452,Gather information,0
+2892,2453,Implement changes,0
+2893,2453,Document findings,0
+2894,2458,Draft initial version,0
+2895,2458,Check edge cases,0
+2896,2461,Review details,1
+2897,2461,Verify completion,0
+2898,2464,Run tests,1
+2899,2464,Draft initial version,0
+2900,2467,Check edge cases,1
+2901,2467,Get feedback,0
+2902,2467,Validate results,0
+2903,2468,Gather information,0
+2904,2469,Gather information,0
+2905,2469,Finalize task,0
+2906,2469,Implement changes,0
+2907,2472,Gather information,0
+2908,2473,Verify completion,0
+2909,2473,Run tests,0
+2910,2474,Validate results,0
+2911,2474,Finalize task,0
+2912,2476,Validate results,0
+2913,2476,Gather information,0
+2914,2476,Document findings,0
+2915,2477,Document findings,1
+2916,2479,Finalize task,0
+2917,2479,Implement changes,0
+2918,2480,Implement changes,0
+2919,2480,Review details,1
+2920,2482,Get feedback,0
+2921,2482,Implement changes,0
+2922,2482,Verify completion,1
+2923,2484,Draft initial version,0
+2924,2484,Finalize task,0
+2925,2484,Gather information,0
+2926,2485,Finalize task,0
+2927,2485,Run tests,0
+2928,2485,Finalize task,0
+2929,2485,Check edge cases,0
+2930,2485,Run tests,0
+2931,2486,Implement changes,0
+2932,2486,Resolve issues,0
+2933,2486,Implement changes,0
+2934,2491,Check edge cases,1
+2935,2491,Document findings,0
+2936,2493,Review details,0
+2937,2493,Finalize task,1
+2938,2493,Implement changes,0
+2939,2494,Implement changes,0
+2940,2494,Review details,1
+2941,2494,Implement changes,0
+2942,2494,Finalize task,1
+2943,2494,Validate results,0
+2944,2495,Resolve issues,0
+2945,2495,Review details,0
+2946,2495,Finalize task,0
+2947,2496,Resolve issues,1
+2948,2496,Check edge cases,0
+2949,2496,Document findings,0
+2950,2496,Implement changes,0
+2951,2496,Validate results,0
+2952,2497,Resolve issues,0
+2953,2497,Finalize task,0
+2954,2500,Document findings,0
+2955,2500,Finalize task,0
+2956,2501,Validate results,0
+2957,2502,Validate results,1
+2958,2503,Draft initial version,0
+2959,2503,Finalize task,1
+2960,2505,Resolve issues,1
+2961,2505,Implement changes,1
+2962,2506,Review details,1
+2963,2506,Run tests,1
+2964,2507,Review details,0
+2965,2507,Finalize task,0
+2966,2509,Document findings,0
+2967,2509,Resolve issues,0
+2968,2509,Gather information,1
+2969,2510,Gather information,0
+2970,2510,Draft initial version,0
+2971,2510,Check edge cases,0
+2972,2514,Review details,0
+2973,2514,Verify completion,0
+2974,2514,Get feedback,0
+2975,2517,Validate results,0
+2976,2517,Implement changes,1
+2977,2517,Verify completion,1
+2978,2518,Review details,0
+2979,2518,Review details,0
+2980,2518,Gather information,1
+2981,2518,Gather information,1
+2982,2518,Validate results,0
+2983,2526,Validate results,0
+2984,2526,Review details,0
+2985,2529,Draft initial version,1
+2986,2529,Finalize task,0
+2987,2529,Check edge cases,0
+2988,2529,Run tests,0
+2989,2529,Run tests,0
+2990,2531,Check edge cases,0
+2991,2531,Validate results,0
+2992,2531,Finalize task,0
+2993,2531,Get feedback,0
+2994,2533,Get feedback,0
+2995,2533,Review details,0
+2996,2536,Check edge cases,0
+2997,2536,Implement changes,1
+2998,2536,Draft initial version,1
+2999,2538,Gather information,0
+3000,2538,Verify completion,0
+3001,2538,Check edge cases,0
+3002,2540,Run tests,0
+3003,2543,Implement changes,1
+3004,2543,Implement changes,1
+3005,2543,Run tests,0
+3006,2545,Run tests,0
+3007,2547,Run tests,1
+3008,2547,Resolve issues,0
+3009,2547,Finalize task,0
+3010,2547,Gather information,1
+3011,2547,Run tests,1
+3012,2548,Resolve issues,0
+3013,2551,Check edge cases,1
+3014,2552,Document findings,1
+3015,2552,Resolve issues,1
+3016,2552,Draft initial version,0
+3017,2554,Run tests,0
+3018,2554,Gather information,0
+3019,2557,Document findings,0
+3020,2557,Verify completion,0
+3021,2557,Verify completion,0
+3022,2557,Review details,1
+3023,2557,Get feedback,0
+3024,2560,Verify completion,0
+3025,2560,Draft initial version,0
+3026,2561,Draft initial version,0
+3027,2562,Verify completion,1
+3028,2563,Resolve issues,1
+3029,2563,Validate results,0
+3030,2563,Finalize task,0
+3031,2565,Draft initial version,0
+3032,2568,Verify completion,0
+3033,2572,Get feedback,1
+3034,2572,Implement changes,0
+3035,2572,Check edge cases,1
+3036,2575,Check edge cases,1
+3037,2575,Check edge cases,1
+3038,2575,Verify completion,0
+3039,2576,Get feedback,1
+3040,2578,Implement changes,0
+3041,2578,Implement changes,0
+3042,2578,Implement changes,0
+3043,2579,Implement changes,0
+3044,2579,Validate results,0
+3045,2579,Gather information,0
+3046,2580,Draft initial version,0
+3047,2580,Get feedback,0
+3048,2583,Gather information,1
+3049,2583,Validate results,0
+3050,2583,Resolve issues,1
+3051,2584,Get feedback,0
+3052,2587,Gather information,0
+3053,2587,Get feedback,0
+3054,2589,Draft initial version,0
+3055,2589,Verify completion,0
+3056,2590,Finalize task,0
+3057,2593,Get feedback,1
+3058,2593,Run tests,0
+3059,2593,Finalize task,1
+3060,2594,Gather information,0
+3061,2594,Validate results,1
+3062,2595,Check edge cases,0
+3063,2595,Verify completion,0
+3064,2595,Validate results,0
+3065,2595,Run tests,0
+3066,2595,Resolve issues,0
+3067,2596,Draft initial version,0
+3068,2596,Draft initial version,1
+3069,2600,Implement changes,0
+3070,2601,Draft initial version,0
+3071,2603,Resolve issues,0
+3072,2603,Resolve issues,0
+3073,2603,Get feedback,0
+3074,2606,Finalize task,0
+3075,2607,Get feedback,1
+3076,2607,Document findings,1
+3077,2607,Resolve issues,1
+3078,2607,Gather information,0
+3079,2608,Review details,0
+3080,2608,Document findings,0
+3081,2608,Verify completion,0
+3082,2609,Validate results,1
+3083,2612,Validate results,0
+3084,2612,Check edge cases,0
+3085,2614,Verify completion,1
+3086,2614,Implement changes,1
+3087,2614,Check edge cases,0
+3088,2614,Finalize task,0
+3089,2615,Implement changes,1
+3090,2617,Verify completion,0
+3091,2617,Check edge cases,0
+3092,2617,Validate results,1
+3093,2618,Run tests,0
+3094,2618,Implement changes,0
+3095,2619,Implement changes,0
+3096,2619,Verify completion,1
+3097,2620,Implement changes,0
+3098,2620,Document findings,1
+3099,2621,Gather information,0
+3100,2621,Resolve issues,0
+3101,2621,Validate results,1
+3102,2622,Verify completion,1
+3103,2622,Gather information,1
+3104,2622,Document findings,0
+3105,2622,Gather information,1
+3106,2622,Validate results,1
+3107,2623,Validate results,0
+3108,2623,Implement changes,1
+3109,2623,Draft initial version,0
+3110,2624,Implement changes,0
+3111,2624,Verify completion,0
+3112,2624,Finalize task,0
+3113,2624,Validate results,0
+3114,2624,Run tests,0
+3115,2631,Implement changes,0
+3116,2632,Validate results,0
+3117,2632,Document findings,0
+3118,2632,Document findings,0
+3119,2633,Draft initial version,1
+3120,2633,Run tests,0
+3121,2633,Document findings,1
+3122,2635,Run tests,1
+3123,2636,Resolve issues,0
+3124,2637,Get feedback,1
+3125,2637,Check edge cases,0
+3126,2637,Verify completion,1
+3127,2637,Gather information,1
+3128,2641,Get feedback,0
+3129,2641,Resolve issues,0
+3130,2641,Gather information,1
+3131,2643,Implement changes,0
+3132,2644,Verify completion,0
+3133,2645,Run tests,0
+3134,2646,Verify completion,0
+3135,2647,Review details,0
+3136,2647,Get feedback,0
+3137,2648,Gather information,0
+3138,2648,Finalize task,1
+3139,2648,Finalize task,0
+3140,2651,Check edge cases,1
+3141,2652,Run tests,0
+3142,2652,Draft initial version,0
+3143,2653,Validate results,0
+3144,2653,Validate results,1
+3145,2653,Check edge cases,1
+3146,2654,Implement changes,0
+3147,2654,Check edge cases,1
+3148,2655,Finalize task,1
+3149,2655,Verify completion,0
+3150,2655,Verify completion,0
+3151,2655,Review details,1
+3152,2655,Verify completion,0
+3153,2657,Validate results,0
+3154,2657,Finalize task,0
+3155,2658,Validate results,0
+3156,2658,Resolve issues,0
+3157,2659,Validate results,0
+3158,2659,Resolve issues,1
+3159,2661,Validate results,1
+3160,2661,Draft initial version,0
+3161,2663,Implement changes,0
+3162,2663,Implement changes,1
+3163,2663,Document findings,1
+3164,2665,Implement changes,0
+3165,2665,Verify completion,0
+3166,2666,Resolve issues,0
+3167,2666,Validate results,1
+3168,2666,Document findings,1
+3169,2669,Resolve issues,1
+3170,2671,Finalize task,0
+3171,2671,Finalize task,0
+3172,2671,Run tests,0
+3173,2671,Draft initial version,0
+3174,2675,Resolve issues,1
+3175,2677,Get feedback,1
+3176,2677,Run tests,1
+3177,2677,Check edge cases,0
+3178,2677,Validate results,0
+3179,2678,Run tests,0
+3180,2679,Gather information,0
+3181,2680,Implement changes,0
+3182,2681,Draft initial version,0
+3183,2681,Validate results,0
+3184,2681,Finalize task,0
+3185,2681,Check edge cases,0
+3186,2683,Review details,0
+3187,2683,Get feedback,0
+3188,2683,Check edge cases,1
+3189,2690,Resolve issues,0
+3190,2690,Check edge cases,0
+3191,2690,Check edge cases,1
+3192,2692,Implement changes,1
+3193,2692,Document findings,0
+3194,2693,Resolve issues,0
+3195,2693,Verify completion,1
+3196,2693,Finalize task,1
+3197,2695,Draft initial version,1
+3198,2695,Draft initial version,0
+3199,2696,Resolve issues,1
+3200,2696,Check edge cases,0
+3201,2697,Draft initial version,0
+3202,2697,Resolve issues,0
+3203,2697,Implement changes,0
+3204,2698,Review details,0
+3205,2698,Run tests,1
+3206,2698,Document findings,0
+3207,2699,Gather information,0
+3208,2699,Implement changes,0
+3209,2702,Review details,0
+3210,2702,Run tests,0
+3211,2702,Document findings,1
+3212,2706,Review details,1
+3213,2706,Implement changes,1
+3214,2707,Implement changes,0
+3215,2707,Validate results,1
+3216,2707,Review details,1
+3217,2709,Gather information,0
+3218,2710,Verify completion,0
+3219,2710,Check edge cases,0
+3220,2710,Finalize task,0
+3221,2710,Document findings,1
+3222,2710,Validate results,1
+3223,2712,Validate results,0
+3224,2719,Finalize task,0
+3225,2720,Review details,0
+3226,2720,Document findings,0
+3227,2720,Resolve issues,0
+3228,2721,Run tests,0
+3229,2721,Draft initial version,1
+3230,2721,Get feedback,0
+3231,2725,Run tests,0
+3232,2725,Finalize task,0
+3233,2725,Gather information,1
+3234,2726,Document findings,1
+3235,2728,Document findings,1
+3236,2728,Gather information,0
+3237,2729,Verify completion,0
+3238,2730,Draft initial version,1
+3239,2730,Review details,0
+3240,2730,Resolve issues,1
+3241,2731,Implement changes,0
+3242,2731,Document findings,0
+3243,2732,Document findings,0
+3244,2732,Review details,0
+3245,2732,Gather information,0
+3246,2733,Resolve issues,0
+3247,2733,Verify completion,0
+3248,2735,Review details,0
+3249,2735,Resolve issues,1
+3250,2735,Gather information,0
+3251,2737,Get feedback,1
+3252,2737,Review details,0
+3253,2737,Verify completion,0
+3254,2737,Document findings,1
+3255,2742,Validate results,0
+3256,2742,Document findings,0
+3257,2742,Validate results,0
+3258,2749,Check edge cases,0
+3259,2749,Check edge cases,0
+3260,2750,Draft initial version,0
+3261,2751,Run tests,0
+3262,2753,Draft initial version,0
+3263,2753,Get feedback,0
+3264,2755,Draft initial version,0
+3265,2755,Implement changes,0
+3266,2756,Gather information,0
+3267,2756,Resolve issues,0
+3268,2756,Verify completion,0
+3269,2756,Check edge cases,0
+3270,2758,Gather information,0
+3271,2758,Verify completion,0
+3272,2759,Review details,0
+3273,2760,Resolve issues,1
+3274,2760,Verify completion,0
+3275,2760,Get feedback,1
+3276,2762,Document findings,0
+3277,2765,Verify completion,0
+3278,2765,Resolve issues,1
+3279,2765,Run tests,0
+3280,2765,Gather information,0
+3281,2765,Gather information,0
+3282,2766,Check edge cases,0
+3283,2766,Finalize task,0
+3284,2767,Document findings,0
+3285,2771,Get feedback,1
+3286,2771,Run tests,1
+3287,2772,Verify completion,1
+3288,2772,Resolve issues,0
+3289,2772,Gather information,1
+3290,2774,Review details,0
+3291,2776,Resolve issues,0
+3292,2776,Get feedback,0
+3293,2777,Draft initial version,0
+3294,2777,Review details,0
+3295,2777,Finalize task,0
+3296,2777,Check edge cases,0
+3297,2782,Resolve issues,0
+3298,2783,Draft initial version,0
+3299,2783,Draft initial version,0
+3300,2783,Document findings,0
+3301,2787,Finalize task,0
+3302,2787,Document findings,0
+3303,2787,Implement changes,0
+3304,2788,Run tests,0
+3305,2788,Get feedback,1
+3306,2790,Resolve issues,0
+3307,2790,Resolve issues,0
+3308,2790,Draft initial version,0
+3309,2791,Document findings,0
+3310,2791,Resolve issues,0
+3311,2793,Check edge cases,1
+3312,2794,Resolve issues,0
+3313,2794,Draft initial version,0
+3314,2794,Draft initial version,0
+3315,2801,Verify completion,1
+3316,2801,Implement changes,0
+3317,2801,Get feedback,0
+3318,2806,Review details,1
+3319,2808,Get feedback,1
+3320,2808,Document findings,0
+3321,2811,Implement changes,1
+3322,2818,Review details,1
+3323,2818,Check edge cases,0
+3324,2820,Check edge cases,1
+3325,2820,Verify completion,0
+3326,2820,Document findings,1
+3327,2820,Review details,1
+3328,2820,Document findings,0
+3329,2822,Check edge cases,0
+3330,2822,Check edge cases,1
+3331,2822,Draft initial version,0
+3332,2823,Gather information,0
+3333,2823,Implement changes,0
+3334,2823,Verify completion,0
+3335,2826,Get feedback,0
+3336,2826,Implement changes,0
+3337,2833,Document findings,0
+3338,2833,Gather information,0
+3339,2834,Document findings,0
+3340,2834,Check edge cases,0
+3341,2836,Check edge cases,1
+3342,2838,Finalize task,1
+3343,2838,Document findings,0
+3344,2838,Get feedback,0
+3345,2839,Draft initial version,0
+3346,2839,Validate results,0
+3347,2842,Document findings,0
+3348,2842,Check edge cases,1
+3349,2845,Document findings,0
+3350,2846,Run tests,0
+3351,2846,Implement changes,0
+3352,2846,Draft initial version,0
+3353,2848,Review details,0
+3354,2850,Get feedback,0
+3355,2852,Verify completion,0
+3356,2852,Implement changes,0
+3357,2852,Finalize task,0
+3358,2853,Review details,0
+3359,2853,Draft initial version,1
+3360,2854,Finalize task,1
+3361,2857,Get feedback,0
+3362,2857,Validate results,1
+3363,2857,Verify completion,0
+3364,2862,Draft initial version,1
+3365,2864,Verify completion,0
+3366,2864,Finalize task,0
+3367,2871,Verify completion,0
+3368,2871,Draft initial version,0
+3369,2871,Finalize task,1
+3370,2872,Validate results,1
+3371,2874,Get feedback,0
+3372,2874,Validate results,0
+3373,2875,Implement changes,0
+3374,2875,Implement changes,0
+3375,2875,Gather information,0
+3376,2876,Implement changes,0
+3377,2876,Check edge cases,0
+3378,2880,Draft initial version,1
+3379,2881,Finalize task,1
+3380,2881,Finalize task,0
+3381,2881,Implement changes,0
+3382,2882,Review details,0
+3383,2884,Review details,0
+3384,2887,Document findings,0
+3385,2888,Gather information,0
+3386,2888,Review details,0
+3387,2888,Gather information,1
+3388,2890,Implement changes,1
+3389,2890,Review details,1
+3390,2891,Draft initial version,0
+3391,2892,Finalize task,0
+3392,2892,Run tests,0
+3393,2893,Get feedback,1
+3394,2893,Review details,1
+3395,2893,Validate results,0
+3396,2894,Validate results,1
+3397,2894,Review details,0
+3398,2894,Validate results,0
+3399,2895,Finalize task,0
+3400,2897,Implement changes,0
+3401,2900,Get feedback,0
+3402,2900,Verify completion,0
+3403,2901,Gather information,0
+3404,2901,Get feedback,0
+3405,2901,Get feedback,1
+3406,2901,Implement changes,0
+3407,2901,Implement changes,0
+3408,2909,Validate results,1
+3409,2909,Resolve issues,0
+3410,2912,Finalize task,1
+3411,2912,Resolve issues,0
+3412,2912,Draft initial version,0
+3413,2913,Finalize task,0
+3414,2913,Finalize task,1
+3415,2918,Run tests,0
+3416,2919,Resolve issues,0
+3417,2919,Review details,0
+3418,2923,Draft initial version,0
+3419,2923,Resolve issues,0
+3420,2923,Gather information,1
+3421,2924,Run tests,0
+3422,2926,Verify completion,1
+3423,2926,Implement changes,0
+3424,2926,Draft initial version,0
+3425,2927,Implement changes,0
+3426,2927,Gather information,1
+3427,2927,Validate results,0
+3428,2928,Resolve issues,0
+3429,2932,Verify completion,1
+3430,2932,Review details,0
+3431,2932,Review details,0
+3432,2934,Check edge cases,1
+3433,2934,Document findings,1
+3434,2934,Verify completion,0
+3435,2935,Get feedback,0
+3436,2935,Resolve issues,0
+3437,2935,Validate results,0
+3438,2937,Gather information,0
+3439,2942,Finalize task,0
+3440,2943,Finalize task,0
+3441,2943,Gather information,0
+3442,2943,Run tests,0
+3443,2943,Validate results,1
+3444,2944,Verify completion,0
+3445,2944,Resolve issues,0
+3446,2947,Verify completion,1
+3447,2947,Validate results,0
+3448,2950,Review details,0
+3449,2951,Implement changes,1
+3450,2951,Verify completion,1
+3451,2951,Review details,0
+3452,2952,Get feedback,0
+3453,2952,Verify completion,0
+3454,2954,Validate results,0
+3455,2954,Document findings,0
+3456,2954,Implement changes,0
+3457,2954,Document findings,0
+3458,2954,Implement changes,0
+3459,2955,Finalize task,0
+3460,2955,Get feedback,1
+3461,2957,Validate results,0
+3462,2957,Implement changes,1
+3463,2957,Gather information,0
+3464,2957,Document findings,0
+3465,2958,Gather information,0
+3466,2958,Verify completion,0
+3467,2958,Get feedback,0
+3468,2959,Get feedback,1
+3469,2959,Run tests,0
+3470,2959,Validate results,0
+3471,2962,Check edge cases,0
+3472,2962,Verify completion,1
+3473,2962,Document findings,1

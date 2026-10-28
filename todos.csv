@@ -1,0 +1,2963 @@
+﻿id,username,task,completed
+1,DietteYehudah,Read a chapter,0
+2,DietteYehudah,Check application logs (2),1
+3,DietteYehudah,Review error logs (3),1
+4,DietteYehudah,Write unit tests (4),0
+5,DietteYehudah,Practice coding problems (5),1
+6,DietteYehudah,Prepare lunch (6),0
+7,DietteYehudah,Update documentation (7),0
+8,DietteYehudah,Deploy staging build (8),0
+9,DietteYehudah,Back up laptop files (9),0
+10,DietteYehudah,Fix login validation (10),0
+11,DietteYehudah,Back up laptop files (11),1
+12,DietteYehudah,Schedule dentist appointment (12),0
+13,DietteYehudah,Write unit tests (13),0
+14,DietteYehudah,Go to the gym (14),1
+15,DietteYehudah,Review error logs (15),0
+16,DietteYehudah,Walk outside (16),0
+17,DietteYehudah,Go to the gym (17),0
+18,DietteYehudah,Investigate slow response times (18),1
+19,DietteYehudah,Update resume (19),0
+20,DietteYehudah,Fix login validation (20),0
+21,DietteYehudah,Fix login validation (21),0
+22,DietteYehudah,Deploy staging build (22),0
+23,DietteYehudah,Write unit tests (23),1
+24,DietteYehudah,Schedule dentist appointment (24),0
+25,DietteYehudah,Organize calendar (25),0
+26,DietteYehudah,Organize calendar (26),0
+27,DietteYehudah,Organize calendar (27),1
+28,DietteYehudah,Investigate slow response times (28),0
+29,DietteYehudah,Review budget (29),0
+30,DietteYehudah,Clean kitchen (30),0
+31,DietteYehudah,Organize meeting notes (31),1
+32,DietteYehudah,Review budget (32),0
+33,DietteYehudah,Check server monitoring (33),0
+34,DietteYehudah,Buy household supplies (34),0
+35,DietteYehudah,Update resume (35),1
+36,DietteYehudah,Organize calendar (36),0
+37,DietteYehudah,Organize meeting notes (37),0
+38,DietteYehudah,Optimize database query (38),1
+39,DietteYehudah,Prepare lunch (39),0
+40,DietteYehudah,Review performance metrics (40),0
+41,DietteYehudah,Walk outside (41),1
+42,DietteYehudah,Review project requirements (42),0
+43,DietteYehudah,Practice coding problems (43),1
+44,DietteYehudah,Create database migration (44),0
+45,DietteYehudah,Prepare lunch (45),0
+46,DietteYehudah,Pay utility bill (46),0
+47,DietteYehudah,Pay utility bill (47),0
+48,DietteYehudah,Go to the gym (48),0
+49,DietteYehudah,Run load test (49),0
+50,DietteYehudah,Back up laptop files (50),1
+51,KashefLeagh,Practice coding problems,1
+52,KashefLeagh,Prepare lunch (2),1
+53,KashefLeagh,Go to the gym (3),1
+54,KashefLeagh,Fix login validation (4),0
+55,KashefLeagh,Write integration tests (5),0
+56,KashefLeagh,Deploy staging build (6),0
+57,KrulickiTomoki,Plan weekend groceries,1
+58,KrulickiTomoki,Read a chapter (2),0
+59,KrulickiTomoki,Prepare lunch (3),1
+60,KrulickiTomoki,Review error logs (4),0
+61,KrulickiTomoki,Submit expense report (5),0
+62,KrulickiTomoki,Investigate slow response times (6),0
+63,KrulickiTomoki,Clean kitchen (7),0
+64,KrulickiTomoki,Review budget (8),0
+65,ManochaKarman,Write unit tests,1
+66,ManochaKarman,Create JMeter test plan (2),0
+67,ManochaKarman,Organize meeting notes (3),0
+68,ManochaKarman,Prepare presentation (4),1
+69,ManochaKarman,Prepare lunch (5),0
+70,ManochaKarman,Update dependencies (6),1
+71,ManochaKarman,Investigate slow response times (7),0
+72,ManochaKarman,Deploy staging build (8),1
+73,ManochaKarman,Refactor API endpoint (9),1
+74,MouleMaariyah,Plan weekend groceries,0
+75,MouleMaariyah,Clean up workspace (2),1
+76,MouleMaariyah,Update dependencies (3),0
+77,MouleMaariyah,Optimize database query (4),0
+78,MouleMaariyah,Organize calendar (5),0
+79,MouleMaariyah,Clean up workspace (6),0
+80,MouleMaariyah,Clean kitchen (7),1
+81,MouleMaariyah,Write unit tests (8),1
+82,MouleMaariyah,Walk outside (9),0
+83,MouleMaariyah,Fix login validation (10),1
+84,MouleMaariyah,Go to the gym (11),1
+85,MouleMaariyah,Schedule dentist appointment (12),0
+86,MouleMaariyah,Read a chapter (13),1
+87,MouleMaariyah,Investigate slow response times (14),1
+88,NgetSher,Create database migration,0
+89,NgetSher,Clean up workspace (2),0
+90,NgetSher,Clean up workspace (3),0
+91,NgetSher,Write unit tests (4),1
+92,NgetSher,Write integration tests (5),0
+93,NgetSher,Pay utility bill (6),0
+94,NgetSher,Back up laptop files (7),1
+95,NgetSher,Reply to important emails (8),1
+96,NgetSher,Prepare lunch (9),0
+97,NgetSher,Create database migration (10),0
+98,NgetSher,Refactor API endpoint (11),0
+99,NgetSher,Deploy staging build (12),0
+100,NgetSher,Deploy staging build (13),1
+101,NgetSher,Write unit tests (14),0
+102,ChauhdreyQuentyn,Check application logs,0
+103,ChauhdreyQuentyn,Schedule dentist appointment (2),0
+104,ChauhdreyQuentyn,Refactor API endpoint (3),1
+105,ChauhdreyQuentyn,Review budget (4),0
+106,ChauhdreyQuentyn,Update dependencies (5),1
+107,ChauhdreyQuentyn,Walk outside (6),0
+108,ChauhdreyQuentyn,Walk outside (7),0
+109,ChauhdreyQuentyn,Deploy staging build (8),1
+110,ChauhdreyQuentyn,Back up laptop files (9),0
+111,ChauhdreyQuentyn,Deploy staging build (10),1
+112,ChauhdreyQuentyn,Review pull request (11),0
+113,ChauhdreyQuentyn,Schedule dentist appointment (12),1
+114,DidierShaquanna,Reply to important emails,0
+115,DidierShaquanna,Run load test (2),0
+116,DidierShaquanna,Go to the gym (3),0
+117,DidierShaquanna,Refactor API endpoint (4),0
+118,DidierShaquanna,Refactor API endpoint (5),1
+119,HowrenGraesen,Prepare presentation,1
+120,HowrenGraesen,Create database migration (2),0
+121,HowrenGraesen,Fix login validation (3),0
+122,HowrenGraesen,Clean kitchen (4),0
+123,HowrenGraesen,Organize meeting notes (5),0
+124,HowrenGraesen,Deploy staging build (6),1
+125,HowrenGraesen,Submit expense report (7),0
+126,HowrenGraesen,Fix login validation (8),0
+127,HowrenGraesen,Create database migration (9),0
+128,HowrenGraesen,Practice coding problems (10),1
+129,HowrenGraesen,Review project requirements (11),1
+130,HowrenGraesen,Prepare presentation (12),0
+131,HowrenGraesen,Check server monitoring (13),0
+132,EldenMaebry,Update dependencies,0
+133,EldenMaebry,Organize calendar (2),0
+134,EldenMaebry,Test mobile layout (3),0
+135,EldenMaebry,Run load test (4),0
+136,EldenMaebry,Review project requirements (5),0
+137,EldenMaebry,Buy household supplies (6),0
+138,EldenMaebry,Refactor API endpoint (7),1
+139,EldenMaebry,Create JMeter test plan (8),0
+140,EldenMaebry,Review pull request (9),0
+141,EldenMaebry,Buy household supplies (10),1
+142,EldenMaebry,Read a chapter (11),0
+143,EldenMaebry,Check application logs (12),0
+144,EldenMaebry,Clean kitchen (13),1
+145,EldenMaebry,Buy household supplies (14),0
+146,EldenMaebry,Submit expense report (15),0
+147,EldenMaebry,Clean kitchen (16),1
+148,EldenMaebry,Prepare lunch (17),0
+149,EldenMaebry,Check application logs (18),0
+150,EldenMaebry,Prepare weekly report (19),0
+151,EldenMaebry,Practice coding problems (20),1
+152,EldenMaebry,Go to the gym (21),0
+153,EldenMaebry,Go to the gym (22),1
+154,EldenMaebry,Create JMeter test plan (23),0
+155,EldenMaebry,Update dependencies (24),0
+156,EldenMaebry,Update resume (25),1
+157,EldenMaebry,Prepare weekly report (26),1
+158,EldenMaebry,Clean up workspace (27),0
+159,EldenMaebry,Review error logs (28),0
+160,EldenMaebry,Deploy staging build (29),0
+161,EldenMaebry,Test mobile layout (30),0
+162,EldenMaebry,Read a chapter (31),1
+163,EldenMaebry,Optimize database query (32),0
+164,EldenMaebry,Review pull request (33),0
+165,EldenMaebry,Write unit tests (34),0
+166,EldenMaebry,Review performance metrics (35),0
+167,EldenMaebry,Review performance metrics (36),0
+168,EldenMaebry,Read a chapter (37),0
+169,EldenMaebry,Reply to important emails (38),1
+170,EldenMaebry,Refactor API endpoint (39),1
+171,EldenMaebry,Schedule dentist appointment (40),0
+172,EldenMaebry,Buy household supplies (41),0
+173,EldenMaebry,Submit expense report (42),0
+174,EldenMaebry,Check application logs (43),0
+175,EldenMaebry,Plan weekend groceries (44),1
+176,EldenMaebry,Update documentation (45),1
+177,EldenMaebry,Run load test (46),1
+178,EldenMaebry,Organize meeting notes (47),0
+179,EldenMaebry,Plan weekend groceries (48),0
+180,EldenMaebry,Update resume (49),0
+181,EldenMaebry,Organize meeting notes (50),1
+182,EldenMaebry,Prepare weekly report (51),0
+183,EldenMaebry,Plan next sprint (52),0
+184,EldenMaebry,Update documentation (53),1
+185,EldenMaebry,Prepare presentation (54),0
+186,HamleyTrinati,Deploy staging build,0
+187,HamleyTrinati,Review pull request (2),0
+188,HamleyTrinati,Deploy staging build (3),0
+189,HamleyTrinati,Review budget (4),1
+190,HamleyTrinati,Plan weekend groceries (5),0
+191,HamleyTrinati,Back up laptop files (6),0
+192,HamleyTrinati,Review budget (7),0
+193,HamleyTrinati,Review budget (8),0
+194,HamleyTrinati,Create database migration (9),0
+195,HamleyTrinati,Plan weekend groceries (10),0
+196,HamleyTrinati,Review performance metrics (11),0
+197,HamleyTrinati,Update resume (12),0
+198,HamleyTrinati,Practice coding problems (13),0
+199,HamleyTrinati,Write unit tests (14),1
+200,HamleyTrinati,Prepare lunch (15),0
+201,HamleyTrinati,Refactor API endpoint (16),0
+202,HamleyTrinati,Investigate slow response times (17),0
+203,HamleyTrinati,Create JMeter test plan (18),1
+204,HamleyTrinati,Submit expense report (19),1
+205,MottinCarmeshia,Practice coding problems,0
+206,MottinCarmeshia,Schedule dentist appointment (2),0
+207,MottinCarmeshia,Fix login validation (3),0
+208,MottinCarmeshia,Write integration tests (4),0
+209,MottinCarmeshia,Read a chapter (5),0
+210,MottinCarmeshia,Check server monitoring (6),0
+211,MottinCarmeshia,Create database migration (7),0
+212,NanikHuel,Update dependencies,0
+213,NanikHuel,Refactor API endpoint (2),0
+214,NanikHuel,Organize meeting notes (3),1
+215,NanikHuel,Organize meeting notes (4),0
+216,NanikHuel,Create JMeter test plan (5),0
+217,NanikHuel,Investigate slow response times (6),0
+218,NanikHuel,Refactor API endpoint (7),0
+219,NanikHuel,Review error logs (8),0
+220,NanikHuel,Schedule dentist appointment (9),0
+221,NanikHuel,Check server monitoring (10),1
+222,NanikHuel,Prepare weekly report (11),1
+223,NanikHuel,Deploy staging build (12),0
+224,NanikHuel,Organize calendar (13),0
+225,GusewelleTeygan,Deploy staging build,1
+226,GusewelleTeygan,Plan next sprint (2),1
+227,GusewelleTeygan,Check server monitoring (3),1
+228,GusewelleTeygan,Test mobile layout (4),0
+229,GusewelleTeygan,Plan weekend groceries (5),0
+230,GusewelleTeygan,Create JMeter test plan (6),0
+231,GusewelleTeygan,Deploy staging build (7),1
+232,GusewelleTeygan,Update dependencies (8),0
+233,MiedemaMariadel,Prepare lunch,1
+234,MiedemaMariadel,Submit expense report (2),0
+235,MiedemaMariadel,Review error logs (3),0
+236,MiedemaMariadel,Test mobile layout (4),1
+237,MiedemaMariadel,Update resume (5),0
+238,MiedemaMariadel,Refactor API endpoint (6),0
+239,MiedemaMariadel,Review budget (7),1
+240,MiedemaMariadel,Fix login validation (8),0
+241,MiedemaMariadel,Clean up workspace (9),0
+242,DominguezMavis,Read a chapter,0
+243,DominguezMavis,Pay utility bill (2),1
+244,DominguezMavis,Walk outside (3),1
+245,DominguezMavis,Review performance metrics (4),1
+246,DominguezMavis,Clean up workspace (5),0
+247,DominguezMavis,Organize meeting notes (6),1
+248,DominguezMavis,Schedule dentist appointment (7),0
+249,DominguezMavis,Walk outside (8),0
+250,DominguezMavis,Submit expense report (9),0
+251,DominguezMavis,Optimize database query (10),1
+252,DominguezMavis,Schedule dentist appointment (11),0
+253,DominguezMavis,Run load test (12),0
+254,DominguezMavis,Clean up workspace (13),0
+255,DominguezMavis,Create JMeter test plan (14),1
+256,DominguezMavis,Deploy staging build (15),0
+257,DominguezMavis,Practice coding problems (16),0
+258,DominguezMavis,Review performance metrics (17),0
+259,DominguezMavis,Pay utility bill (18),1
+260,DominguezMavis,Write unit tests (19),1
+261,DominguezMavis,Create database migration (20),1
+262,DominguezMavis,Go to the gym (21),1
+263,DominguezMavis,Go to the gym (22),0
+264,DominguezMavis,Plan weekend groceries (23),0
+265,DominguezMavis,Read a chapter (24),1
+266,DominguezMavis,Fix login validation (25),0
+267,DominguezMavis,Clean up workspace (26),0
+268,DominguezMavis,Review error logs (27),0
+269,DominguezMavis,Test mobile layout (28),0
+270,DominguezMavis,Schedule dentist appointment (29),0
+271,DominguezMavis,Update resume (30),0
+272,DominguezMavis,Review budget (31),0
+273,DominguezMavis,Review pull request (32),0
+274,DominguezMavis,Investigate slow response times (33),0
+275,DominguezMavis,Clean kitchen (34),0
+276,DominguezMavis,Clean kitchen (35),1
+277,DominguezMavis,Refactor API endpoint (36),1
+278,DominguezMavis,Investigate slow response times (37),0
+279,DominguezMavis,Create database migration (38),0
+280,DominguezMavis,Prepare presentation (39),1
+281,DominguezMavis,Practice coding problems (40),0
+282,DominguezMavis,Organize meeting notes (41),0
+283,DominguezMavis,Test mobile layout (42),1
+284,DominguezMavis,Deploy staging build (43),0
+285,DominguezMavis,Plan weekend groceries (44),1
+286,DominguezMavis,Review pull request (45),1
+287,DominguezMavis,Clean kitchen (46),0
+288,KoeneXadrian,Write integration tests,0
+289,KoeneXadrian,Practice coding problems (2),1
+290,KoeneXadrian,Schedule dentist appointment (3),1
+291,KoeneXadrian,Prepare weekly report (4),0
+292,KoeneXadrian,Submit expense report (5),1
+293,KoeneXadrian,Refactor API endpoint (6),0
+294,KoeneXadrian,Investigate slow response times (7),0
+295,KoeneXadrian,Review pull request (8),0
+296,KoeneXadrian,Read a chapter (9),0
+297,HobdenStara,Pay utility bill,0
+298,HobdenStara,Clean kitchen (2),0
+299,HobdenStara,Organize meeting notes (3),1
+300,HobdenStara,Schedule dentist appointment (4),0
+301,HobdenStara,Practice coding problems (5),1
+302,HobdenStara,Prepare presentation (6),0
+303,HobdenStara,Go to the gym (7),0
+304,HobdenStara,Plan next sprint (8),0
+305,HobdenStara,Review project requirements (9),0
+306,HobdenStara,Organize calendar (10),1
+307,HobdenStara,Clean kitchen (11),0
+308,HobdenStara,Review project requirements (12),0
+309,HobdenStara,Back up laptop files (13),1
+310,HobdenStara,Run load test (14),1
+311,HobdenStara,Organize calendar (15),0
+312,HobdenStara,Check application logs (16),0
+313,HobdenStara,Go to the gym (17),1
+314,HobdenStara,Review error logs (18),0
+315,HobdenStara,Submit expense report (19),1
+316,HobdenStara,Run load test (20),0
+317,HobdenStara,Prepare weekly report (21),0
+318,HobdenStara,Organize meeting notes (22),0
+319,HobdenStara,Create database migration (23),0
+320,HobdenStara,Prepare lunch (24),0
+321,HobdenStara,Prepare presentation (25),1
+322,HobdenStara,Optimize database query (26),0
+323,HobdenStara,Organize meeting notes (27),1
+324,HobdenStara,Investigate slow response times (28),0
+325,HobdenStara,Plan next sprint (29),1
+326,HobdenStara,Check server monitoring (30),1
+327,HobdenStara,Pay utility bill (31),1
+328,HobdenStara,Plan weekend groceries (32),0
+329,HobdenStara,Review performance metrics (33),0
+330,HobdenStara,Organize meeting notes (34),1
+331,HobdenStara,Organize meeting notes (35),0
+332,HobdenStara,Test mobile layout (36),0
+333,HobdenStara,Practice coding problems (37),0
+334,HobdenStara,Read a chapter (38),0
+335,HobdenStara,Create database migration (39),1
+336,HobdenStara,Test mobile layout (40),1
+337,HobdenStara,Reply to important emails (41),1
+338,HobdenStara,Prepare lunch (42),0
+339,HobdenStara,Plan weekend groceries (43),0
+340,HobdenStara,Review performance metrics (44),0
+341,HobdenStara,Schedule dentist appointment (45),0
+342,HobdenStara,Review budget (46),0
+343,HobdenStara,Check server monitoring (47),0
+344,HobdenStara,Walk outside (48),0
+345,HobdenStara,Plan next sprint (49),1
+346,HobdenStara,Prepare presentation (50),0
+347,HobdenStara,Fix login validation (51),0
+348,HobdenStara,Reply to important emails (52),0
+349,HobdenStara,Investigate slow response times (53),0
+350,HobdenStara,Review budget (54),0
+351,HobdenStara,Create database migration (55),0
+352,HobdenStara,Create JMeter test plan (56),0
+353,JondrowLunda,Deploy staging build,0
+354,JondrowLunda,Deploy staging build (2),0
+355,JondrowLunda,Clean up workspace (3),1
+356,JondrowLunda,Plan weekend groceries (4),0
+357,JondrowLunda,Walk outside (5),0
+358,WheatfallZanah,Reply to important emails,0
+359,WheatfallZanah,Pay utility bill (2),0
+360,WheatfallZanah,Reply to important emails (3),0
+361,WheatfallZanah,Clean up workspace (4),0
+362,WheatfallZanah,Review budget (5),0
+363,WheatfallZanah,Walk outside (6),0
+364,WheatfallZanah,Walk outside (7),0
+365,WheatfallZanah,Write integration tests (8),1
+366,WheatfallZanah,Prepare lunch (9),0
+367,WheatfallZanah,Prepare lunch (10),1
+368,AlberryLeighton,Reply to important emails,0
+369,AlberryLeighton,Fix login validation (2),0
+370,AlberryLeighton,Create database migration (3),0
+371,AlberryLeighton,Check server monitoring (4),0
+372,AlberryLeighton,Plan next sprint (5),1
+373,AlberryLeighton,Buy household supplies (6),0
+374,AlberryLeighton,Refactor API endpoint (7),0
+375,AlberryLeighton,Schedule dentist appointment (8),0
+376,AlberryLeighton,Schedule dentist appointment (9),1
+377,AlberryLeighton,Update documentation (10),0
+378,AlberryLeighton,Run load test (11),1
+379,AlberryLeighton,Clean up workspace (12),1
+380,AlberryLeighton,Deploy staging build (13),0
+381,AlberryLeighton,Pay utility bill (14),1
+382,AlberryLeighton,Back up laptop files (15),0
+383,LaponsieRuchy,Buy household supplies,0
+384,LaponsieRuchy,Buy household supplies (2),0
+385,LaponsieRuchy,Go to the gym (3),0
+386,LaponsieRuchy,Optimize database query (4),0
+387,LaponsieRuchy,Reply to important emails (5),1
+388,LaponsieRuchy,Write unit tests (6),1
+389,LaponsieRuchy,Go to the gym (7),0
+390,LaponsieRuchy,Write unit tests (8),0
+391,LaponsieRuchy,Submit expense report (9),0
+392,MinorsRaja,Run load test,1
+393,MinorsRaja,Check application logs (2),0
+394,MinorsRaja,Run load test (3),0
+395,MinorsRaja,Review budget (4),1
+396,MinorsRaja,Organize calendar (5),0
+397,MinorsRaja,Refactor API endpoint (6),0
+398,MinorsRaja,Review budget (7),1
+399,MinorsRaja,Create JMeter test plan (8),0
+400,MinorsRaja,Fix login validation (9),1
+401,MinorsRaja,Back up laptop files (10),0
+402,FallstromKiamani,Clean up workspace,0
+403,FallstromKiamani,Create JMeter test plan (2),0
+404,FallstromKiamani,Read a chapter (3),0
+405,FallstromKiamani,Prepare presentation (4),0
+406,FallstromKiamani,Update resume (5),0
+407,FallstromKiamani,Organize meeting notes (6),0
+408,RigosJaqwon,Plan weekend groceries,1
+409,RigosJaqwon,Go to the gym (2),1
+410,RigosJaqwon,Prepare weekly report (3),0
+411,RigosJaqwon,Fix login validation (4),1
+412,RigosJaqwon,Check application logs (5),0
+413,RigosJaqwon,Optimize database query (6),1
+414,RigosJaqwon,Back up laptop files (7),1
+415,RigosJaqwon,Create JMeter test plan (8),1
+416,RigosJaqwon,Refactor API endpoint (9),0
+417,RigosJaqwon,Fix login validation (10),0
+418,RigosJaqwon,Investigate slow response times (11),0
+419,RigosJaqwon,Plan weekend groceries (12),0
+420,RigosJaqwon,Create database migration (13),0
+421,RigosJaqwon,Reply to important emails (14),1
+422,RigosJaqwon,Review error logs (15),0
+423,RigosJaqwon,Back up laptop files (16),1
+424,RigosJaqwon,Buy household supplies (17),0
+425,RigosJaqwon,Review project requirements (18),1
+426,RigosJaqwon,Check server monitoring (19),0
+427,RigosJaqwon,Review performance metrics (20),1
+428,RigosJaqwon,Read a chapter (21),0
+429,RigosJaqwon,Update documentation (22),1
+430,RigosJaqwon,Review budget (23),0
+431,RigosJaqwon,Test mobile layout (24),0
+432,RigosJaqwon,Go to the gym (25),1
+433,RigosJaqwon,Deploy staging build (26),1
+434,RigosJaqwon,Fix login validation (27),1
+435,RigosJaqwon,Check application logs (28),0
+436,RigosJaqwon,Review project requirements (29),0
+437,RigosJaqwon,Reply to important emails (30),0
+438,RigosJaqwon,Plan weekend groceries (31),0
+439,RigosJaqwon,Plan weekend groceries (32),0
+440,RigosJaqwon,Read a chapter (33),1
+441,RigosJaqwon,Plan next sprint (34),0
+442,RigosJaqwon,Pay utility bill (35),1
+443,RigosJaqwon,Investigate slow response times (36),0
+444,RigosJaqwon,Organize meeting notes (37),0
+445,RigosJaqwon,Reply to important emails (38),1
+446,RigosJaqwon,Update resume (39),1
+447,RigosJaqwon,Review budget (40),0
+448,RigosJaqwon,Write unit tests (41),1
+449,RigosJaqwon,Test mobile layout (42),0
+450,RigosJaqwon,Go to the gym (43),1
+451,RigosJaqwon,Schedule dentist appointment (44),1
+452,RigosJaqwon,Organize calendar (45),1
+453,RigosJaqwon,Organize calendar (46),1
+454,RigosJaqwon,Read a chapter (47),0
+455,RigosJaqwon,Plan next sprint (48),1
+456,RigosJaqwon,Review error logs (49),0
+457,RigosJaqwon,Plan weekend groceries (50),0
+458,RigosJaqwon,Prepare weekly report (51),0
+459,RigosJaqwon,Check application logs (52),1
+460,RigosJaqwon,Write integration tests (53),1
+461,RigosJaqwon,Write unit tests (54),1
+462,HammerstoneFlorentia,Buy household supplies,0
+463,HammerstoneFlorentia,Clean up workspace (2),1
+464,HammerstoneFlorentia,Schedule dentist appointment (3),0
+465,HammerstoneFlorentia,Check server monitoring (4),1
+466,HammerstoneFlorentia,Test mobile layout (5),0
+467,HammerstoneFlorentia,Clean up workspace (6),0
+468,HammerstoneFlorentia,Pay utility bill (7),0
+469,HammerstoneFlorentia,Optimize database query (8),1
+470,HammerstoneFlorentia,Create JMeter test plan (9),1
+471,HammerstoneFlorentia,Write integration tests (10),0
+472,HammerstoneFlorentia,Test mobile layout (11),0
+473,HammerstoneFlorentia,Investigate slow response times (12),0
+474,HammerstoneFlorentia,Practice coding problems (13),0
+475,RoehrichJayveon,Deploy staging build,1
+476,RoehrichJayveon,Investigate slow response times (2),0
+477,RoehrichJayveon,Prepare presentation (3),0
+478,RoehrichJayveon,Review error logs (4),0
+479,RoehrichJayveon,Prepare weekly report (5),0
+480,RoehrichJayveon,Create database migration (6),1
+481,RoehrichJayveon,Clean kitchen (7),0
+482,RoehrichJayveon,Review budget (8),1
+483,RoehrichJayveon,Test mobile layout (9),1
+484,RoehrichJayveon,Prepare weekly report (10),0
+485,RoehrichJayveon,Check application logs (11),0
+486,RoehrichJayveon,Update dependencies (12),0
+487,RoehrichJayveon,Test mobile layout (13),0
+488,RoehrichJayveon,Review error logs (14),1
+489,RoehrichJayveon,Test mobile layout (15),0
+490,RoehrichJayveon,Practice coding problems (16),0
+491,RoehrichJayveon,Plan next sprint (17),1
+492,RoehrichJayveon,Submit expense report (18),0
+493,RoehrichJayveon,Deploy staging build (19),1
+494,RoehrichJayveon,Review performance metrics (20),1
+495,RoehrichJayveon,Organize meeting notes (21),0
+496,RoehrichJayveon,Prepare weekly report (22),0
+497,RoehrichJayveon,Review pull request (23),1
+498,RoehrichJayveon,Clean kitchen (24),1
+499,RoehrichJayveon,Check application logs (25),0
+500,RoehrichJayveon,Prepare presentation (26),1
+501,RoehrichJayveon,Create database migration (27),0
+502,RoehrichJayveon,Reply to important emails (28),0
+503,RoehrichJayveon,Review project requirements (29),0
+504,RoehrichJayveon,Check server monitoring (30),0
+505,RoehrichJayveon,Check server monitoring (31),0
+506,RoehrichJayveon,Refactor API endpoint (32),0
+507,RoehrichJayveon,Update dependencies (33),0
+508,RoehrichJayveon,Submit expense report (34),0
+509,RoehrichJayveon,Plan weekend groceries (35),1
+510,RoehrichJayveon,Review project requirements (36),0
+511,RoehrichJayveon,Create JMeter test plan (37),1
+512,RoehrichJayveon,Write unit tests (38),0
+513,RoehrichJayveon,Check server monitoring (39),0
+514,RoehrichJayveon,Organize meeting notes (40),0
+515,RoehrichJayveon,Schedule dentist appointment (41),0
+516,RoehrichJayveon,Review budget (42),1
+517,RoehrichJayveon,Investigate slow response times (43),0
+518,RoehrichJayveon,Review error logs (44),0
+519,RoehrichJayveon,Deploy staging build (45),0
+520,RoehrichJayveon,Check application logs (46),0
+521,RoehrichJayveon,Back up laptop files (47),0
+522,RoehrichJayveon,Walk outside (48),0
+523,RoehrichJayveon,Pay utility bill (49),0
+524,RoehrichJayveon,Deploy staging build (50),0
+525,RoehrichJayveon,Prepare lunch (51),0
+526,RoehrichJayveon,Schedule dentist appointment (52),1
+527,RoehrichJayveon,Update documentation (53),0
+528,RoehrichJayveon,Test mobile layout (54),1
+529,RoehrichJayveon,Create database migration (55),1
+530,RoehrichJayveon,Prepare presentation (56),0
+531,RoehrichJayveon,Check application logs (57),0
+532,RoehrichJayveon,Test mobile layout (58),0
+533,PrecordRamis,Prepare lunch,1
+534,PrecordRamis,Update resume (2),1
+535,PrecordRamis,Prepare lunch (3),0
+536,PrecordRamis,Write unit tests (4),0
+537,PrecordRamis,Organize meeting notes (5),0
+538,PrecordRamis,Optimize database query (6),0
+539,PrecordRamis,Plan next sprint (7),0
+540,PrecordRamis,Check application logs (8),1
+541,PrecordRamis,Prepare lunch (9),0
+542,PrecordRamis,Buy household supplies (10),0
+543,PrecordRamis,Review error logs (11),1
+544,PrecordRamis,Prepare weekly report (12),0
+545,PrecordRamis,Practice coding problems (13),0
+546,PrecordRamis,Check server monitoring (14),0
+547,PrecordRamis,Check application logs (15),1
+548,WuttkeDudley,Walk outside,1
+549,WuttkeDudley,Write integration tests (2),1
+550,WuttkeDudley,Optimize database query (3),0
+551,WuttkeDudley,Review error logs (4),0
+552,WuttkeDudley,Create JMeter test plan (5),0
+553,WuttkeDudley,Write unit tests (6),1
+554,EckroadKeymora,Clean kitchen,0
+555,EckroadKeymora,Pay utility bill (2),1
+556,EckroadKeymora,Investigate slow response times (3),0
+557,EckroadKeymora,Reply to important emails (4),0
+558,EckroadKeymora,Fix login validation (5),1
+559,EckroadKeymora,Organize meeting notes (6),1
+560,EckroadKeymora,Practice coding problems (7),0
+561,EckroadKeymora,Test mobile layout (8),0
+562,EckroadKeymora,Check application logs (9),0
+563,EckroadKeymora,Back up laptop files (10),0
+564,EckroadKeymora,Fix login validation (11),0
+565,EckroadKeymora,Update resume (12),1
+566,EckroadKeymora,Plan weekend groceries (13),0
+567,EckroadKeymora,Go to the gym (14),0
+568,EckroadKeymora,Deploy staging build (15),0
+569,CataldoJeniece,Practice coding problems,0
+570,CataldoJeniece,Reply to important emails (2),0
+571,CataldoJeniece,Review pull request (3),1
+572,CataldoJeniece,Review performance metrics (4),0
+573,CataldoJeniece,Buy household supplies (5),1
+574,CataldoJeniece,Organize calendar (6),1
+575,CataldoJeniece,Update dependencies (7),0
+576,CataldoJeniece,Pay utility bill (8),0
+577,CataldoJeniece,Optimize database query (9),1
+578,CataldoJeniece,Update documentation (10),0
+579,CataldoJeniece,Review pull request (11),1
+580,CataldoJeniece,Review budget (12),1
+581,CataldoJeniece,Review pull request (13),1
+582,CataldoJeniece,Reply to important emails (14),0
+583,PeregrinHawwaa,Clean up workspace,1
+584,PeregrinHawwaa,Clean kitchen (2),0
+585,PeregrinHawwaa,Plan next sprint (3),1
+586,PeregrinHawwaa,Walk outside (4),1
+587,PeregrinHawwaa,Plan next sprint (5),0
+588,PeregrinHawwaa,Refactor API endpoint (6),0
+589,PeregrinHawwaa,Review pull request (7),0
+590,PeregrinHawwaa,Prepare lunch (8),1
+591,PeregrinHawwaa,Pay utility bill (9),0
+592,PeregrinHawwaa,Submit expense report (10),1
+593,PeregrinHawwaa,Clean up workspace (11),1
+594,PeregrinHawwaa,Back up laptop files (12),0
+595,ButhmanKeyoir,Clean kitchen,0
+596,ButhmanKeyoir,Fix login validation (2),0
+597,ButhmanKeyoir,Pay utility bill (3),0
+598,ButhmanKeyoir,Update dependencies (4),0
+599,ButhmanKeyoir,Write unit tests (5),0
+600,ButhmanKeyoir,Plan weekend groceries (6),0
+601,ButhmanKeyoir,Check server monitoring (7),0
+602,ButhmanKeyoir,Check server monitoring (8),1
+603,ButhmanKeyoir,Practice coding problems (9),1
+604,ButhmanKeyoir,Read a chapter (10),1
+605,ButhmanKeyoir,Organize meeting notes (11),1
+606,ButhmanKeyoir,Read a chapter (12),1
+607,ButhmanKeyoir,Prepare lunch (13),0
+608,ButhmanKeyoir,Test mobile layout (14),0
+609,ButhmanKeyoir,Review performance metrics (15),1
+610,ButhmanKeyoir,Practice coding problems (16),1
+611,ButhmanKeyoir,Review pull request (17),0
+612,ButhmanKeyoir,Walk outside (18),0
+613,ButhmanKeyoir,Buy household supplies (19),0
+614,ButhmanKeyoir,Create JMeter test plan (20),0
+615,ButhmanKeyoir,Create JMeter test plan (21),0
+616,ButhmanKeyoir,Deploy staging build (22),1
+617,ButhmanKeyoir,Buy household supplies (23),1
+618,ButhmanKeyoir,Run load test (24),0
+619,ButhmanKeyoir,Plan weekend groceries (25),0
+620,ButhmanKeyoir,Review pull request (26),0
+621,ButhmanKeyoir,Deploy staging build (27),1
+622,ButhmanKeyoir,Create database migration (28),0
+623,ButhmanKeyoir,Plan weekend groceries (29),0
+624,ButhmanKeyoir,Plan weekend groceries (30),0
+625,ButhmanKeyoir,Buy household supplies (31),1
+626,ButhmanKeyoir,Read a chapter (32),1
+627,ButhmanKeyoir,Organize meeting notes (33),0
+628,ButhmanKeyoir,Test mobile layout (34),0
+629,ButhmanKeyoir,Update dependencies (35),0
+630,ButhmanKeyoir,Schedule dentist appointment (36),1
+631,ButhmanKeyoir,Review budget (37),1
+632,ButhmanKeyoir,Buy household supplies (38),0
+633,RunningcraneOhara,Deploy staging build,0
+634,RunningcraneOhara,Review error logs (2),0
+635,RunningcraneOhara,Plan next sprint (3),0
+636,RunningcraneOhara,Review performance metrics (4),0
+637,RunningcraneOhara,Review pull request (5),0
+638,RunningcraneOhara,Prepare presentation (6),1
+639,RunningcraneOhara,Investigate slow response times (7),0
+640,RunningcraneOhara,Update resume (8),0
+641,RunningcraneOhara,Walk outside (9),1
+642,RunningcraneOhara,Check application logs (10),1
+643,RunningcraneOhara,Deploy staging build (11),1
+644,RunningcraneOhara,Practice coding problems (12),0
+645,RunningcraneOhara,Check application logs (13),0
+646,RunningcraneOhara,Review project requirements (14),0
+647,RunningcraneOhara,Clean kitchen (15),1
+648,SciolaNakasha,Clean up workspace,0
+649,SciolaNakasha,Plan next sprint (2),1
+650,SciolaNakasha,Update documentation (3),0
+651,SciolaNakasha,Deploy staging build (4),0
+652,SciolaNakasha,Write integration tests (5),0
+653,SciolaNakasha,Pay utility bill (6),0
+654,SciolaNakasha,Back up laptop files (7),0
+655,SciolaNakasha,Update resume (8),1
+656,SciolaNakasha,Plan next sprint (9),0
+657,BelitskyCardiff,Go to the gym,1
+658,BelitskyCardiff,Clean up workspace (2),1
+659,BelitskyCardiff,Check application logs (3),0
+660,BelitskyCardiff,Write integration tests (4),0
+661,BelitskyCardiff,Check server monitoring (5),1
+662,BelitskyCardiff,Schedule dentist appointment (6),0
+663,BelitskyCardiff,Run load test (7),1
+664,BelitskyCardiff,Review error logs (8),1
+665,BelitskyCardiff,Review error logs (9),0
+666,BelitskyCardiff,Write integration tests (10),0
+667,BelitskyCardiff,Clean kitchen (11),0
+668,BittenbenderMelaia,Prepare presentation,0
+669,BittenbenderMelaia,Refactor API endpoint (2),0
+670,BittenbenderMelaia,Write unit tests (3),1
+671,BittenbenderMelaia,Walk outside (4),1
+672,BittenbenderMelaia,Review budget (5),0
+673,BittenbenderMelaia,Reply to important emails (6),0
+674,BittenbenderMelaia,Reply to important emails (7),1
+675,BittenbenderMelaia,Update resume (8),0
+676,BittenbenderMelaia,Plan weekend groceries (9),1
+677,BittenbenderMelaia,Buy household supplies (10),0
+678,BittenbenderMelaia,Review project requirements (11),0
+679,BittenbenderMelaia,Buy household supplies (12),0
+680,BittenbenderMelaia,Plan next sprint (13),0
+681,BittenbenderMelaia,Update dependencies (14),1
+682,MacaskillJunius,Organize meeting notes,0
+683,MacaskillJunius,Reply to important emails (2),0
+684,MacaskillJunius,Check server monitoring (3),0
+685,MacaskillJunius,Deploy staging build (4),1
+686,MacaskillJunius,Clean kitchen (5),0
+687,MacaskillJunius,Create JMeter test plan (6),0
+688,MacaskillJunius,Review project requirements (7),0
+689,PrimesBreella,Read a chapter,1
+690,PrimesBreella,Create database migration (2),0
+691,PrimesBreella,Refactor API endpoint (3),0
+692,PrimesBreella,Test mobile layout (4),0
+693,PrimesBreella,Update resume (5),0
+694,PrimesBreella,Prepare weekly report (6),1
+695,PrimesBreella,Run load test (7),1
+696,PrimesBreella,Check application logs (8),1
+697,PrimesBreella,Test mobile layout (9),1
+698,PrimesBreella,Create database migration (10),0
+699,PrimesBreella,Refactor API endpoint (11),0
+700,PrimesBreella,Create database migration (12),1
+701,PrimesBreella,Run load test (13),0
+702,PrimesBreella,Prepare lunch (14),0
+703,BrechlinRoberta,Review budget,1
+704,BrechlinRoberta,Test mobile layout (2),1
+705,BrechlinRoberta,Read a chapter (3),0
+706,BrechlinRoberta,Optimize database query (4),0
+707,BrechlinRoberta,Prepare weekly report (5),1
+708,BrechlinRoberta,Schedule dentist appointment (6),1
+709,BrechlinRoberta,Organize calendar (7),0
+710,BrechlinRoberta,Update resume (8),0
+711,BrechlinRoberta,Check server monitoring (9),1
+712,BrechlinRoberta,Go to the gym (10),0
+713,BrechlinRoberta,Fix login validation (11),0
+714,BrechlinRoberta,Fix login validation (12),0
+715,BrechlinRoberta,Update resume (13),0
+716,BrechlinRoberta,Prepare weekly report (14),1
+717,ViramontesNakasha,Create JMeter test plan,1
+718,ViramontesNakasha,Write unit tests (2),0
+719,ViramontesNakasha,Submit expense report (3),0
+720,ViramontesNakasha,Plan next sprint (4),0
+721,ViramontesNakasha,Organize meeting notes (5),0
+722,ViramontesNakasha,Deploy staging build (6),1
+723,ViramontesNakasha,Update dependencies (7),0
+724,ViramontesNakasha,Organize meeting notes (8),0
+725,ViramontesNakasha,Run load test (9),0
+726,ViramontesNakasha,Update dependencies (10),1
+727,ViramontesNakasha,Write integration tests (11),0
+728,ViramontesNakasha,Create database migration (12),0
+729,BorrelJanayla,Create database migration,1
+730,BorrelJanayla,Investigate slow response times (2),0
+731,BorrelJanayla,Check application logs (3),0
+732,BorrelJanayla,Review error logs (4),1
+733,BorrelJanayla,Reply to important emails (5),0
+734,BorrelJanayla,Create JMeter test plan (6),0
+735,BorrelJanayla,Organize calendar (7),0
+736,BorrelJanayla,Practice coding problems (8),0
+737,BorrelJanayla,Clean up workspace (9),0
+738,BorrelJanayla,Write unit tests (10),0
+739,BorrelJanayla,Plan weekend groceries (11),1
+740,YoltonManit,Prepare presentation,0
+741,YoltonManit,Review project requirements (2),0
+742,YoltonManit,Write unit tests (3),0
+743,YoltonManit,Prepare lunch (4),0
+744,YoltonManit,Investigate slow response times (5),1
+745,YoltonManit,Plan weekend groceries (6),1
+746,YoltonManit,Buy household supplies (7),1
+747,LanghorstPinny,Update resume,0
+748,LanghorstPinny,Prepare weekly report (2),1
+749,LanghorstPinny,Read a chapter (3),0
+750,LanghorstPinny,Fix login validation (4),1
+751,LanghorstPinny,Write integration tests (5),0
+752,LanghorstPinny,Plan next sprint (6),0
+753,LanghorstPinny,Schedule dentist appointment (7),0
+754,LanghorstPinny,Review performance metrics (8),1
+755,LanghorstPinny,Update resume (9),1
+756,LanghorstPinny,Buy household supplies (10),1
+757,LanghorstPinny,Fix login validation (11),0
+758,LanghorstPinny,Buy household supplies (12),0
+759,LanghorstPinny,Create JMeter test plan (13),0
+760,LanghorstPinny,Prepare weekly report (14),1
+761,LanghorstPinny,Plan weekend groceries (15),1
+762,LanghorstPinny,Buy household supplies (16),1
+763,LanghorstPinny,Prepare lunch (17),0
+764,LanghorstPinny,Walk outside (18),0
+765,LanghorstPinny,Update dependencies (19),1
+766,LanghorstPinny,Submit expense report (20),1
+767,LanghorstPinny,Check server monitoring (21),0
+768,LanghorstPinny,Review error logs (22),0
+769,LanghorstPinny,Investigate slow response times (23),1
+770,LanghorstPinny,Review pull request (24),1
+771,LanghorstPinny,Test mobile layout (25),0
+772,LanghorstPinny,Practice coding problems (26),1
+773,RosamondOlivér,Create JMeter test plan,1
+774,RosamondOlivér,Review budget (2),0
+775,RosamondOlivér,Fix login validation (3),1
+776,RosamondOlivér,Write integration tests (4),0
+777,RosamondOlivér,Investigate slow response times (5),1
+778,RosamondOlivér,Schedule dentist appointment (6),1
+779,RosamondOlivér,Clean kitchen (7),0
+780,RosamondOlivér,Pay utility bill (8),1
+781,RosamondOlivér,Review budget (9),0
+782,RosamondOlivér,Schedule dentist appointment (10),0
+783,RosamondOlivér,Investigate slow response times (11),0
+784,RosamondOlivér,Check server monitoring (12),0
+785,RosamondOlivér,Reply to important emails (13),0
+786,PeritoreZawdie,Investigate slow response times,0
+787,PeritoreZawdie,Check server monitoring (2),0
+788,PeritoreZawdie,Run load test (3),1
+789,PeritoreZawdie,Refactor API endpoint (4),0
+790,PeritoreZawdie,Deploy staging build (5),0
+791,PeritoreZawdie,Update resume (6),0
+792,PeritoreZawdie,Review error logs (7),0
+793,PeritoreZawdie,Walk outside (8),0
+794,PeritoreZawdie,Refactor API endpoint (9),0
+795,PeritoreZawdie,Reply to important emails (10),0
+796,PeritoreZawdie,Test mobile layout (11),0
+797,PeritoreZawdie,Go to the gym (12),0
+798,SlockbowerCreed,Write unit tests,1
+799,SlockbowerCreed,Practice coding problems (2),0
+800,SlockbowerCreed,Create database migration (3),0
+801,SlockbowerCreed,Check application logs (4),0
+802,SlockbowerCreed,Go to the gym (5),1
+803,SlockbowerCreed,Optimize database query (6),0
+804,SlockbowerCreed,Check application logs (7),0
+805,SlockbowerCreed,Check server monitoring (8),0
+806,SlockbowerCreed,Submit expense report (9),1
+807,SlockbowerCreed,Organize meeting notes (10),0
+808,SlockbowerCreed,Reply to important emails (11),1
+809,SzwedJiraya,Prepare lunch,0
+810,SzwedJiraya,Reply to important emails (2),0
+811,SzwedJiraya,Review budget (3),0
+812,SzwedJiraya,Review pull request (4),0
+813,SzwedJiraya,Buy household supplies (5),0
+814,SzwedJiraya,Prepare lunch (6),0
+815,SzwedJiraya,Read a chapter (7),1
+816,SzwedJiraya,Create JMeter test plan (8),1
+817,BullaraBreella,Pay utility bill,0
+818,BullaraBreella,Review budget (2),0
+819,BullaraBreella,Prepare weekly report (3),1
+820,BullaraBreella,Investigate slow response times (4),1
+821,BullaraBreella,Back up laptop files (5),1
+822,BullaraBreella,Write integration tests (6),0
+823,BullaraBreella,Run load test (7),0
+824,BullaraBreella,Submit expense report (8),0
+825,BullaraBreella,Fix login validation (9),0
+826,BullaraBreella,Review budget (10),1
+827,BullaraBreella,Clean up workspace (11),0
+828,BullaraBreella,Fix login validation (12),0
+829,BullaraBreella,Buy household supplies (13),0
+830,BullaraBreella,Update dependencies (14),0
+831,LynemaLaquavion,Check application logs,1
+832,LynemaLaquavion,Reply to important emails (2),1
+833,LynemaLaquavion,Plan weekend groceries (3),0
+834,LynemaLaquavion,Test mobile layout (4),0
+835,LynemaLaquavion,Clean up workspace (5),0
+836,LynemaLaquavion,Fix login validation (6),0
+837,LynemaLaquavion,Pay utility bill (7),0
+838,LynemaLaquavion,Review budget (8),0
+839,LynemaLaquavion,Deploy staging build (9),0
+840,LynemaLaquavion,Clean kitchen (10),0
+841,LynemaLaquavion,Organize meeting notes (11),0
+842,LynemaLaquavion,Review project requirements (12),1
+843,LynemaLaquavion,Check application logs (13),0
+844,LynemaLaquavion,Optimize database query (14),0
+845,LynemaLaquavion,Review project requirements (15),1
+846,BriansJakhyree,Create database migration,0
+847,BriansJakhyree,Prepare lunch (2),1
+848,BriansJakhyree,Fix login validation (3),0
+849,BriansJakhyree,Update dependencies (4),1
+850,BriansJakhyree,Write unit tests (5),1
+851,BriansJakhyree,Prepare weekly report (6),0
+852,BriansJakhyree,Update resume (7),0
+853,BriansJakhyree,Write unit tests (8),0
+854,BriansJakhyree,Prepare weekly report (9),1
+855,BriansJakhyree,Run load test (10),0
+856,BriansJakhyree,Create JMeter test plan (11),0
+857,BriansJakhyree,Update dependencies (12),0
+858,BriansJakhyree,Back up laptop files (13),0
+859,BriansJakhyree,Plan next sprint (14),1
+860,IchimuraAnnaliesse,Refactor API endpoint,0
+861,IchimuraAnnaliesse,Review performance metrics (2),0
+862,IchimuraAnnaliesse,Run load test (3),0
+863,IchimuraAnnaliesse,Prepare presentation (4),1
+864,IchimuraAnnaliesse,Plan next sprint (5),1
+865,CravenhoFlorida,Review error logs,1
+866,CravenhoFlorida,Investigate slow response times (2),0
+867,CravenhoFlorida,Create database migration (3),1
+868,CravenhoFlorida,Plan weekend groceries (4),0
+869,CravenhoFlorida,Go to the gym (5),1
+870,CravenhoFlorida,Prepare lunch (6),0
+871,CravenhoFlorida,Walk outside (7),1
+872,CravenhoFlorida,Run load test (8),1
+873,CravenhoFlorida,Schedule dentist appointment (9),0
+874,CravenhoFlorida,Prepare weekly report (10),1
+875,CravenhoFlorida,Run load test (11),0
+876,CravenhoFlorida,Deploy staging build (12),1
+877,CravenhoFlorida,Run load test (13),0
+878,CravenhoFlorida,Back up laptop files (14),0
+879,BalbinMeka,Review budget,1
+880,BalbinMeka,Test mobile layout (2),0
+881,BalbinMeka,Optimize database query (3),1
+882,BalbinMeka,Write unit tests (4),0
+883,BalbinMeka,Create database migration (5),1
+884,BalbinMeka,Schedule dentist appointment (6),1
+885,BalbinMeka,Clean up workspace (7),0
+886,BalbinMeka,Review pull request (8),0
+887,BalbinMeka,Pay utility bill (9),0
+888,BalbinMeka,Read a chapter (10),1
+889,BalbinMeka,Go to the gym (11),0
+890,FattoriniMartine,Prepare lunch,1
+891,FattoriniMartine,Prepare weekly report (2),1
+892,FattoriniMartine,Back up laptop files (3),0
+893,FattoriniMartine,Plan weekend groceries (4),0
+894,FattoriniMartine,Update resume (5),1
+895,FattoriniMartine,Review project requirements (6),0
+896,FattoriniMartine,Clean kitchen (7),0
+897,FattoriniMartine,Go to the gym (8),1
+898,FattoriniMartine,Prepare presentation (9),0
+899,FattoriniMartine,Check application logs (10),0
+900,FattoriniMartine,Fix login validation (11),1
+901,FattoriniMartine,Walk outside (12),0
+902,FattoriniMartine,Deploy staging build (13),1
+903,FattoriniMartine,Review budget (14),0
+904,FattoriniMartine,Check application logs (15),1
+905,FattoriniMartine,Test mobile layout (16),1
+906,FattoriniMartine,Read a chapter (17),0
+907,FattoriniMartine,Buy household supplies (18),0
+908,FattoriniMartine,Prepare weekly report (19),1
+909,FattoriniMartine,Run load test (20),1
+910,FattoriniMartine,Review error logs (21),1
+911,FattoriniMartine,Write unit tests (22),1
+912,FattoriniMartine,Update resume (23),0
+913,SeongRaymell,Plan next sprint,0
+914,SeongRaymell,Organize calendar (2),0
+915,SeongRaymell,Go to the gym (3),0
+916,SeongRaymell,Schedule dentist appointment (4),0
+917,SeongRaymell,Walk outside (5),0
+918,SeongRaymell,Review project requirements (6),0
+919,SeongRaymell,Update documentation (7),0
+920,SeongRaymell,Update documentation (8),0
+921,SeongRaymell,Refactor API endpoint (9),0
+922,SeongRaymell,Prepare presentation (10),1
+923,SeongRaymell,Submit expense report (11),0
+924,LaderaAthenea,Review budget,0
+925,LaderaAthenea,Prepare lunch (2),0
+926,LaderaAthenea,Review budget (3),0
+927,LaderaAthenea,Fix login validation (4),0
+928,LaderaAthenea,Test mobile layout (5),0
+929,LaderaAthenea,Walk outside (6),0
+930,LaderaAthenea,Test mobile layout (7),1
+931,LaderaAthenea,Investigate slow response times (8),0
+932,LaderaAthenea,Create JMeter test plan (9),0
+933,LaderaAthenea,Prepare presentation (10),1
+934,LaderaAthenea,Walk outside (11),0
+935,LaderaAthenea,Update dependencies (12),1
+936,LaderaAthenea,Pay utility bill (13),0
+937,FattoriniShalee,Review budget,1
+938,FattoriniShalee,Update resume (2),1
+939,FattoriniShalee,Prepare weekly report (3),1
+940,FattoriniShalee,Prepare weekly report (4),1
+941,FattoriniShalee,Review budget (5),0
+942,FattoriniShalee,Run load test (6),1
+943,LindbomJakhyree,Pay utility bill,0
+944,LindbomJakhyree,Prepare lunch (2),0
+945,LindbomJakhyree,Update dependencies (3),0
+946,LindbomJakhyree,Schedule dentist appointment (4),0
+947,LindbomJakhyree,Organize meeting notes (5),0
+948,LindbomJakhyree,Create JMeter test plan (6),0
+949,LindbomJakhyree,Reply to important emails (7),0
+950,LindbomJakhyree,Clean up workspace (8),0
+951,LindbomJakhyree,Review budget (9),0
+952,LindbomJakhyree,Create database migration (10),0
+953,LindbomJakhyree,Go to the gym (11),0
+954,LindbomJakhyree,Read a chapter (12),0
+955,LindbomJakhyree,Pay utility bill (13),0
+956,LindbomJakhyree,Organize meeting notes (14),0
+957,LindbomJakhyree,Walk outside (15),1
+958,LindbomJakhyree,Investigate slow response times (16),1
+959,LindbomJakhyree,Prepare weekly report (17),0
+960,LindbomJakhyree,Review pull request (18),1
+961,LindbomJakhyree,Clean kitchen (19),1
+962,LindbomJakhyree,Update dependencies (20),0
+963,LindbomJakhyree,Clean up workspace (21),1
+964,LindbomJakhyree,Plan weekend groceries (22),1
+965,LindbomJakhyree,Read a chapter (23),0
+966,MagtibayJefte,Go to the gym,1
+967,MagtibayJefte,Clean kitchen (2),0
+968,MagtibayJefte,Write unit tests (3),1
+969,MagtibayJefte,Go to the gym (4),1
+970,MagtibayJefte,Review error logs (5),1
+971,MagtibayJefte,Review pull request (6),1
+972,MagtibayJefte,Review performance metrics (7),0
+973,MagtibayJefte,Create database migration (8),1
+974,MagtibayJefte,Organize meeting notes (9),1
+975,MagtibayJefte,Buy household supplies (10),0
+976,MagtibayJefte,Run load test (11),0
+977,MagtibayJefte,Prepare weekly report (12),0
+978,MagtibayJefte,Practice coding problems (13),1
+979,SaternMallari,Run load test,1
+980,SaternMallari,Test mobile layout (2),1
+981,SaternMallari,Review pull request (3),1
+982,SaternMallari,Plan weekend groceries (4),0
+983,SaternMallari,Investigate slow response times (5),0
+984,SaternMallari,Review project requirements (6),1
+985,SaternMallari,Prepare weekly report (7),0
+986,SaternMallari,Review performance metrics (8),0
+987,SaternMallari,Practice coding problems (9),1
+988,CraveiroOmon,Submit expense report,0
+989,CraveiroOmon,Plan next sprint (2),1
+990,CraveiroOmon,Run load test (3),0
+991,CraveiroOmon,Clean kitchen (4),0
+992,CraveiroOmon,Plan weekend groceries (5),0
+993,CraveiroOmon,Prepare weekly report (6),1
+994,CraveiroOmon,Schedule dentist appointment (7),1
+995,CraveiroOmon,Update documentation (8),0
+996,ArocaJamyre,Update dependencies,0
+997,ArocaJamyre,Review performance metrics (2),1
+998,ArocaJamyre,Plan weekend groceries (3),0
+999,ArocaJamyre,Organize calendar (4),0
+1000,ArocaJamyre,Check application logs (5),0
+1001,KubasiakDelio,Deploy staging build,1
+1002,KubasiakDelio,Run load test (2),0
+1003,KubasiakDelio,Go to the gym (3),0
+1004,KubasiakDelio,Update dependencies (4),1
+1005,KubasiakDelio,Walk outside (5),1
+1006,KubasiakDelio,Investigate slow response times (6),0
+1007,LucidoTabytha,Optimize database query,0
+1008,LucidoTabytha,Update dependencies (2),0
+1009,LucidoTabytha,Fix login validation (3),1
+1010,LucidoTabytha,Deploy staging build (4),1
+1011,LucidoTabytha,Update resume (5),1
+1012,LucidoTabytha,Plan weekend groceries (6),0
+1013,LucidoTabytha,Test mobile layout (7),0
+1014,LucidoTabytha,Reply to important emails (8),0
+1015,LucidoTabytha,Refactor API endpoint (9),0
+1016,LucidoTabytha,Review performance metrics (10),0
+1017,LucidoTabytha,Review performance metrics (11),0
+1018,LucidoTabytha,Test mobile layout (12),0
+1019,LucidoTabytha,Fix login validation (13),0
+1020,LucidoTabytha,Review budget (14),0
+1021,BaltusSakar,Buy household supplies,0
+1022,BaltusSakar,Walk outside (2),1
+1023,BaltusSakar,Deploy staging build (3),0
+1024,BaltusSakar,Read a chapter (4),1
+1025,BaltusSakar,Test mobile layout (5),0
+1026,BaltusSakar,Test mobile layout (6),0
+1027,BaltusSakar,Deploy staging build (7),0
+1028,BaltusSakar,Optimize database query (8),1
+1029,BaltusSakar,Check server monitoring (9),1
+1030,BaltusSakar,Clean kitchen (10),0
+1031,BaltusSakar,Prepare presentation (11),1
+1032,BaltusSakar,Submit expense report (12),0
+1033,BaltusSakar,Review error logs (13),1
+1034,BaltusSakar,Update dependencies (14),1
+1035,BaltusSakar,Update documentation (15),1
+1036,BaltusSakar,Deploy staging build (16),1
+1037,BaltusSakar,Create database migration (17),0
+1038,BaltusSakar,Prepare lunch (18),0
+1039,BaltusSakar,Review project requirements (19),0
+1040,BaltusSakar,Organize calendar (20),0
+1041,BaltusSakar,Back up laptop files (21),0
+1042,BaltusSakar,Submit expense report (22),1
+1043,BaltusSakar,Check application logs (23),0
+1044,BaltusSakar,Read a chapter (24),0
+1045,BaltusSakar,Update resume (25),1
+1046,BaltusSakar,Organize calendar (26),0
+1047,BaltusSakar,Optimize database query (27),1
+1048,BaltusSakar,Optimize database query (28),0
+1049,BaltusSakar,Review error logs (29),1
+1050,BaltusSakar,Go to the gym (30),1
+1051,BaltusSakar,Review performance metrics (31),0
+1052,BaltusSakar,Practice coding problems (32),0
+1053,BaltusSakar,Update documentation (33),0
+1054,BaltusSakar,Clean up workspace (34),1
+1055,BaltusSakar,Read a chapter (35),0
+1056,BaltusSakar,Optimize database query (36),1
+1057,BaltusSakar,Clean kitchen (37),0
+1058,BaltusSakar,Run load test (38),0
+1059,BaltusSakar,Update resume (39),1
+1060,DahlheimThaiden,Submit expense report,1
+1061,DahlheimThaiden,Review budget (2),0
+1062,DahlheimThaiden,Write unit tests (3),0
+1063,DahlheimThaiden,Plan next sprint (4),1
+1064,DahlheimThaiden,Schedule dentist appointment (5),0
+1065,WestabyRayniyah,Create JMeter test plan,0
+1066,WestabyRayniyah,Practice coding problems (2),0
+1067,WestabyRayniyah,Check application logs (3),1
+1068,WestabyRayniyah,Review error logs (4),0
+1069,WestabyRayniyah,Check application logs (5),1
+1070,WestabyRayniyah,Check application logs (6),0
+1071,WestabyRayniyah,Walk outside (7),1
+1072,WestabyRayniyah,Prepare weekly report (8),0
+1073,WestabyRayniyah,Check application logs (9),0
+1074,WestabyRayniyah,Investigate slow response times (10),0
+1075,WestabyRayniyah,Review error logs (11),0
+1076,WestabyRayniyah,Review error logs (12),1
+1077,WestabyRayniyah,Deploy staging build (13),1
+1078,MolaisonKiamani,Run load test,0
+1079,MolaisonKiamani,Check application logs (2),0
+1080,MolaisonKiamani,Review error logs (3),1
+1081,MolaisonKiamani,Review error logs (4),0
+1082,MolaisonKiamani,Clean kitchen (5),1
+1083,MolaisonKiamani,Check application logs (6),0
+1084,MolaisonKiamani,Fix login validation (7),0
+1085,MolaisonKiamani,Back up laptop files (8),1
+1086,MolaisonKiamani,Organize calendar (9),0
+1087,MolaisonKiamani,Plan next sprint (10),1
+1088,MolaisonKiamani,Reply to important emails (11),0
+1089,MolaisonKiamani,Check server monitoring (12),0
+1090,MolaisonKiamani,Plan next sprint (13),1
+1091,ProferaNathain,Review error logs,1
+1092,ProferaNathain,Review error logs (2),1
+1093,ProferaNathain,Deploy staging build (3),0
+1094,ProferaNathain,Review pull request (4),0
+1095,ProferaNathain,Go to the gym (5),0
+1096,ProferaNathain,Review error logs (6),1
+1097,NantellDuban,Back up laptop files,0
+1098,NantellDuban,Submit expense report (2),0
+1099,NantellDuban,Review performance metrics (3),0
+1100,NantellDuban,Reply to important emails (4),1
+1101,NantellDuban,Investigate slow response times (5),0
+1102,NantellDuban,Write unit tests (6),0
+1103,NantellDuban,Check application logs (7),1
+1104,NantellDuban,Review budget (8),0
+1105,NantellDuban,Schedule dentist appointment (9),0
+1106,NantellDuban,Clean up workspace (10),1
+1107,NantellDuban,Review error logs (11),1
+1108,NantellDuban,Prepare lunch (12),0
+1109,NantellDuban,Write unit tests (13),0
+1110,TorossianRo,Create database migration,0
+1111,TorossianRo,Fix login validation (2),0
+1112,TorossianRo,Schedule dentist appointment (3),0
+1113,TorossianRo,Run load test (4),1
+1114,TorossianRo,Practice coding problems (5),0
+1115,TorossianRo,Review project requirements (6),0
+1116,TorossianRo,Update dependencies (7),1
+1117,TorossianRo,Organize meeting notes (8),0
+1118,TorossianRo,Update documentation (9),1
+1119,TorossianRo,Organize calendar (10),0
+1120,TorossianRo,Run load test (11),0
+1121,TorossianRo,Review budget (12),0
+1122,TorossianRo,Update resume (13),0
+1123,SuricoMaiyah,Plan next sprint,0
+1124,SuricoMaiyah,Optimize database query (2),0
+1125,SuricoMaiyah,Optimize database query (3),0
+1126,SuricoMaiyah,Schedule dentist appointment (4),1
+1127,SuricoMaiyah,Update dependencies (5),0
+1128,SuricoMaiyah,Review performance metrics (6),0
+1129,SuricoMaiyah,Walk outside (7),0
+1130,SuricoMaiyah,Clean kitchen (8),1
+1131,SuricoMaiyah,Run load test (9),0
+1132,LucidoQuintisha,Refactor API endpoint,1
+1133,LucidoQuintisha,Pay utility bill (2),1
+1134,LucidoQuintisha,Create database migration (3),1
+1135,LucidoQuintisha,Run load test (4),1
+1136,LucidoQuintisha,Prepare presentation (5),0
+1137,LucidoQuintisha,Investigate slow response times (6),0
+1138,LucidoQuintisha,Submit expense report (7),0
+1139,LucidoQuintisha,Clean kitchen (8),0
+1140,LucidoQuintisha,Practice coding problems (9),1
+1141,LucidoQuintisha,Clean up workspace (10),0
+1142,ClenneyZahmir,Update documentation,0
+1143,ClenneyZahmir,Review performance metrics (2),0
+1144,ClenneyZahmir,Schedule dentist appointment (3),0
+1145,ClenneyZahmir,Read a chapter (4),1
+1146,ClenneyZahmir,Review pull request (5),0
+1147,ClenneyZahmir,Organize calendar (6),1
+1148,ClenneyZahmir,Submit expense report (7),1
+1149,ClenneyZahmir,Review project requirements (8),1
+1150,ClenneyZahmir,Write unit tests (9),0
+1151,ClenneyZahmir,Buy household supplies (10),1
+1152,ClenneyZahmir,Fix login validation (11),0
+1153,ClenneyZahmir,Schedule dentist appointment (12),1
+1154,ClenneyZahmir,Write integration tests (13),0
+1155,ClenneyZahmir,Organize meeting notes (14),0
+1156,ClenneyZahmir,Update documentation (15),1
+1157,KroezePennyann,Write unit tests,0
+1158,KroezePennyann,Review error logs (2),0
+1159,KroezePennyann,Update documentation (3),0
+1160,KroezePennyann,Reply to important emails (4),0
+1161,KroezePennyann,Test mobile layout (5),0
+1162,FlotteAzly,Investigate slow response times,0
+1163,FlotteAzly,Test mobile layout (2),0
+1164,FlotteAzly,Prepare lunch (3),1
+1165,FlotteAzly,Prepare presentation (4),0
+1166,FlotteAzly,Write integration tests (5),0
+1167,FlotteAzly,Pay utility bill (6),0
+1168,FlotteAzly,Check application logs (7),0
+1169,FlotteAzly,Review budget (8),0
+1170,FlotteAzly,Review budget (9),0
+1171,FlotteAzly,Pay utility bill (10),0
+1172,FlotteAzly,Check application logs (11),0
+1173,FlotteAzly,Clean kitchen (12),0
+1174,AllysonCmone,Submit expense report,1
+1175,AllysonCmone,Review performance metrics (2),0
+1176,AllysonCmone,Practice coding problems (3),0
+1177,AllysonCmone,Test mobile layout (4),0
+1178,AllysonCmone,Review pull request (5),1
+1179,AllysonCmone,Check application logs (6),1
+1180,AllysonCmone,Practice coding problems (7),0
+1181,AllysonCmone,Check server monitoring (8),0
+1182,AllysonCmone,Plan next sprint (9),0
+1183,AllysonCmone,Clean up workspace (10),1
+1184,AllysonCmone,Back up laptop files (11),1
+1185,RosboroughMarvia,Walk outside,1
+1186,RosboroughMarvia,Create JMeter test plan (2),1
+1187,RosboroughMarvia,Prepare presentation (3),0
+1188,RosboroughMarvia,Go to the gym (4),1
+1189,RosboroughMarvia,Test mobile layout (5),0
+1190,RosboroughMarvia,Back up laptop files (6),0
+1191,RosboroughMarvia,Optimize database query (7),0
+1192,RosboroughMarvia,Fix login validation (8),0
+1193,RosboroughMarvia,Update resume (9),1
+1194,RosboroughMarvia,Prepare weekly report (10),0
+1195,RosboroughMarvia,Write integration tests (11),0
+1196,RosboroughMarvia,Go to the gym (12),0
+1197,MontjoyElieen,Refactor API endpoint,0
+1198,MontjoyElieen,Create database migration (2),1
+1199,MontjoyElieen,Test mobile layout (3),0
+1200,MontjoyElieen,Submit expense report (4),0
+1201,MontjoyElieen,Write unit tests (5),0
+1202,MontjoyElieen,Optimize database query (6),0
+1203,MontjoyElieen,Write integration tests (7),0
+1204,MontjoyElieen,Submit expense report (8),0
+1205,MontjoyElieen,Update documentation (9),0
+1206,MontjoyElieen,Prepare presentation (10),0
+1207,MontjoyElieen,Refactor API endpoint (11),0
+1208,MontjoyElieen,Prepare lunch (12),1
+1209,MontjoyElieen,Check application logs (13),0
+1210,MontjoyElieen,Buy household supplies (14),1
+1211,MontjoyElieen,Read a chapter (15),1
+1212,ShimunovAhlias,Back up laptop files,0
+1213,ShimunovAhlias,Deploy staging build (2),0
+1214,ShimunovAhlias,Prepare presentation (3),0
+1215,ShimunovAhlias,Create JMeter test plan (4),0
+1216,ShimunovAhlias,Read a chapter (5),1
+1217,ShimunovAhlias,Run load test (6),0
+1218,ShimunovAhlias,Review performance metrics (7),0
+1219,ShimunovAhlias,Review error logs (8),0
+1220,ShimunovAhlias,Fix login validation (9),0
+1221,ShimunovAhlias,Check server monitoring (10),1
+1222,ShimunovAhlias,Create JMeter test plan (11),0
+1223,ShimunovAhlias,Submit expense report (12),0
+1224,ShimunovAhlias,Go to the gym (13),0
+1225,ShimunovAhlias,Investigate slow response times (14),0
+1226,ShimunovAhlias,Organize meeting notes (15),1
+1227,ShimunovAhlias,Review pull request (16),0
+1228,ShimunovAhlias,Update dependencies (17),0
+1229,ShimunovAhlias,Investigate slow response times (18),0
+1230,ShimunovAhlias,Write integration tests (19),0
+1231,ShimunovAhlias,Review project requirements (20),1
+1232,ShimunovAhlias,Organize meeting notes (21),0
+1233,ShimunovAhlias,Test mobile layout (22),0
+1234,ShimunovAhlias,Plan weekend groceries (23),1
+1235,ShimunovAhlias,Refactor API endpoint (24),0
+1236,ShimunovAhlias,Prepare weekly report (25),1
+1237,ShimunovAhlias,Test mobile layout (26),1
+1238,ShimunovAhlias,Update dependencies (27),0
+1239,ShimunovAhlias,Deploy staging build (28),0
+1240,ShimunovAhlias,Investigate slow response times (29),0
+1241,ShimunovAhlias,Review budget (30),0
+1242,ShimunovAhlias,Investigate slow response times (31),0
+1243,ShimunovAhlias,Run load test (32),0
+1244,ShimunovAhlias,Check application logs (33),1
+1245,ShimunovAhlias,Check server monitoring (34),0
+1246,ShimunovAhlias,Plan next sprint (35),0
+1247,ShimunovAhlias,Review pull request (36),0
+1248,ShimunovAhlias,Pay utility bill (37),0
+1249,ShimunovAhlias,Reply to important emails (38),0
+1250,ShimunovAhlias,Buy household supplies (39),0
+1251,ShimunovAhlias,Pay utility bill (40),0
+1252,ShimunovAhlias,Investigate slow response times (41),0
+1253,ShimunovAhlias,Update dependencies (42),0
+1254,ShimunovAhlias,Create JMeter test plan (43),0
+1255,ShimunovAhlias,Plan next sprint (44),1
+1256,ShimunovAhlias,Investigate slow response times (45),0
+1257,ShimunovAhlias,Practice coding problems (46),1
+1258,ShimunovAhlias,Clean kitchen (47),0
+1259,MinayaMaylena,Go to the gym,0
+1260,MinayaMaylena,Write integration tests (2),0
+1261,MinayaMaylena,Refactor API endpoint (3),1
+1262,MinayaMaylena,Review project requirements (4),0
+1263,MinayaMaylena,Prepare weekly report (5),0
+1264,MinayaMaylena,Clean up workspace (6),0
+1265,MinayaMaylena,Prepare weekly report (7),0
+1266,MinayaMaylena,Submit expense report (8),1
+1267,MinayaMaylena,Review performance metrics (9),0
+1268,MinayaMaylena,Buy household supplies (10),1
+1269,MinayaMaylena,Practice coding problems (11),1
+1270,MinayaMaylena,Go to the gym (12),0
+1271,MinayaMaylena,Write integration tests (13),0
+1272,MinayaMaylena,Submit expense report (14),1
+1273,MinayaMaylena,Clean up workspace (15),0
+1274,MinayaMaylena,Prepare weekly report (16),0
+1275,MinayaMaylena,Prepare lunch (17),0
+1276,MinayaMaylena,Review project requirements (18),0
+1277,MinayaMaylena,Write unit tests (19),1
+1278,MinayaMaylena,Walk outside (20),0
+1279,MinayaMaylena,Optimize database query (21),0
+1280,MinayaMaylena,Buy household supplies (22),1
+1281,MinayaMaylena,Review performance metrics (23),0
+1282,MinayaMaylena,Practice coding problems (24),0
+1283,MinayaMaylena,Read a chapter (25),0
+1284,MinayaMaylena,Review pull request (26),0
+1285,MinayaMaylena,Clean kitchen (27),1
+1286,MinayaMaylena,Review project requirements (28),0
+1287,MinayaMaylena,Reply to important emails (29),0
+1288,MinayaMaylena,Reply to important emails (30),1
+1289,MinayaMaylena,Prepare presentation (31),0
+1290,MinayaMaylena,Check server monitoring (32),0
+1291,MinayaMaylena,Schedule dentist appointment (33),1
+1292,MinayaMaylena,Write integration tests (34),0
+1293,LabarcaDebrha,Prepare lunch,0
+1294,LabarcaDebrha,Prepare weekly report (2),0
+1295,LabarcaDebrha,Run load test (3),1
+1296,LabarcaDebrha,Create database migration (4),0
+1297,LabarcaDebrha,Review pull request (5),1
+1298,BrowandProsper,Reply to important emails,0
+1299,BrowandProsper,Prepare lunch (2),0
+1300,BrowandProsper,Update documentation (3),1
+1301,BrowandProsper,Create database migration (4),0
+1302,BrowandProsper,Run load test (5),0
+1303,MajetteTawana,Organize calendar,0
+1304,MajetteTawana,Clean up workspace (2),0
+1305,MajetteTawana,Review project requirements (3),1
+1306,MajetteTawana,Fix login validation (4),0
+1307,MajetteTawana,Review performance metrics (5),0
+1308,MajetteTawana,Review error logs (6),1
+1309,MajetteTawana,Clean up workspace (7),0
+1310,MajetteTawana,Create JMeter test plan (8),0
+1311,MajetteTawana,Submit expense report (9),0
+1312,MajetteTawana,Review error logs (10),1
+1313,MajetteTawana,Prepare presentation (11),0
+1314,MajetteTawana,Prepare lunch (12),0
+1315,MajetteTawana,Write unit tests (13),1
+1316,MajetteTawana,Clean up workspace (14),1
+1317,BastressHermoine,Schedule dentist appointment,0
+1318,BastressHermoine,Review error logs (2),0
+1319,BastressHermoine,Run load test (3),1
+1320,BastressHermoine,Update documentation (4),0
+1321,BastressHermoine,Create JMeter test plan (5),0
+1322,BastressHermoine,Go to the gym (6),0
+1323,BastressHermoine,Create database migration (7),0
+1324,BastressHermoine,Review budget (8),0
+1325,BastressHermoine,Refactor API endpoint (9),0
+1326,BastressHermoine,Refactor API endpoint (10),1
+1327,BastressHermoine,Read a chapter (11),0
+1328,BastressHermoine,Walk outside (12),0
+1329,BastressHermoine,Clean kitchen (13),0
+1330,BastressHermoine,Review performance metrics (14),0
+1331,BastressHermoine,Plan next sprint (15),0
+1332,VivianLilandra,Write unit tests,0
+1333,VivianLilandra,Review error logs (2),1
+1334,VivianLilandra,Prepare lunch (3),0
+1335,VivianLilandra,Create database migration (4),1
+1336,VivianLilandra,Reply to important emails (5),0
+1337,VivianLilandra,Fix login validation (6),1
+1338,VivianLilandra,Optimize database query (7),0
+1339,VivianLilandra,Practice coding problems (8),0
+1340,VivianLilandra,Update dependencies (9),1
+1341,VivianLilandra,Walk outside (10),1
+1342,VivianLilandra,Review budget (11),0
+1343,VivianLilandra,Schedule dentist appointment (12),0
+1344,VivianLilandra,Organize calendar (13),0
+1345,RaganoSkylor,Prepare weekly report,0
+1346,RaganoSkylor,Clean up workspace (2),1
+1347,RaganoSkylor,Test mobile layout (3),0
+1348,RaganoSkylor,Back up laptop files (4),1
+1349,RaganoSkylor,Back up laptop files (5),0
+1350,RaganoSkylor,Go to the gym (6),0
+1351,RaganoSkylor,Organize meeting notes (7),0
+1352,RaganoSkylor,Create database migration (8),0
+1353,RaganoSkylor,Deploy staging build (9),1
+1354,RaganoSkylor,Deploy staging build (10),0
+1355,RaganoSkylor,Practice coding problems (11),0
+1356,RaganoSkylor,Update resume (12),0
+1357,RaganoSkylor,Submit expense report (13),0
+1358,RaganoSkylor,Check application logs (14),1
+1359,RaganoSkylor,Check server monitoring (15),0
+1360,RaganoSkylor,Refactor API endpoint (16),1
+1361,RaganoSkylor,Back up laptop files (17),0
+1362,RaganoSkylor,Deploy staging build (18),0
+1363,RaganoSkylor,Plan weekend groceries (19),0
+1364,RaganoSkylor,Check application logs (20),1
+1365,RaganoSkylor,Prepare presentation (21),0
+1366,RaganoSkylor,Walk outside (22),0
+1367,RaganoSkylor,Go to the gym (23),0
+1368,RaganoSkylor,Prepare lunch (24),1
+1369,RaganoSkylor,Pay utility bill (25),0
+1370,RaganoSkylor,Create database migration (26),0
+1371,RaganoSkylor,Test mobile layout (27),0
+1372,RaganoSkylor,Read a chapter (28),0
+1373,RaganoSkylor,Prepare weekly report (29),0
+1374,RaganoSkylor,Organize meeting notes (30),1
+1375,RaganoSkylor,Prepare presentation (31),0
+1376,RaganoSkylor,Refactor API endpoint (32),0
+1377,RaganoSkylor,Practice coding problems (33),1
+1378,RaganoSkylor,Fix login validation (34),0
+1379,RaganoSkylor,Write integration tests (35),0
+1380,RaganoSkylor,Run load test (36),0
+1381,RaganoSkylor,Update dependencies (37),0
+1382,BernadotteRamir,Review error logs,1
+1383,BernadotteRamir,Review error logs (2),1
+1384,BernadotteRamir,Clean up workspace (3),0
+1385,BernadotteRamir,Prepare lunch (4),0
+1386,BernadotteRamir,Organize calendar (5),1
+1387,BernadotteRamir,Run load test (6),0
+1388,BernadotteRamir,Deploy staging build (7),0
+1389,BrikIvyanne,Optimize database query,0
+1390,BrikIvyanne,Update documentation (2),0
+1391,BrikIvyanne,Investigate slow response times (3),1
+1392,BrikIvyanne,Optimize database query (4),0
+1393,BrikIvyanne,Review project requirements (5),1
+1394,BrikIvyanne,Write integration tests (6),0
+1395,BrikIvyanne,Update resume (7),0
+1396,BrikIvyanne,Update dependencies (8),0
+1397,BrikIvyanne,Fix login validation (9),0
+1398,BrikIvyanne,Reply to important emails (10),0
+1399,BrikIvyanne,Prepare weekly report (11),0
+1400,BrikIvyanne,Review error logs (12),0
+1401,BrikIvyanne,Plan weekend groceries (13),1
+1402,BrikIvyanne,Review pull request (14),1
+1403,BrikIvyanne,Investigate slow response times (15),1
+1404,BrikIvyanne,Plan next sprint (16),0
+1405,BrikIvyanne,Review pull request (17),0
+1406,BrikIvyanne,Prepare lunch (18),0
+1407,BrikIvyanne,Organize meeting notes (19),1
+1408,BrikIvyanne,Prepare lunch (20),1
+1409,BrikIvyanne,Create database migration (21),0
+1410,BrikIvyanne,Organize meeting notes (22),0
+1411,BrikIvyanne,Investigate slow response times (23),0
+1412,BrikIvyanne,Check server monitoring (24),1
+1413,BrikIvyanne,Read a chapter (25),1
+1414,BrikIvyanne,Write unit tests (26),0
+1415,BrikIvyanne,Update documentation (27),1
+1416,BrikIvyanne,Back up laptop files (28),1
+1417,BrikIvyanne,Check server monitoring (29),0
+1418,BrikIvyanne,Deploy staging build (30),0
+1419,BrikIvyanne,Reply to important emails (31),0
+1420,BrikIvyanne,Deploy staging build (32),1
+1421,BrikIvyanne,Organize meeting notes (33),0
+1422,BrikIvyanne,Write unit tests (34),0
+1423,BrikIvyanne,Investigate slow response times (35),1
+1424,BrikIvyanne,Create database migration (36),0
+1425,BrikIvyanne,Clean up workspace (37),0
+1426,BrikIvyanne,Review error logs (38),1
+1427,BrikIvyanne,Run load test (39),0
+1428,BrikIvyanne,Plan weekend groceries (40),0
+1429,BrikIvyanne,Plan next sprint (41),0
+1430,BoodyShalisha,Review project requirements,0
+1431,BoodyShalisha,Check server monitoring (2),0
+1432,BoodyShalisha,Review pull request (3),0
+1433,BoodyShalisha,Review error logs (4),0
+1434,BoodyShalisha,Go to the gym (5),0
+1435,BoodyShalisha,Review performance metrics (6),1
+1436,HerrIsiac,Review project requirements,1
+1437,HerrIsiac,Read a chapter (2),0
+1438,HerrIsiac,Back up laptop files (3),0
+1439,HerrIsiac,Review error logs (4),1
+1440,HerrIsiac,Prepare lunch (5),0
+1441,HerrIsiac,Run load test (6),1
+1442,HerrIsiac,Buy household supplies (7),0
+1443,HerrIsiac,Organize meeting notes (8),1
+1444,HerrIsiac,Read a chapter (9),1
+1445,HerrIsiac,Back up laptop files (10),1
+1446,HerrIsiac,Fix login validation (11),0
+1447,HerrIsiac,Deploy staging build (12),0
+1448,HerrIsiac,Organize meeting notes (13),0
+1449,HerrIsiac,Pay utility bill (14),0
+1450,DedonJamyre,Refactor API endpoint,0
+1451,DedonJamyre,Test mobile layout (2),0
+1452,DedonJamyre,Investigate slow response times (3),0
+1453,DedonJamyre,Investigate slow response times (4),0
+1454,DedonJamyre,Deploy staging build (5),1
+1455,DedonJamyre,Review error logs (6),0
+1456,DedonJamyre,Review budget (7),0
+1457,DedonJamyre,Clean up workspace (8),0
+1458,SeatsJanayla,Buy household supplies,0
+1459,SeatsJanayla,Review pull request (2),0
+1460,SeatsJanayla,Clean up workspace (3),0
+1461,SeatsJanayla,Deploy staging build (4),0
+1462,SeatsJanayla,Back up laptop files (5),1
+1463,SeatsJanayla,Prepare weekly report (6),1
+1464,SeatsJanayla,Walk outside (7),0
+1465,SeatsJanayla,Plan next sprint (8),0
+1466,SeatsJanayla,Update documentation (9),0
+1467,SeatsJanayla,Update documentation (10),0
+1468,SeatsJanayla,Review performance metrics (11),0
+1469,SeatsJanayla,Investigate slow response times (12),1
+1470,SeatsJanayla,Refactor API endpoint (13),1
+1471,SeatsJanayla,Create JMeter test plan (14),0
+1472,SeatsJanayla,Optimize database query (15),0
+1473,SeatsJanayla,Walk outside (16),1
+1474,SeatsJanayla,Clean up workspace (17),1
+1475,SeatsJanayla,Check application logs (18),0
+1476,SeatsJanayla,Clean kitchen (19),0
+1477,SeatsJanayla,Review pull request (20),0
+1478,SeatsJanayla,Pay utility bill (21),0
+1479,SeatsJanayla,Update dependencies (22),0
+1480,SeatsJanayla,Prepare weekly report (23),0
+1481,SeatsJanayla,Create JMeter test plan (24),1
+1482,SeatsJanayla,Organize meeting notes (25),1
+1483,SeatsJanayla,Organize meeting notes (26),1
+1484,SeatsJanayla,Refactor API endpoint (27),0
+1485,SeatsJanayla,Update resume (28),0
+1486,SeatsJanayla,Prepare lunch (29),0
+1487,SeatsJanayla,Plan next sprint (30),1
+1488,SeatsJanayla,Prepare lunch (31),0
+1489,SeatsJanayla,Pay utility bill (32),0
+1490,TesmerOhara,Submit expense report,0
+1491,TesmerOhara,Review error logs (2),1
+1492,TesmerOhara,Check application logs (3),0
+1493,TesmerOhara,Clean up workspace (4),0
+1494,TesmerOhara,Prepare lunch (5),0
+1495,TurnmireJakylon,Create JMeter test plan,0
+1496,TurnmireJakylon,Refactor API endpoint (2),0
+1497,TurnmireJakylon,Review error logs (3),1
+1498,TurnmireJakylon,Update dependencies (4),1
+1499,TurnmireJakylon,Review error logs (5),0
+1500,TurnmireJakylon,Schedule dentist appointment (6),1
+1501,TurnmireJakylon,Go to the gym (7),0
+1502,TurnmireJakylon,Update resume (8),0
+1503,ShrakeJakeryan,Organize meeting notes,0
+1504,ShrakeJakeryan,Prepare weekly report (2),0
+1505,ShrakeJakeryan,Prepare lunch (3),0
+1506,ShrakeJakeryan,Create JMeter test plan (4),1
+1507,ShrakeJakeryan,Check server monitoring (5),1
+1508,ShrakeJakeryan,Buy household supplies (6),0
+1509,ShrakeJakeryan,Refactor API endpoint (7),0
+1510,ShrakeJakeryan,Review budget (8),1
+1511,ShrakeJakeryan,Plan weekend groceries (9),0
+1512,BrannanAchante,Prepare weekly report,0
+1513,BrannanAchante,Practice coding problems (2),0
+1514,BrannanAchante,Plan weekend groceries (3),0
+1515,BrannanAchante,Review error logs (4),0
+1516,BrannanAchante,Review budget (5),0
+1517,PieningIrza,Update dependencies,0
+1518,PieningIrza,Walk outside (2),1
+1519,PieningIrza,Review error logs (3),1
+1520,PieningIrza,Refactor API endpoint (4),0
+1521,PieningIrza,Prepare weekly report (5),0
+1522,PieningIrza,Organize calendar (6),1
+1523,PieningIrza,Organize calendar (7),0
+1524,PieningIrza,Optimize database query (8),0
+1525,PieningIrza,Investigate slow response times (9),0
+1526,PieningIrza,Create JMeter test plan (10),0
+1527,GidelRiah,Create database migration,1
+1528,GidelRiah,Review error logs (2),1
+1529,GidelRiah,Check application logs (3),0
+1530,GidelRiah,Update dependencies (4),0
+1531,GidelRiah,Submit expense report (5),0
+1532,GidelRiah,Organize meeting notes (6),0
+1533,GidelRiah,Create JMeter test plan (7),0
+1534,GidelRiah,Review budget (8),1
+1535,HilgendorfAndri,Review project requirements,0
+1536,HilgendorfAndri,Plan next sprint (2),0
+1537,HilgendorfAndri,Create database migration (3),0
+1538,HilgendorfAndri,Go to the gym (4),0
+1539,HilgendorfAndri,Organize meeting notes (5),1
+1540,HilgendorfAndri,Run load test (6),1
+1541,HilgendorfAndri,Review pull request (7),0
+1542,HilgendorfAndri,Review budget (8),0
+1543,HilgendorfAndri,Back up laptop files (9),0
+1544,NomuraJohnae,Plan weekend groceries,0
+1545,NomuraJohnae,Review budget (2),1
+1546,NomuraJohnae,Run load test (3),1
+1547,NomuraJohnae,Review project requirements (4),0
+1548,NomuraJohnae,Clean kitchen (5),1
+1549,NomuraJohnae,Review pull request (6),0
+1550,NomuraJohnae,Check server monitoring (7),0
+1551,NomuraJohnae,Go to the gym (8),0
+1552,IbragimovJaceson,Fix login validation,0
+1553,IbragimovJaceson,Create database migration (2),1
+1554,IbragimovJaceson,Create JMeter test plan (3),1
+1555,IbragimovJaceson,Review error logs (4),0
+1556,IbragimovJaceson,Schedule dentist appointment (5),1
+1557,IbragimovJaceson,Submit expense report (6),0
+1558,IbragimovJaceson,Check server monitoring (7),0
+1559,IbragimovJaceson,Check application logs (8),1
+1560,IbragimovJaceson,Review error logs (9),0
+1561,IbragimovJaceson,Prepare weekly report (10),1
+1562,IbragimovJaceson,Update resume (11),1
+1563,IbragimovJaceson,Deploy staging build (12),0
+1564,IbragimovJaceson,Go to the gym (13),1
+1565,IbragimovJaceson,Fix login validation (14),0
+1566,IbragimovJaceson,Create database migration (15),1
+1567,IbragimovJaceson,Deploy staging build (16),1
+1568,IbragimovJaceson,Prepare lunch (17),0
+1569,BiasellaMauriah,Plan next sprint,1
+1570,BiasellaMauriah,Buy household supplies (2),1
+1571,BiasellaMauriah,Go to the gym (3),1
+1572,BiasellaMauriah,Review error logs (4),0
+1573,BiasellaMauriah,Review performance metrics (5),1
+1574,BiasellaMauriah,Reply to important emails (6),0
+1575,BiasellaMauriah,Plan weekend groceries (7),0
+1576,BiasellaMauriah,Test mobile layout (8),1
+1577,BiasellaMauriah,Review performance metrics (9),0
+1578,BiasellaMauriah,Pay utility bill (10),1
+1579,BiasellaMauriah,Test mobile layout (11),0
+1580,BiasellaMauriah,Clean kitchen (12),0
+1581,BiasellaMauriah,Clean kitchen (13),0
+1582,BiasellaMauriah,Check application logs (14),0
+1583,BiasellaMauriah,Submit expense report (15),1
+1584,BiasellaMauriah,Go to the gym (16),0
+1585,BiasellaMauriah,Check application logs (17),1
+1586,BiasellaMauriah,Update resume (18),0
+1587,BiasellaMauriah,Clean up workspace (19),1
+1588,BiasellaMauriah,Update dependencies (20),1
+1589,BiasellaMauriah,Check server monitoring (21),0
+1590,BiasellaMauriah,Create database migration (22),0
+1591,BiasellaMauriah,Create database migration (23),0
+1592,BiasellaMauriah,Write unit tests (24),1
+1593,BiasellaMauriah,Refactor API endpoint (25),0
+1594,BiasellaMauriah,Clean up workspace (26),0
+1595,BiasellaMauriah,Prepare presentation (27),0
+1596,BiasellaMauriah,Prepare presentation (28),0
+1597,BiasellaMauriah,Submit expense report (29),0
+1598,BiasellaMauriah,Organize meeting notes (30),0
+1599,CushardMaddison,Check server monitoring,0
+1600,CushardMaddison,Review budget (2),1
+1601,CushardMaddison,Practice coding problems (3),1
+1602,CushardMaddison,Write unit tests (4),0
+1603,CushardMaddison,Review pull request (5),0
+1604,CushardMaddison,Update dependencies (6),1
+1605,CushardMaddison,Prepare presentation (7),1
+1606,CushardMaddison,Update dependencies (8),0
+1607,CushardMaddison,Optimize database query (9),0
+1608,CushardMaddison,Walk outside (10),0
+1609,CushardMaddison,Plan next sprint (11),0
+1610,CushardMaddison,Read a chapter (12),1
+1611,CushardMaddison,Check application logs (13),1
+1612,CushardMaddison,Review error logs (14),1
+1613,ShelburneTamaris,Review pull request,1
+1614,ShelburneTamaris,Walk outside (2),0
+1615,ShelburneTamaris,Test mobile layout (3),0
+1616,ShelburneTamaris,Read a chapter (4),1
+1617,ShelburneTamaris,Read a chapter (5),0
+1618,ShelburneTamaris,Optimize database query (6),0
+1619,ShelburneTamaris,Review project requirements (7),1
+1620,ShelburneTamaris,Create JMeter test plan (8),1
+1621,ShelburneTamaris,Refactor API endpoint (9),1
+1622,ShelburneTamaris,Clean kitchen (10),0
+1623,KonieckiArshia,Check server monitoring,0
+1624,KonieckiArshia,Review error logs (2),1
+1625,KonieckiArshia,Plan weekend groceries (3),1
+1626,KonieckiArshia,Check application logs (4),1
+1627,KonieckiArshia,Plan weekend groceries (5),1
+1628,KonieckiArshia,Go to the gym (6),0
+1629,KonieckiArshia,Refactor API endpoint (7),0
+1630,KonieckiArshia,Optimize database query (8),0
+1631,KonieckiArshia,Organize meeting notes (9),1
+1632,KonieckiArshia,Prepare presentation (10),0
+1633,KonieckiArshia,Prepare weekly report (11),0
+1634,TorisLessie,Prepare presentation,0
+1635,TorisLessie,Prepare lunch (2),0
+1636,TorisLessie,Create JMeter test plan (3),0
+1637,TorisLessie,Test mobile layout (4),0
+1638,TorisLessie,Review error logs (5),1
+1639,TorisLessie,Review budget (6),1
+1640,TorisLessie,Review error logs (7),1
+1641,TorisLessie,Investigate slow response times (8),0
+1642,TorisLessie,Plan weekend groceries (9),0
+1643,TorisLessie,Prepare presentation (10),1
+1644,TorisLessie,Create JMeter test plan (11),0
+1645,TorisLessie,Buy household supplies (12),0
+1646,TorisLessie,Write unit tests (13),1
+1647,TorisLessie,Walk outside (14),0
+1648,FitzpatrickMaurico,Test mobile layout,1
+1649,FitzpatrickMaurico,Organize calendar (2),0
+1650,FitzpatrickMaurico,Schedule dentist appointment (3),0
+1651,FitzpatrickMaurico,Prepare presentation (4),0
+1652,FitzpatrickMaurico,Update resume (5),0
+1653,FitzpatrickMaurico,Deploy staging build (6),0
+1654,FitzpatrickMaurico,Back up laptop files (7),0
+1655,FitzpatrickMaurico,Schedule dentist appointment (8),0
+1656,FitzpatrickMaurico,Refactor API endpoint (9),0
+1657,PavliskaRayjean,Plan next sprint,0
+1658,PavliskaRayjean,Plan next sprint (2),0
+1659,PavliskaRayjean,Reply to important emails (3),1
+1660,PavliskaRayjean,Run load test (4),1
+1661,PavliskaRayjean,Test mobile layout (5),1
+1662,PavliskaRayjean,Plan next sprint (6),0
+1663,PavliskaRayjean,Update resume (7),0
+1664,PavliskaRayjean,Clean kitchen (8),0
+1665,PavliskaRayjean,Clean up workspace (9),0
+1666,GruettnerTincy,Reply to important emails,0
+1667,GruettnerTincy,Check server monitoring (2),0
+1668,GruettnerTincy,Run load test (3),0
+1669,GruettnerTincy,Reply to important emails (4),0
+1670,GruettnerTincy,Buy household supplies (5),0
+1671,GruettnerTincy,Review error logs (6),1
+1672,GruettnerTincy,Investigate slow response times (7),0
+1673,FesterKeymarion,Fix login validation,1
+1674,FesterKeymarion,Investigate slow response times (2),0
+1675,FesterKeymarion,Review budget (3),0
+1676,FesterKeymarion,Fix login validation (4),0
+1677,FesterKeymarion,Create database migration (5),1
+1678,FesterKeymarion,Review performance metrics (6),0
+1679,FesterKeymarion,Organize meeting notes (7),0
+1680,FesterKeymarion,Reply to important emails (8),0
+1681,VaudrainAmare,Test mobile layout,0
+1682,VaudrainAmare,Review pull request (2),0
+1683,VaudrainAmare,Plan next sprint (3),0
+1684,VaudrainAmare,Run load test (4),0
+1685,VaudrainAmare,Buy household supplies (5),0
+1686,VaudrainAmare,Write integration tests (6),1
+1687,VaudrainAmare,Run load test (7),0
+1688,VaudrainAmare,Check server monitoring (8),0
+1689,VaudrainAmare,Organize calendar (9),1
+1690,VaudrainAmare,Practice coding problems (10),0
+1691,VaudrainAmare,Optimize database query (11),0
+1692,SkalnikTyreise,Fix login validation,0
+1693,SkalnikTyreise,Test mobile layout (2),1
+1694,SkalnikTyreise,Organize calendar (3),0
+1695,SkalnikTyreise,Check application logs (4),0
+1696,SkalnikTyreise,Create JMeter test plan (5),1
+1697,SkalnikTyreise,Organize calendar (6),1
+1698,SkalnikTyreise,Prepare lunch (7),0
+1699,SkalnikTyreise,Check application logs (8),1
+1700,SkalnikTyreise,Clean up workspace (9),1
+1701,AsimakopoulosDaran,Clean up workspace,1
+1702,AsimakopoulosDaran,Check server monitoring (2),0
+1703,AsimakopoulosDaran,Refactor API endpoint (3),0
+1704,AsimakopoulosDaran,Create database migration (4),0
+1705,AsimakopoulosDaran,Update resume (5),1
+1706,AsimakopoulosDaran,Pay utility bill (6),0
+1707,AsimakopoulosDaran,Deploy staging build (7),0
+1708,AsimakopoulosDaran,Update resume (8),0
+1709,AsimakopoulosDaran,Prepare lunch (9),0
+1710,AsimakopoulosDaran,Practice coding problems (10),1
+1711,AsimakopoulosDaran,Review pull request (11),0
+1712,AsimakopoulosDaran,Write unit tests (12),0
+1713,AsimakopoulosDaran,Clean kitchen (13),0
+1714,AsimakopoulosDaran,Schedule dentist appointment (14),0
+1715,AsimakopoulosDaran,Plan next sprint (15),1
+1716,AsimakopoulosDaran,Fix login validation (16),0
+1717,AsimakopoulosDaran,Reply to important emails (17),0
+1718,AsimakopoulosDaran,Review project requirements (18),0
+1719,AsimakopoulosDaran,Buy household supplies (19),0
+1720,AsimakopoulosDaran,Prepare presentation (20),0
+1721,AsimakopoulosDaran,Test mobile layout (21),0
+1722,AsimakopoulosDaran,Write integration tests (22),0
+1723,AsimakopoulosDaran,Check application logs (23),1
+1724,AsimakopoulosDaran,Prepare presentation (24),0
+1725,AsimakopoulosDaran,Check server monitoring (25),1
+1726,AsimakopoulosDaran,Test mobile layout (26),0
+1727,AsimakopoulosDaran,Write integration tests (27),0
+1728,AsimakopoulosDaran,Create database migration (28),0
+1729,AsimakopoulosDaran,Update documentation (29),0
+1730,AsimakopoulosDaran,Optimize database query (30),0
+1731,LaderaJefte,Schedule dentist appointment,0
+1732,LaderaJefte,Walk outside (2),1
+1733,LaderaJefte,Optimize database query (3),0
+1734,LaderaJefte,Plan next sprint (4),0
+1735,LaderaJefte,Update documentation (5),0
+1736,LaderaJefte,Clean kitchen (6),0
+1737,LaderaJefte,Back up laptop files (7),0
+1738,LaderaJefte,Schedule dentist appointment (8),0
+1739,LaderaJefte,Update documentation (9),0
+1740,NadlerOlatunde,Review budget,0
+1741,NadlerOlatunde,Practice coding problems (2),1
+1742,NadlerOlatunde,Review budget (3),1
+1743,NadlerOlatunde,Prepare weekly report (4),1
+1744,NadlerOlatunde,Walk outside (5),1
+1745,NadlerOlatunde,Review project requirements (6),1
+1746,NadlerOlatunde,Fix login validation (7),1
+1747,NadlerOlatunde,Practice coding problems (8),0
+1748,YerhotJilliana,Plan weekend groceries,1
+1749,YerhotJilliana,Review project requirements (2),1
+1750,YerhotJilliana,Go to the gym (3),0
+1751,YerhotJilliana,Review error logs (4),0
+1752,YerhotJilliana,Prepare presentation (5),0
+1753,YerhotJilliana,Schedule dentist appointment (6),1
+1754,YerhotJilliana,Back up laptop files (7),0
+1755,YerhotJilliana,Review error logs (8),1
+1756,YerhotJilliana,Back up laptop files (9),0
+1757,YerhotJilliana,Update resume (10),0
+1758,AdolphsenCoady,Fix login validation,0
+1759,AdolphsenCoady,Plan next sprint (2),1
+1760,AdolphsenCoady,Update documentation (3),1
+1761,AdolphsenCoady,Pay utility bill (4),0
+1762,AdolphsenCoady,Reply to important emails (5),1
+1763,AdolphsenCoady,Prepare weekly report (6),1
+1764,AdolphsenCoady,Deploy staging build (7),0
+1765,AdolphsenCoady,Organize meeting notes (8),1
+1766,AdolphsenCoady,Organize meeting notes (9),1
+1767,AdolphsenCoady,Create JMeter test plan (10),1
+1768,AdolphsenCoady,Review pull request (11),1
+1769,AdolphsenCoady,Check server monitoring (12),1
+1770,AdolphsenCoady,Prepare lunch (13),0
+1771,AdolphsenCoady,Organize calendar (14),1
+1772,HobdenCashtian,Prepare presentation,1
+1773,HobdenCashtian,Plan weekend groceries (2),1
+1774,HobdenCashtian,Run load test (3),1
+1775,HobdenCashtian,Write unit tests (4),1
+1776,HobdenCashtian,Go to the gym (5),1
+1777,HobdenCashtian,Schedule dentist appointment (6),0
+1778,HobdenCashtian,Clean up workspace (7),1
+1779,HobdenCashtian,Organize meeting notes (8),0
+1780,HobdenCashtian,Clean kitchen (9),1
+1781,HobdenCashtian,Back up laptop files (10),0
+1782,HobdenCashtian,Deploy staging build (11),0
+1783,HobdenCashtian,Run load test (12),0
+1784,HobdenCashtian,Review project requirements (13),0
+1785,HobdenCashtian,Read a chapter (14),0
+1786,HobdenCashtian,Write integration tests (15),1
+1787,HobdenCashtian,Clean kitchen (16),0
+1788,HobdenCashtian,Prepare weekly report (17),1
+1789,HobdenCashtian,Check server monitoring (18),1
+1790,HobdenCashtian,Check application logs (19),1
+1791,HobdenCashtian,Optimize database query (20),0
+1792,HobdenCashtian,Test mobile layout (21),1
+1793,HobdenCashtian,Create database migration (22),0
+1794,HobdenCashtian,Clean kitchen (23),1
+1795,HobdenCashtian,Deploy staging build (24),1
+1796,HobdenCashtian,Clean kitchen (25),1
+1797,HobdenCashtian,Test mobile layout (26),0
+1798,HobdenCashtian,Organize calendar (27),0
+1799,HobdenCashtian,Create database migration (28),0
+1800,HobdenCashtian,Practice coding problems (29),0
+1801,HobdenCashtian,Review project requirements (30),0
+1802,HobdenCashtian,Update resume (31),1
+1803,HobdenCashtian,Organize meeting notes (32),1
+1804,HobdenCashtian,Read a chapter (33),1
+1805,HobdenCashtian,Buy household supplies (34),0
+1806,HobdenCashtian,Pay utility bill (35),0
+1807,HobdenCashtian,Prepare lunch (36),0
+1808,HobdenCashtian,Review error logs (37),0
+1809,HobdenCashtian,Submit expense report (38),1
+1810,HobdenCashtian,Check server monitoring (39),1
+1811,HobdenCashtian,Schedule dentist appointment (40),1
+1812,HobdenCashtian,Fix login validation (41),1
+1813,HobdenCashtian,Create database migration (42),0
+1814,HobdenCashtian,Prepare lunch (43),0
+1815,HobdenCashtian,Organize calendar (44),1
+1816,HobdenCashtian,Investigate slow response times (45),0
+1817,HobdenCashtian,Read a chapter (46),1
+1818,HobdenCashtian,Run load test (47),0
+1819,HobdenCashtian,Optimize database query (48),0
+1820,HobdenCashtian,Write integration tests (49),1
+1821,HobdenCashtian,Submit expense report (50),0
+1822,HobdenCashtian,Check application logs (51),1
+1823,HobdenCashtian,Review project requirements (52),0
+1824,HobdenCashtian,Review performance metrics (53),0
+1825,HobdenCashtian,Review project requirements (54),0
+1826,HobdenCashtian,Clean kitchen (55),1
+1827,HobdenCashtian,Go to the gym (56),0
+1828,HobdenCashtian,Prepare weekly report (57),1
+1829,HobdenCashtian,Refactor API endpoint (58),0
+1830,HobdenCashtian,Organize calendar (59),1
+1831,HobdenCashtian,Review pull request (60),0
+1832,HobdenCashtian,Plan weekend groceries (61),0
+1833,HobdenCashtian,Investigate slow response times (62),0
+1834,HobdenCashtian,Check server monitoring (63),1
+1835,HobdenCashtian,Practice coding problems (64),0
+1836,HobdenCashtian,Update resume (65),0
+1837,HobdenCashtian,Review project requirements (66),1
+1838,HobdenCashtian,Plan next sprint (67),0
+1839,HobdenCashtian,Review project requirements (68),1
+1840,HobdenCashtian,Prepare presentation (69),0
+1841,HobdenCashtian,Refactor API endpoint (70),1
+1842,HobdenCashtian,Plan weekend groceries (71),0
+1843,HobdenCashtian,Test mobile layout (72),1
+1844,HobdenCashtian,Review pull request (73),0
+1845,HobdenCashtian,Back up laptop files (74),0
+1846,HobdenCashtian,Organize meeting notes (75),0
+1847,HobdenCashtian,Organize meeting notes (76),0
+1848,HobdenCashtian,Clean up workspace (77),0
+1849,HobdenCashtian,Update dependencies (78),1
+1850,HobdenCashtian,Review project requirements (79),0
+1851,HobdenCashtian,Buy household supplies (80),0
+1852,HobdenCashtian,Create database migration (81),0
+1853,HobdenCashtian,Go to the gym (82),0
+1854,HobdenCashtian,Back up laptop files (83),0
+1855,HobdenCashtian,Review error logs (84),0
+1856,HobdenCashtian,Clean up workspace (85),1
+1857,HobdenCashtian,Read a chapter (86),1
+1858,HobdenCashtian,Update resume (87),0
+1859,HobdenCashtian,Prepare lunch (88),0
+1860,HobdenCashtian,Refactor API endpoint (89),0
+1861,HobdenCashtian,Schedule dentist appointment (90),1
+1862,HobdenCashtian,Review pull request (91),1
+1863,HobdenCashtian,Run load test (92),0
+1864,HobdenCashtian,Prepare presentation (93),0
+1865,HobdenCashtian,Update dependencies (94),0
+1866,HobdenCashtian,Organize calendar (95),0
+1867,HobdenCashtian,Fix login validation (96),1
+1868,HobdenCashtian,Investigate slow response times (97),0
+1869,HobdenCashtian,Review performance metrics (98),1
+1870,HobdenCashtian,Update dependencies (99),1
+1871,HobdenCashtian,Organize calendar (100),0
+1872,HobdenCashtian,Go to the gym (101),0
+1873,HobdenCashtian,Review project requirements (102),1
+1874,HobdenCashtian,Review pull request (103),1
+1875,HobdenCashtian,Update dependencies (104),0
+1876,HobdenCashtian,Deploy staging build (105),0
+1877,HobdenCashtian,Plan next sprint (106),0
+1878,HobdenCashtian,Plan next sprint (107),0
+1879,HobdenCashtian,Write integration tests (108),0
+1880,HobdenCashtian,Run load test (109),0
+1881,HobdenCashtian,Fix login validation (110),1
+1882,HobdenCashtian,Optimize database query (111),0
+1883,HobdenCashtian,Optimize database query (112),1
+1884,HobdenCashtian,Clean kitchen (113),1
+1885,HobdenCashtian,Check application logs (114),0
+1886,HobdenCashtian,Review pull request (115),0
+1887,HobdenCashtian,Buy household supplies (116),0
+1888,HobdenCashtian,Buy household supplies (117),1
+1889,HobdenCashtian,Walk outside (118),0
+1890,HobdenCashtian,Clean kitchen (119),1
+1891,HobdenCashtian,Deploy staging build (120),0
+1892,HobdenCashtian,Fix login validation (121),0
+1893,HobdenCashtian,Optimize database query (122),0
+1894,HobdenCashtian,Refactor API endpoint (123),0
+1895,HobdenCashtian,Review budget (124),1
+1896,HobdenCashtian,Update resume (125),0
+1897,HobdenCashtian,Check server monitoring (126),0
+1898,HobdenCashtian,Review budget (127),1
+1899,HobdenCashtian,Pay utility bill (128),0
+1900,HobdenCashtian,Prepare lunch (129),1
+1901,HobdenCashtian,Reply to important emails (130),1
+1902,HobdenCashtian,Buy household supplies (131),0
+1903,HobdenCashtian,Plan next sprint (132),0
+1904,HobdenCashtian,Organize meeting notes (133),0
+1905,HobdenCashtian,Clean up workspace (134),1
+1906,HobdenCashtian,Create database migration (135),0
+1907,HobdenCashtian,Optimize database query (136),0
+1908,HobdenCashtian,Refactor API endpoint (137),0
+1909,HobdenCashtian,Submit expense report (138),1
+1910,HobdenCashtian,Go to the gym (139),0
+1911,HobdenCashtian,Reply to important emails (140),0
+1912,HobdenCashtian,Refactor API endpoint (141),0
+1913,HobdenCashtian,Check application logs (142),1
+1914,HobdenCashtian,Review project requirements (143),0
+1915,HobdenCashtian,Update documentation (144),1
+1916,HobdenCashtian,Check application logs (145),0
+1917,HobdenCashtian,Update resume (146),0
+1918,HobdenCashtian,Update documentation (147),0
+1919,HobdenCashtian,Prepare lunch (148),1
+1920,HobdenCashtian,Create database migration (149),0
+1921,HobdenCashtian,Review project requirements (150),0
+1922,HobdenCashtian,Optimize database query (151),0
+1923,HobdenCashtian,Run load test (152),1
+1924,HobdenCashtian,Practice coding problems (153),0
+1925,HobdenCashtian,Refactor API endpoint (154),0
+1926,HobdenCashtian,Go to the gym (155),0
+1927,HobdenCashtian,Optimize database query (156),1
+1928,HobdenCashtian,Review project requirements (157),0
+1929,HobdenCashtian,Back up laptop files (158),1
+1930,HobdenCashtian,Write unit tests (159),0
+1931,HobdenCashtian,Practice coding problems (160),1
+1932,HobdenCashtian,Test mobile layout (161),0
+1933,HobdenCashtian,Update dependencies (162),0
+1934,HobdenCashtian,Update dependencies (163),0
+1935,HobdenCashtian,Update documentation (164),0
+1936,HobdenCashtian,Prepare lunch (165),1
+1937,HobdenCashtian,Prepare weekly report (166),0
+1938,HobdenCashtian,Test mobile layout (167),0
+1939,HobdenCashtian,Organize meeting notes (168),0
+1940,HobdenCashtian,Investigate slow response times (169),1
+1941,HobdenCashtian,Optimize database query (170),1
+1942,HobdenCashtian,Run load test (171),1
+1943,HobdenCashtian,Plan weekend groceries (172),0
+1944,HobdenCashtian,Fix login validation (173),0
+1945,HobdenCashtian,Read a chapter (174),0
+1946,HobdenCashtian,Pay utility bill (175),1
+1947,HobdenCashtian,Pay utility bill (176),1
+1948,HobdenCashtian,Plan weekend groceries (177),1
+1949,HobdenCashtian,Schedule dentist appointment (178),0
+1950,HobdenCashtian,Optimize database query (179),0
+1951,HobdenCashtian,Review error logs (180),1
+1952,HobdenCashtian,Organize meeting notes (181),1
+1953,HobdenCashtian,Review error logs (182),0
+1954,HobdenCashtian,Prepare lunch (183),1
+1955,HobdenCashtian,Review performance metrics (184),0
+1956,HobdenCashtian,Reply to important emails (185),0
+1957,HobdenCashtian,Prepare lunch (186),0
+1958,HobdenCashtian,Go to the gym (187),0
+1959,HobdenCashtian,Review error logs (188),0
+1960,HobdenCashtian,Test mobile layout (189),0
+1961,HobdenCashtian,Optimize database query (190),0
+1962,HobdenCashtian,Review budget (191),0
+1963,HobdenCashtian,Check application logs (192),0
+1964,HobdenCashtian,Create JMeter test plan (193),0
+1965,HobdenCashtian,Organize calendar (194),0
+1966,HobdenCashtian,Deploy staging build (195),0
+1967,HobdenCashtian,Refactor API endpoint (196),1
+1968,StockfishSjon,Update documentation,1
+1969,StockfishSjon,Run load test (2),0
+1970,StockfishSjon,Refactor API endpoint (3),0
+1971,StockfishSjon,Update resume (4),0
+1972,StockfishSjon,Review pull request (5),0
+1973,StockfishSjon,Organize calendar (6),1
+1974,StockfishSjon,Update dependencies (7),1
+1975,StockfishSjon,Update documentation (8),0
+1976,StockfishSjon,Submit expense report (9),1
+1977,StockfishSjon,Buy household supplies (10),0
+1978,RudoyDerrek,Update documentation,0
+1979,RudoyDerrek,Review budget (2),0
+1980,RudoyDerrek,Write integration tests (3),0
+1981,RudoyDerrek,Run load test (4),0
+1982,RudoyDerrek,Write integration tests (5),0
+1983,RudoyDerrek,Optimize database query (6),1
+1984,RudoyDerrek,Walk outside (7),0
+1985,RudoyDerrek,Run load test (8),0
+1986,RudoyDerrek,Go to the gym (9),0
+1987,RudoyDerrek,Optimize database query (10),0
+1988,RudoyDerrek,Update documentation (11),1
+1989,RudoyDerrek,Submit expense report (12),0
+1990,RudoyDerrek,Read a chapter (13),1
+1991,RudoyDerrek,Deploy staging build (14),0
+1992,RudoyDerrek,Refactor API endpoint (15),0
+1993,RudoyDerrek,Create JMeter test plan (16),0
+1994,RudoyDerrek,Test mobile layout (17),0
+1995,RudoyDerrek,Update dependencies (18),1
+1996,RudoyDerrek,Plan weekend groceries (19),1
+1997,RudoyDerrek,Clean kitchen (20),0
+1998,RudoyDerrek,Deploy staging build (21),1
+1999,RudoyDerrek,Prepare presentation (22),1
+2000,RudoyDerrek,Create JMeter test plan (23),0
+2001,RudoyDerrek,Investigate slow response times (24),0
+2002,RudoyDerrek,Back up laptop files (25),0
+2003,RudoyDerrek,Optimize database query (26),0
+2004,RudoyDerrek,Practice coding problems (27),0
+2005,RudoyDerrek,Schedule dentist appointment (28),0
+2006,RudoyDerrek,Refactor API endpoint (29),1
+2007,RudoyDerrek,Submit expense report (30),1
+2008,RudoyDerrek,Write integration tests (31),0
+2009,RudoyDerrek,Check server monitoring (32),0
+2010,RudoyDerrek,Test mobile layout (33),1
+2011,RudoyDerrek,Create JMeter test plan (34),0
+2012,RudoyDerrek,Pay utility bill (35),0
+2013,RudoyDerrek,Submit expense report (36),1
+2014,RudoyDerrek,Update resume (37),1
+2015,RudoyDerrek,Clean up workspace (38),0
+2016,RudoyDerrek,Clean kitchen (39),1
+2017,RudoyDerrek,Prepare lunch (40),1
+2018,RudoyDerrek,Update documentation (41),1
+2019,RudoyDerrek,Pay utility bill (42),0
+2020,RudoyDerrek,Submit expense report (43),1
+2021,RudoyDerrek,Optimize database query (44),1
+2022,RudoyDerrek,Schedule dentist appointment (45),0
+2023,RudoyDerrek,Walk outside (46),0
+2024,RudoyDerrek,Write unit tests (47),0
+2025,RudoyDerrek,Check application logs (48),1
+2026,RudoyDerrek,Clean up workspace (49),0
+2027,RudoyDerrek,Write integration tests (50),0
+2028,RudoyDerrek,Pay utility bill (51),1
+2029,RudoyDerrek,Write integration tests (52),0
+2030,RudoyDerrek,Organize meeting notes (53),1
+2031,RudoyDerrek,Submit expense report (54),0
+2032,RudoyDerrek,Buy household supplies (55),0
+2033,RudoyDerrek,Deploy staging build (56),0
+2034,SikdarNashlie,Review pull request,0
+2035,SikdarNashlie,Plan weekend groceries (2),0
+2036,SikdarNashlie,Plan next sprint (3),1
+2037,SikdarNashlie,Submit expense report (4),0
+2038,SikdarNashlie,Read a chapter (5),0
+2039,SikdarNashlie,Back up laptop files (6),0
+2040,SikdarNashlie,Optimize database query (7),0
+2041,SikdarNashlie,Deploy staging build (8),1
+2042,SikdarNashlie,Back up laptop files (9),1
+2043,SikdarNashlie,Schedule dentist appointment (10),0
+2044,SikdarNashlie,Organize meeting notes (11),0
+2045,SikdarNashlie,Organize calendar (12),1
+2046,SikdarNashlie,Create database migration (13),1
+2047,SikdarNashlie,Go to the gym (14),0
+2048,SikdarNashlie,Submit expense report (15),1
+2049,PieningChayden,Investigate slow response times,0
+2050,PieningChayden,Investigate slow response times (2),0
+2051,PieningChayden,Write integration tests (3),0
+2052,PieningChayden,Review performance metrics (4),1
+2053,PieningChayden,Create database migration (5),1
+2054,PieningChayden,Run load test (6),0
+2055,PieningChayden,Create database migration (7),1
+2056,PieningChayden,Pay utility bill (8),0
+2057,PieningChayden,Prepare weekly report (9),1
+2058,PieningChayden,Update resume (10),0
+2059,PieningChayden,Check server monitoring (11),0
+2060,PieningChayden,Review project requirements (12),0
+2061,PieningChayden,Test mobile layout (13),0
+2062,PieningChayden,Prepare weekly report (14),1
+2063,PieningChayden,Buy household supplies (15),0
+2064,PieningChayden,Deploy staging build (16),1
+2065,PieningChayden,Test mobile layout (17),0
+2066,PieningChayden,Investigate slow response times (18),0
+2067,PieningChayden,Update documentation (19),0
+2068,PieningChayden,Plan next sprint (20),1
+2069,PieningChayden,Organize meeting notes (21),0
+2070,PieningChayden,Prepare lunch (22),1
+2071,PieningChayden,Write unit tests (23),0
+2072,PieningChayden,Review project requirements (24),0
+2073,PieningChayden,Prepare weekly report (25),0
+2074,PieningChayden,Read a chapter (26),1
+2075,PieningChayden,Test mobile layout (27),1
+2076,PieningChayden,Review error logs (28),0
+2077,PieningChayden,Optimize database query (29),1
+2078,PieningChayden,Organize calendar (30),0
+2079,PieningChayden,Update dependencies (31),1
+2080,PieningChayden,Organize meeting notes (32),1
+2081,PieningChayden,Review error logs (33),0
+2082,PieningChayden,Review project requirements (34),0
+2083,PieningChayden,Review budget (35),0
+2084,PieningChayden,Review project requirements (36),0
+2085,PieningChayden,Organize calendar (37),1
+2086,PieningChayden,Plan next sprint (38),0
+2087,PieningChayden,Update dependencies (39),1
+2088,PieningChayden,Prepare weekly report (40),1
+2089,PieningChayden,Prepare lunch (41),1
+2090,PieningChayden,Pay utility bill (42),0
+2091,PieningChayden,Create database migration (43),1
+2092,PieningChayden,Prepare weekly report (44),1
+2093,PieningChayden,Update resume (45),1
+2094,PieningChayden,Pay utility bill (46),0
+2095,GrubichL?rinc,Plan next sprint,0
+2096,GrubichL?rinc,Review performance metrics (2),1
+2097,GrubichL?rinc,Go to the gym (3),0
+2098,GrubichL?rinc,Reply to important emails (4),0
+2099,GrubichL?rinc,Review error logs (5),1
+2100,GrubichL?rinc,Back up laptop files (6),1
+2101,GrubichL?rinc,Deploy staging build (7),0
+2102,GrubichL?rinc,Check server monitoring (8),0
+2103,GrubichL?rinc,Investigate slow response times (9),0
+2104,AverbuchMaggie,Clean kitchen,0
+2105,AverbuchMaggie,Review pull request (2),0
+2106,AverbuchMaggie,Clean up workspace (3),1
+2107,AverbuchMaggie,Update documentation (4),0
+2108,AverbuchMaggie,Plan next sprint (5),0
+2109,AverbuchMaggie,Practice coding problems (6),0
+2110,AverbuchMaggie,Clean up workspace (7),0
+2111,AverbuchMaggie,Create database migration (8),0
+2112,AverbuchMaggie,Test mobile layout (9),0
+2113,TujagueJakylon,Run load test,0
+2114,TujagueJakylon,Prepare lunch (2),0
+2115,TujagueJakylon,Review project requirements (3),1
+2116,TujagueJakylon,Review pull request (4),0
+2117,TujagueJakylon,Test mobile layout (5),0
+2118,TujagueJakylon,Practice coding problems (6),0
+2119,TujagueJakylon,Investigate slow response times (7),0
+2120,TujagueJakylon,Read a chapter (8),0
+2121,TujagueJakylon,Schedule dentist appointment (9),0
+2122,TujagueJakylon,Back up laptop files (10),1
+2123,TujagueJakylon,Review pull request (11),0
+2124,TujagueJakylon,Review pull request (12),0
+2125,NanikKrissy,Prepare lunch,0
+2126,NanikKrissy,Reply to important emails (2),0
+2127,NanikKrissy,Run load test (3),1
+2128,NanikKrissy,Optimize database query (4),1
+2129,NanikKrissy,Go to the gym (5),0
+2130,BraemerAlcie,Review pull request,0
+2131,BraemerAlcie,Check application logs (2),0
+2132,BraemerAlcie,Fix login validation (3),0
+2133,BraemerAlcie,Clean kitchen (4),0
+2134,BraemerAlcie,Update documentation (5),0
+2135,BraemerAlcie,Check server monitoring (6),0
+2136,BraemerAlcie,Fix login validation (7),1
+2137,BraemerAlcie,Run load test (8),0
+2138,BraemerAlcie,Review budget (9),1
+2139,BraemerAlcie,Create JMeter test plan (10),0
+2140,BraemerAlcie,Deploy staging build (11),0
+2141,BraemerAlcie,Check server monitoring (12),1
+2142,BraemerAlcie,Refactor API endpoint (13),0
+2143,BraemerAlcie,Review budget (14),0
+2144,BraemerAlcie,Write integration tests (15),0
+2145,SkaerModibo,Prepare presentation,0
+2146,SkaerModibo,Update dependencies (2),1
+2147,SkaerModibo,Schedule dentist appointment (3),0
+2148,SkaerModibo,Organize meeting notes (4),1
+2149,SkaerModibo,Clean kitchen (5),0
+2150,SkaerModibo,Walk outside (6),0
+2151,SkaerModibo,Update resume (7),0
+2152,SkaerModibo,Submit expense report (8),1
+2153,SkaerModibo,Clean kitchen (9),1
+2154,SkaerModibo,Review budget (10),1
+2155,SkaerModibo,Back up laptop files (11),0
+2156,SkaerModibo,Review pull request (12),1
+2157,SkaerModibo,Read a chapter (13),0
+2158,MachemerMstislav,Submit expense report,1
+2159,MachemerMstislav,Run load test (2),0
+2160,MachemerMstislav,Walk outside (3),0
+2161,MachemerMstislav,Read a chapter (4),0
+2162,MachemerMstislav,Fix login validation (5),0
+2163,LoebelTitiyana,Organize meeting notes,0
+2164,LoebelTitiyana,Reply to important emails (2),0
+2165,LoebelTitiyana,Back up laptop files (3),0
+2166,LoebelTitiyana,Update dependencies (4),0
+2167,LoebelTitiyana,Check application logs (5),0
+2168,LoebelTitiyana,Optimize database query (6),0
+2169,LoebelTitiyana,Practice coding problems (7),0
+2170,LoebelTitiyana,Clean up workspace (8),0
+2171,LoebelTitiyana,Write integration tests (9),0
+2172,LoebelTitiyana,Review performance metrics (10),0
+2173,LoebelTitiyana,Back up laptop files (11),0
+2174,LoebelTitiyana,Optimize database query (12),0
+2175,LoebelTitiyana,Review error logs (13),0
+2176,LoebelTitiyana,Prepare lunch (14),0
+2177,LoebelTitiyana,Deploy staging build (15),0
+2178,LoebelTitiyana,Submit expense report (16),0
+2179,LoebelTitiyana,Plan next sprint (17),0
+2180,LoebelTitiyana,Submit expense report (18),0
+2181,LoebelTitiyana,Organize meeting notes (19),0
+2182,LoebelTitiyana,Clean kitchen (20),0
+2183,LoebelTitiyana,Check server monitoring (21),0
+2184,LoebelTitiyana,Optimize database query (22),0
+2185,LoebelTitiyana,Update dependencies (23),0
+2186,LoebelTitiyana,Back up laptop files (24),1
+2187,LoebelTitiyana,Fix login validation (25),1
+2188,LoebelTitiyana,Deploy staging build (26),0
+2189,LoebelTitiyana,Buy household supplies (27),1
+2190,LoebelTitiyana,Check server monitoring (28),1
+2191,LoebelTitiyana,Check application logs (29),0
+2192,LoebelTitiyana,Review performance metrics (30),0
+2193,LoebelTitiyana,Review pull request (31),0
+2194,LoebelTitiyana,Prepare weekly report (32),0
+2195,LoebelTitiyana,Deploy staging build (33),0
+2196,LoebelTitiyana,Organize calendar (34),0
+2197,LoebelTitiyana,Plan next sprint (35),0
+2198,LoebelTitiyana,Create JMeter test plan (36),0
+2199,LoebelTitiyana,Prepare lunch (37),0
+2200,LoebelTitiyana,Back up laptop files (38),0
+2201,LoebelTitiyana,Practice coding problems (39),0
+2202,LoebelTitiyana,Back up laptop files (40),0
+2203,LoebelTitiyana,Write unit tests (41),0
+2204,LoebelTitiyana,Review project requirements (42),0
+2205,LoebelTitiyana,Go to the gym (43),0
+2206,LoebelTitiyana,Review performance metrics (44),0
+2207,LoebelTitiyana,Reply to important emails (45),1
+2208,LoebelTitiyana,Review error logs (46),0
+2209,LoebelTitiyana,Clean kitchen (47),1
+2210,LoebelTitiyana,Fix login validation (48),0
+2211,LoebelTitiyana,Update resume (49),1
+2212,ArendallRandy,Review performance metrics,0
+2213,ArendallRandy,Create JMeter test plan (2),0
+2214,ArendallRandy,Reply to important emails (3),0
+2215,ArendallRandy,Review project requirements (4),0
+2216,ArendallRandy,Buy household supplies (5),0
+2217,ArendallRandy,Write unit tests (6),1
+2218,ArendallRandy,Write integration tests (7),0
+2219,ArendallRandy,Review project requirements (8),1
+2220,ArendallRandy,Investigate slow response times (9),0
+2221,ArendallRandy,Create JMeter test plan (10),1
+2222,ArendallRandy,Clean kitchen (11),0
+2223,ArendallRandy,Review error logs (12),0
+2224,ArendallRandy,Create JMeter test plan (13),0
+2225,ArendallRandy,Clean up workspace (14),0
+2226,NanikLeward,Optimize database query,0
+2227,NanikLeward,Prepare presentation (2),1
+2228,NanikLeward,Reply to important emails (3),1
+2229,NanikLeward,Pay utility bill (4),0
+2230,NanikLeward,Review performance metrics (5),1
+2231,NanikLeward,Schedule dentist appointment (6),1
+2232,NanikLeward,Go to the gym (7),1
+2233,NanikLeward,Write unit tests (8),1
+2234,NanikLeward,Review error logs (9),1
+2235,NanikLeward,Update resume (10),1
+2236,NanikLeward,Fix login validation (11),0
+2237,SeatsSylwia,Organize meeting notes,1
+2238,SeatsSylwia,Update resume (2),0
+2239,SeatsSylwia,Practice coding problems (3),1
+2240,SeatsSylwia,Fix login validation (4),1
+2241,SeatsSylwia,Prepare weekly report (5),0
+2242,SeatsSylwia,Plan next sprint (6),0
+2243,SeatsSylwia,Prepare weekly report (7),1
+2244,SeatsSylwia,Walk outside (8),0
+2245,SeatsSylwia,Review budget (9),0
+2246,NaderIva,Create JMeter test plan,0
+2247,NaderIva,Check server monitoring (2),0
+2248,NaderIva,Create JMeter test plan (3),1
+2249,NaderIva,Check server monitoring (4),1
+2250,NaderIva,Update dependencies (5),0
+2251,NaderIva,Practice coding problems (6),0
+2252,NaderIva,Review pull request (7),0
+2253,NaderIva,Test mobile layout (8),0
+2254,NaderIva,Review budget (9),0
+2255,NaderIva,Go to the gym (10),1
+2256,NaderIva,Create JMeter test plan (11),1
+2257,NaderIva,Review pull request (12),0
+2258,NaderIva,Review budget (13),1
+2259,NaderIva,Submit expense report (14),0
+2260,NaderIva,Organize meeting notes (15),1
+2261,NaderIva,Reply to important emails (16),0
+2262,NaderIva,Review pull request (17),1
+2263,NaderIva,Check server monitoring (18),0
+2264,NaderIva,Schedule dentist appointment (19),0
+2265,NaderIva,Back up laptop files (20),0
+2266,NaderIva,Prepare presentation (21),0
+2267,NaderIva,Reply to important emails (22),0
+2268,NaderIva,Prepare weekly report (23),1
+2269,NaderIva,Schedule dentist appointment (24),1
+2270,NaderIva,Plan weekend groceries (25),0
+2271,NaderIva,Prepare lunch (26),0
+2272,NaderIva,Review budget (27),0
+2273,NaderIva,Reply to important emails (28),1
+2274,NaderIva,Pay utility bill (29),0
+2275,NaderIva,Buy household supplies (30),0
+2276,NaderIva,Plan next sprint (31),0
+2277,NaderIva,Update dependencies (32),0
+2278,NaderIva,Create database migration (33),1
+2279,NaderIva,Clean up workspace (34),0
+2280,NaderIva,Read a chapter (35),1
+2281,NaderIva,Pay utility bill (36),0
+2282,NaderIva,Review budget (37),0
+2283,NaderIva,Prepare presentation (38),0
+2284,NaderIva,Buy household supplies (39),0
+2285,NaderIva,Reply to important emails (40),1
+2286,NaderIva,Plan weekend groceries (41),1
+2287,NaderIva,Write unit tests (42),0
+2288,NaderIva,Update dependencies (43),0
+2289,NaderIva,Prepare presentation (44),0
+2290,ZeeffAriba,Clean kitchen,0
+2291,ZeeffAriba,Prepare presentation (2),0
+2292,ZeeffAriba,Back up laptop files (3),1
+2293,ZeeffAriba,Review budget (4),0
+2294,ZeeffAriba,Go to the gym (5),0
+2295,ZeeffAriba,Create database migration (6),0
+2296,ZeeffAriba,Pay utility bill (7),1
+2297,ZeeffAriba,Fix login validation (8),0
+2298,ZeeffAriba,Refactor API endpoint (9),0
+2299,PrendivilleCarleigh,Schedule dentist appointment,0
+2300,PrendivilleCarleigh,Check application logs (2),0
+2301,PrendivilleCarleigh,Update dependencies (3),0
+2302,PrendivilleCarleigh,Schedule dentist appointment (4),0
+2303,PrendivilleCarleigh,Walk outside (5),1
+2304,PrendivilleCarleigh,Test mobile layout (6),0
+2305,PrendivilleCarleigh,Update resume (7),0
+2306,PrendivilleCarleigh,Refactor API endpoint (8),0
+2307,PrendivilleCarleigh,Clean up workspace (9),0
+2308,PrendivilleCarleigh,Fix login validation (10),0
+2309,PrendivilleCarleigh,Update resume (11),1
+2310,PrendivilleCarleigh,Run load test (12),0
+2311,JabautJomarion,Reply to important emails,1
+2312,JabautJomarion,Clean up workspace (2),0
+2313,JabautJomarion,Test mobile layout (3),0
+2314,JabautJomarion,Fix login validation (4),1
+2315,JabautJomarion,Reply to important emails (5),0
+2316,SupeckRosanna,Optimize database query,0
+2317,SupeckRosanna,Refactor API endpoint (2),1
+2318,SupeckRosanna,Review pull request (3),0
+2319,SupeckRosanna,Go to the gym (4),1
+2320,SupeckRosanna,Review performance metrics (5),1
+2321,SupeckRosanna,Run load test (6),0
+2322,SupeckRosanna,Create database migration (7),0
+2323,SupeckRosanna,Organize calendar (8),0
+2324,SupeckRosanna,Reply to important emails (9),1
+2325,SupeckRosanna,Write unit tests (10),1
+2326,SupeckRosanna,Organize meeting notes (11),1
+2327,SupeckRosanna,Check application logs (12),0
+2328,SupeckRosanna,Review pull request (13),0
+2329,AgugliaColombo,Back up laptop files,1
+2330,AgugliaColombo,Create JMeter test plan (2),0
+2331,AgugliaColombo,Update resume (3),1
+2332,AgugliaColombo,Organize meeting notes (4),0
+2333,AgugliaColombo,Review error logs (5),0
+2334,AgugliaColombo,Deploy staging build (6),0
+2335,AgugliaColombo,Prepare presentation (7),0
+2336,AgugliaColombo,Reply to important emails (8),1
+2337,AgugliaColombo,Prepare presentation (9),1
+2338,AgugliaColombo,Investigate slow response times (10),1
+2339,AgugliaColombo,Review error logs (11),1
+2340,AgugliaColombo,Plan next sprint (12),0
+2341,AgugliaColombo,Organize calendar (13),1
+2342,AgugliaColombo,Schedule dentist appointment (14),0
+2343,AgugliaColombo,Review performance metrics (15),0
+2344,AgugliaColombo,Go to the gym (16),0
+2345,AgugliaColombo,Back up laptop files (17),1
+2346,AgugliaColombo,Deploy staging build (18),0
+2347,AgugliaColombo,Reply to important emails (19),1
+2348,AgugliaColombo,Back up laptop files (20),0
+2349,AgugliaColombo,Prepare lunch (21),1
+2350,AgugliaColombo,Read a chapter (22),0
+2351,AgugliaColombo,Plan next sprint (23),1
+2352,AgugliaColombo,Read a chapter (24),0
+2353,AgugliaColombo,Create database migration (25),1
+2354,AgugliaColombo,Deploy staging build (26),1
+2355,AgugliaColombo,Create database migration (27),1
+2356,AgugliaColombo,Schedule dentist appointment (28),0
+2357,AgugliaColombo,Create database migration (29),0
+2358,AgugliaColombo,Review project requirements (30),1
+2359,AgugliaColombo,Update resume (31),1
+2360,AgugliaColombo,Submit expense report (32),1
+2361,AgugliaColombo,Walk outside (33),1
+2362,AgugliaColombo,Submit expense report (34),0
+2363,AgugliaColombo,Create database migration (35),0
+2364,AgugliaColombo,Prepare weekly report (36),0
+2365,AgugliaColombo,Plan weekend groceries (37),0
+2366,AgugliaColombo,Deploy staging build (38),1
+2367,AgugliaColombo,Prepare lunch (39),0
+2368,AgugliaColombo,Update documentation (40),0
+2369,AgugliaColombo,Check server monitoring (41),1
+2370,AgugliaColombo,Prepare lunch (42),1
+2371,AgugliaColombo,Check application logs (43),0
+2372,AgugliaColombo,Walk outside (44),0
+2373,AgugliaColombo,Back up laptop files (45),0
+2374,AgugliaColombo,Refactor API endpoint (46),0
+2375,AgugliaColombo,Plan weekend groceries (47),1
+2376,AgugliaColombo,Prepare lunch (48),1
+2377,AgugliaColombo,Reply to important emails (49),0
+2378,AgugliaColombo,Clean up workspace (50),0
+2379,AgugliaColombo,Plan next sprint (51),0
+2380,AgugliaColombo,Update dependencies (52),1
+2381,AgugliaColombo,Review pull request (53),1
+2382,AgugliaColombo,Check server monitoring (54),1
+2383,AgugliaColombo,Review project requirements (55),0
+2384,AgugliaColombo,Test mobile layout (56),0
+2385,AgugliaColombo,Refactor API endpoint (57),0
+2386,AgugliaColombo,Organize meeting notes (58),1
+2387,AgugliaColombo,Plan weekend groceries (59),0
+2388,AgugliaColombo,Investigate slow response times (60),0
+2389,AgugliaColombo,Check server monitoring (61),1
+2390,AgugliaColombo,Investigate slow response times (62),0
+2391,AgugliaColombo,Review performance metrics (63),0
+2392,AgugliaColombo,Deploy staging build (64),0
+2393,AgugliaColombo,Check application logs (65),1
+2394,AgugliaColombo,Prepare presentation (66),1
+2395,AgugliaColombo,Pay utility bill (67),1
+2396,AgugliaColombo,Write integration tests (68),1
+2397,AgugliaColombo,Walk outside (69),1
+2398,AgugliaColombo,Refactor API endpoint (70),1
+2399,AgugliaColombo,Organize meeting notes (71),0
+2400,AgugliaColombo,Update documentation (72),1
+2401,AgugliaColombo,Test mobile layout (73),0
+2402,AgugliaColombo,Buy household supplies (74),0
+2403,AgugliaColombo,Clean up workspace (75),0
+2404,AgugliaColombo,Back up laptop files (76),0
+2405,AgugliaColombo,Deploy staging build (77),1
+2406,AgugliaColombo,Investigate slow response times (78),1
+2407,AgugliaColombo,Pay utility bill (79),0
+2408,AgugliaColombo,Practice coding problems (80),0
+2409,AgugliaColombo,Optimize database query (81),1
+2410,AgugliaColombo,Practice coding problems (82),1
+2411,AgugliaColombo,Clean up workspace (83),0
+2412,AgugliaColombo,Go to the gym (84),0
+2413,AgugliaColombo,Deploy staging build (85),0
+2414,AgugliaColombo,Review performance metrics (86),0
+2415,AgugliaColombo,Read a chapter (87),0
+2416,AgugliaColombo,Organize meeting notes (88),0
+2417,AgugliaColombo,Refactor API endpoint (89),0
+2418,AgugliaColombo,Submit expense report (90),0
+2419,AgugliaColombo,Update dependencies (91),0
+2420,AgugliaColombo,Read a chapter (92),0
+2421,AgugliaColombo,Organize meeting notes (93),0
+2422,AgugliaColombo,Review project requirements (94),1
+2423,AgugliaColombo,Buy household supplies (95),0
+2424,AgugliaColombo,Back up laptop files (96),0
+2425,AgugliaColombo,Review error logs (97),0
+2426,AgugliaColombo,Review budget (98),1
+2427,AgugliaColombo,Run load test (99),0
+2428,AgugliaColombo,Review project requirements (100),0
+2429,AgugliaColombo,Prepare weekly report (101),1
+2430,AgugliaColombo,Update documentation (102),1
+2431,AgugliaColombo,Practice coding problems (103),1
+2432,AgugliaColombo,Optimize database query (104),1
+2433,AgugliaColombo,Organize calendar (105),0
+2434,AgugliaColombo,Plan weekend groceries (106),1
+2435,AgugliaColombo,Write unit tests (107),0
+2436,AgugliaColombo,Go to the gym (108),1
+2437,AgugliaColombo,Write integration tests (109),1
+2438,AgugliaColombo,Back up laptop files (110),0
+2439,AgugliaColombo,Fix login validation (111),1
+2440,AgugliaColombo,Optimize database query (112),0
+2441,AgugliaColombo,Back up laptop files (113),0
+2442,AgugliaColombo,Update documentation (114),0
+2443,AgugliaColombo,Review budget (115),0
+2444,AgugliaColombo,Read a chapter (116),0
+2445,AgugliaColombo,Review budget (117),0
+2446,AgugliaColombo,Pay utility bill (118),0
+2447,AgugliaColombo,Plan next sprint (119),0
+2448,AgugliaColombo,Check application logs (120),0
+2449,AgugliaColombo,Walk outside (121),0
+2450,AgugliaColombo,Prepare weekly report (122),0
+2451,AgugliaColombo,Create database migration (123),0
+2452,AgugliaColombo,Clean kitchen (124),1
+2453,AgugliaColombo,Update documentation (125),0
+2454,AgugliaColombo,Read a chapter (126),1
+2455,AgugliaColombo,Clean up workspace (127),0
+2456,AgugliaColombo,Plan weekend groceries (128),1
+2457,AgugliaColombo,Schedule dentist appointment (129),0
+2458,AgugliaColombo,Submit expense report (130),0
+2459,AgugliaColombo,Update resume (131),0
+2460,AgugliaColombo,Optimize database query (132),0
+2461,AgugliaColombo,Organize calendar (133),1
+2462,AgugliaColombo,Update dependencies (134),0
+2463,AgugliaColombo,Clean up workspace (135),1
+2464,AgugliaColombo,Plan next sprint (136),1
+2465,AgugliaColombo,Test mobile layout (137),0
+2466,AgugliaColombo,Write integration tests (138),1
+2467,AgugliaColombo,Review performance metrics (139),0
+2468,AgugliaColombo,Organize calendar (140),0
+2469,AgugliaColombo,Create database migration (141),0
+2470,AgugliaColombo,Go to the gym (142),1
+2471,AgugliaColombo,Review pull request (143),0
+2472,AgugliaColombo,Review project requirements (144),1
+2473,AgugliaColombo,Walk outside (145),0
+2474,AgugliaColombo,Update dependencies (146),1
+2475,AgugliaColombo,Clean kitchen (147),0
+2476,AgugliaColombo,Read a chapter (148),0
+2477,AgugliaColombo,Plan weekend groceries (149),0
+2478,AgugliaColombo,Prepare presentation (150),0
+2479,AgugliaColombo,Create database migration (151),1
+2480,AgugliaColombo,Write unit tests (152),1
+2481,AgugliaColombo,Check application logs (153),0
+2482,AgugliaColombo,Go to the gym (154),1
+2483,AgugliaColombo,Walk outside (155),0
+2484,AgugliaColombo,Check server monitoring (156),1
+2485,AgugliaColombo,Read a chapter (157),0
+2486,AgugliaColombo,Check application logs (158),0
+2487,AgugliaColombo,Update dependencies (159),0
+2488,AgugliaColombo,Go to the gym (160),0
+2489,AgugliaColombo,Schedule dentist appointment (161),0
+2490,AgugliaColombo,Schedule dentist appointment (162),0
+2491,AgugliaColombo,Run load test (163),0
+2492,AgugliaColombo,Refactor API endpoint (164),0
+2493,AgugliaColombo,Organize calendar (165),1
+2494,AgugliaColombo,Prepare lunch (166),1
+2495,AgugliaColombo,Review budget (167),0
+2496,AgugliaColombo,Review performance metrics (168),0
+2497,AgugliaColombo,Deploy staging build (169),0
+2498,AgugliaColombo,Plan weekend groceries (170),0
+2499,AgugliaColombo,Plan weekend groceries (171),0
+2500,AgugliaColombo,Investigate slow response times (172),0
+2501,AgugliaColombo,Investigate slow response times (173),0
+2502,AgugliaColombo,Review performance metrics (174),1
+2503,AgugliaColombo,Review pull request (175),0
+2504,AgugliaColombo,Update resume (176),1
+2505,AgugliaColombo,Prepare presentation (177),0
+2506,AgugliaColombo,Review error logs (178),1
+2507,AgugliaColombo,Back up laptop files (179),1
+2508,AgugliaColombo,Organize meeting notes (180),0
+2509,AgugliaColombo,Prepare weekly report (181),0
+2510,AgugliaColombo,Reply to important emails (182),1
+2511,AgugliaColombo,Check server monitoring (183),1
+2512,AgugliaColombo,Back up laptop files (184),0
+2513,AgugliaColombo,Plan next sprint (185),0
+2514,AgugliaColombo,Update dependencies (186),0
+2515,AgugliaColombo,Review budget (187),0
+2516,AgugliaColombo,Organize calendar (188),0
+2517,AgugliaColombo,Reply to important emails (189),0
+2518,AgugliaColombo,Schedule dentist appointment (190),0
+2519,AgugliaColombo,Prepare lunch (191),1
+2520,AgugliaColombo,Write integration tests (192),1
+2521,AgugliaColombo,Update resume (193),0
+2522,AgugliaColombo,Review performance metrics (194),0
+2523,AgugliaColombo,Practice coding problems (195),1
+2524,AgugliaColombo,Organize meeting notes (196),0
+2525,AgugliaColombo,Review project requirements (197),1
+2526,AgugliaColombo,Practice coding problems (198),0
+2527,AgugliaColombo,Test mobile layout (199),0
+2528,GappMontrel,Review project requirements,0
+2529,GappMontrel,Clean up workspace (2),0
+2530,GappMontrel,Organize meeting notes (3),0
+2531,GappMontrel,Create database migration (4),0
+2532,GappMontrel,Prepare presentation (5),0
+2533,GappMontrel,Read a chapter (6),1
+2534,GappMontrel,Walk outside (7),0
+2535,GappMontrel,Write unit tests (8),1
+2536,GappMontrel,Fix login validation (9),1
+2537,KastenJamin,Review performance metrics,1
+2538,KastenJamin,Refactor API endpoint (2),0
+2539,KastenJamin,Create JMeter test plan (3),1
+2540,KastenJamin,Review pull request (4),1
+2541,KastenJamin,Write unit tests (5),0
+2542,KastenJamin,Update dependencies (6),1
+2543,KastenJamin,Read a chapter (7),1
+2544,KastenJamin,Investigate slow response times (8),0
+2545,KastenJamin,Investigate slow response times (9),0
+2546,KastenJamin,Plan weekend groceries (10),0
+2547,KastenJamin,Create JMeter test plan (11),0
+2548,KastenJamin,Reply to important emails (12),0
+2549,KastenJamin,Update documentation (13),0
+2550,KastenJamin,Pay utility bill (14),0
+2551,KastenJamin,Optimize database query (15),0
+2552,KastenJamin,Plan next sprint (16),0
+2553,KastenJamin,Review project requirements (17),1
+2554,KastenJamin,Check application logs (18),1
+2555,KastenJamin,Back up laptop files (19),1
+2556,KastenJamin,Walk outside (20),0
+2557,KastenJamin,Prepare presentation (21),1
+2558,DarchSantita,Investigate slow response times,0
+2559,DarchSantita,Fix login validation (2),0
+2560,DarchSantita,Submit expense report (3),0
+2561,DarchSantita,Prepare presentation (4),0
+2562,DarchSantita,Clean up workspace (5),0
+2563,DarchSantita,Prepare lunch (6),1
+2564,StankeEzzeldin,Submit expense report,0
+2565,StankeEzzeldin,Plan weekend groceries (2),1
+2566,StankeEzzeldin,Plan next sprint (3),0
+2567,StankeEzzeldin,Buy household supplies (4),0
+2568,StankeEzzeldin,Read a chapter (5),0
+2569,StankeEzzeldin,Run load test (6),1
+2570,StankeEzzeldin,Write unit tests (7),0
+2571,StankeEzzeldin,Review error logs (8),0
+2572,StankeEzzeldin,Deploy staging build (9),0
+2573,StankeEzzeldin,Review pull request (10),1
+2574,StankeEzzeldin,Review budget (11),1
+2575,StankeEzzeldin,Deploy staging build (12),1
+2576,StankeEzzeldin,Review error logs (13),0
+2577,StankeEzzeldin,Clean up workspace (14),0
+2578,StankeEzzeldin,Read a chapter (15),1
+2579,WasonEyner,Check server monitoring,1
+2580,WasonEyner,Back up laptop files (2),1
+2581,WasonEyner,Back up laptop files (3),0
+2582,WasonEyner,Review error logs (4),1
+2583,WasonEyner,Prepare presentation (5),0
+2584,WasonEyner,Optimize database query (6),0
+2585,WasonEyner,Review budget (7),1
+2586,WasonEyner,Read a chapter (8),0
+2587,WasonEyner,Review pull request (9),1
+2588,WasonEyner,Submit expense report (10),1
+2589,WasonEyner,Write integration tests (11),1
+2590,WasonEyner,Update resume (12),0
+2591,WasonEyner,Plan next sprint (13),0
+2592,WasonEyner,Update resume (14),1
+2593,WasonEyner,Check server monitoring (15),0
+2594,ViazankoRakshana,Refactor API endpoint,0
+2595,ViazankoRakshana,Check server monitoring (2),0
+2596,ViazankoRakshana,Practice coding problems (3),0
+2597,ViazankoRakshana,Run load test (4),0
+2598,ViazankoRakshana,Review error logs (5),0
+2599,ViazankoRakshana,Check server monitoring (6),1
+2600,IndermuehleEddy,Update resume,1
+2601,IndermuehleEddy,Deploy staging build (2),0
+2602,IndermuehleEddy,Refactor API endpoint (3),0
+2603,IndermuehleEddy,Write integration tests (4),1
+2604,IndermuehleEddy,Plan weekend groceries (5),0
+2605,IndermuehleEddy,Practice coding problems (6),0
+2606,IndermuehleEddy,Go to the gym (7),1
+2607,IndermuehleEddy,Buy household supplies (8),0
+2608,IndermuehleEddy,Update dependencies (9),0
+2609,IndermuehleEddy,Plan weekend groceries (10),0
+2610,IndermuehleEddy,Clean kitchen (11),0
+2611,NanikBali,Review pull request,0
+2612,NanikBali,Read a chapter (2),0
+2613,NanikBali,Read a chapter (3),0
+2614,NanikBali,Review performance metrics (4),0
+2615,NanikBali,Create JMeter test plan (5),0
+2616,NanikBali,Reply to important emails (6),0
+2617,NanikBali,Organize calendar (7),0
+2618,BalbinoCarle,Test mobile layout,0
+2619,BalbinoCarle,Create JMeter test plan (2),0
+2620,BalbinoCarle,Optimize database query (3),1
+2621,BalbinoCarle,Review pull request (4),0
+2622,BalbinoCarle,Create JMeter test plan (5),1
+2623,BalbinoCarle,Review budget (6),1
+2624,BalbinoCarle,Review pull request (7),0
+2625,BalbinoCarle,Review error logs (8),0
+2626,BalbinoCarle,Plan weekend groceries (9),1
+2627,BalbinoCarle,Write integration tests (10),0
+2628,BalbinoCarle,Clean kitchen (11),0
+2629,BalbinoCarle,Clean up workspace (12),1
+2630,BalbinoCarle,Write unit tests (13),0
+2631,BalbinoCarle,Organize meeting notes (14),0
+2632,BalbinoCarle,Back up laptop files (15),1
+2633,BalbinoCarle,Check application logs (16),0
+2634,BalbinoCarle,Fix login validation (17),1
+2635,BalbinoCarle,Create JMeter test plan (18),1
+2636,BalbinoCarle,Deploy staging build (19),1
+2637,BalbinoCarle,Run load test (20),0
+2638,BalbinoCarle,Review error logs (21),1
+2639,BalbinoCarle,Fix login validation (22),0
+2640,BalbinoCarle,Review performance metrics (23),0
+2641,BalbinoCarle,Check server monitoring (24),0
+2642,BalbinoCarle,Review performance metrics (25),1
+2643,BalbinoCarle,Schedule dentist appointment (26),0
+2644,BalbinoCarle,Walk outside (27),0
+2645,BalbinoCarle,Update dependencies (28),1
+2646,BalbinoCarle,Clean kitchen (29),0
+2647,BalbinoCarle,Plan weekend groceries (30),0
+2648,BalbinoCarle,Walk outside (31),0
+2649,BalbinoCarle,Go to the gym (32),0
+2650,BalbinoCarle,Review performance metrics (33),0
+2651,BalbinoCarle,Walk outside (34),0
+2652,BalbinoCarle,Update resume (35),0
+2653,BalbinoCarle,Review budget (36),0
+2654,BalbinoCarle,Reply to important emails (37),0
+2655,BalbinoCarle,Pay utility bill (38),0
+2656,BalbinoCarle,Review budget (39),0
+2657,BalbinoCarle,Write integration tests (40),1
+2658,BalbinoCarle,Organize meeting notes (41),0
+2659,BalbinoCarle,Write unit tests (42),1
+2660,BalbinoCarle,Fix login validation (43),0
+2661,BalbinoCarle,Write unit tests (44),0
+2662,BalbinoCarle,Test mobile layout (45),1
+2663,BalbinoCarle,Reply to important emails (46),1
+2664,RushCapp,Clean up workspace,0
+2665,RushCapp,Back up laptop files (2),0
+2666,RushCapp,Buy household supplies (3),0
+2667,RushCapp,Review error logs (4),0
+2668,RushCapp,Review performance metrics (5),0
+2669,RushCapp,Review pull request (6),0
+2670,RushCapp,Read a chapter (7),0
+2671,RushCapp,Read a chapter (8),0
+2672,RushCapp,Test mobile layout (9),0
+2673,RushCapp,Plan next sprint (10),1
+2674,RushCapp,Deploy staging build (11),1
+2675,RushCapp,Check server monitoring (12),0
+2676,RushCapp,Prepare lunch (13),1
+2677,RushCapp,Create database migration (14),0
+2678,PovolnyOnah,Organize calendar,0
+2679,PovolnyOnah,Run load test (2),0
+2680,PovolnyOnah,Clean up workspace (3),0
+2681,PovolnyOnah,Submit expense report (4),0
+2682,PovolnyOnah,Buy household supplies (5),0
+2683,PovolnyOnah,Review pull request (6),0
+2684,RichesonAlexys,Read a chapter,0
+2685,RichesonAlexys,Plan next sprint (2),0
+2686,RichesonAlexys,Review pull request (3),0
+2687,RichesonAlexys,Buy household supplies (4),0
+2688,RichesonAlexys,Pay utility bill (5),0
+2689,RichesonAlexys,Refactor API endpoint (6),0
+2690,DowtyRyliee,Write integration tests,0
+2691,DowtyRyliee,Review pull request (2),1
+2692,DowtyRyliee,Clean up workspace (3),0
+2693,DowtyRyliee,Review performance metrics (4),0
+2694,DowtyRyliee,Prepare lunch (5),0
+2695,DowtyRyliee,Prepare lunch (6),1
+2696,DowtyRyliee,Test mobile layout (7),0
+2697,DowtyRyliee,Create JMeter test plan (8),0
+2698,DowtyRyliee,Organize calendar (9),1
+2699,DowtyRyliee,Fix login validation (10),1
+2700,LewandoskiRoman,Go to the gym,1
+2701,LewandoskiRoman,Prepare weekly report (2),1
+2702,LewandoskiRoman,Organize meeting notes (3),0
+2703,LewandoskiRoman,Deploy staging build (4),1
+2704,LewandoskiRoman,Write unit tests (5),1
+2705,LewandoskiRoman,Reply to important emails (6),0
+2706,LewandoskiRoman,Optimize database query (7),0
+2707,LewandoskiRoman,Clean up workspace (8),0
+2708,LiptrotLem,Investigate slow response times,1
+2709,LiptrotLem,Organize meeting notes (2),0
+2710,LiptrotLem,Update documentation (3),1
+2711,LiptrotLem,Update documentation (4),1
+2712,LiptrotLem,Prepare weekly report (5),0
+2713,LiptrotLem,Back up laptop files (6),0
+2714,LiptrotLem,Plan weekend groceries (7),0
+2715,LiptrotLem,Check server monitoring (8),0
+2716,LiptrotLem,Clean kitchen (9),0
+2717,LiptrotLem,Write integration tests (10),0
+2718,LiptrotLem,Review project requirements (11),0
+2719,LiptrotLem,Create JMeter test plan (12),0
+2720,LiptrotLem,Update dependencies (13),0
+2721,LiptrotLem,Write integration tests (14),1
+2722,StuddKrishav,Prepare weekly report,1
+2723,StuddKrishav,Update resume (2),0
+2724,StuddKrishav,Review project requirements (3),1
+2725,StuddKrishav,Review error logs (4),0
+2726,StuddKrishav,Update dependencies (5),0
+2727,StuddKrishav,Walk outside (6),0
+2728,StuddKrishav,Optimize database query (7),1
+2729,StuddKrishav,Prepare lunch (8),0
+2730,StuddKrishav,Fix login validation (9),0
+2731,StuddKrishav,Check server monitoring (10),1
+2732,StuddKrishav,Back up laptop files (11),0
+2733,StuddKrishav,Clean kitchen (12),0
+2734,StuddKrishav,Plan next sprint (13),0
+2735,StuddKrishav,Review budget (14),0
+2736,StuddKrishav,Back up laptop files (15),0
+2737,PawlickiJahzel,Deploy staging build,0
+2738,PawlickiJahzel,Run load test (2),0
+2739,PawlickiJahzel,Organize meeting notes (3),0
+2740,PawlickiJahzel,Fix login validation (4),1
+2741,PawlickiJahzel,Update documentation (5),0
+2742,PawlickiJahzel,Plan next sprint (6),1
+2743,PawlickiJahzel,Go to the gym (7),1
+2744,PawlickiJahzel,Prepare weekly report (8),0
+2745,PawlickiJahzel,Pay utility bill (9),0
+2746,PawlickiJahzel,Update dependencies (10),0
+2747,PawlickiJahzel,Update documentation (11),0
+2748,PawlickiJahzel,Prepare weekly report (12),0
+2749,PawlickiJahzel,Check server monitoring (13),1
+2750,PawlickiJahzel,Pay utility bill (14),0
+2751,HillsmanTaityanna,Update documentation,0
+2752,HillsmanTaityanna,Read a chapter (2),0
+2753,HillsmanTaityanna,Pay utility bill (3),1
+2754,HillsmanTaityanna,Run load test (4),0
+2755,HillsmanTaityanna,Write integration tests (5),0
+2756,HillsmanTaityanna,Prepare weekly report (6),1
+2757,HillsmanTaityanna,Clean up workspace (7),0
+2758,HillsmanTaityanna,Update resume (8),0
+2759,HillsmanTaityanna,Run load test (9),1
+2760,HillsmanTaityanna,Review pull request (10),0
+2761,HillsmanTaityanna,Check application logs (11),1
+2762,KuettelViginia,Review budget,1
+2763,KuettelViginia,Create JMeter test plan (2),0
+2764,KuettelViginia,Walk outside (3),1
+2765,KuettelViginia,Organize meeting notes (4),0
+2766,KuettelViginia,Practice coding problems (5),1
+2767,KuettelViginia,Update resume (6),0
+2768,KuettelViginia,Pay utility bill (7),1
+2769,KuettelViginia,Review budget (8),0
+2770,ObermarkSitora,Test mobile layout,0
+2771,ObermarkSitora,Clean up workspace (2),1
+2772,ObermarkSitora,Organize calendar (3),1
+2773,ObermarkSitora,Submit expense report (4),0
+2774,ObermarkSitora,Prepare lunch (5),0
+2775,ObermarkSitora,Read a chapter (6),0
+2776,ObermarkSitora,Fix login validation (7),0
+2777,ObermarkSitora,Create JMeter test plan (8),0
+2778,StraufLlewelyn,Fix login validation,1
+2779,StraufLlewelyn,Create database migration (2),0
+2780,StraufLlewelyn,Deploy staging build (3),0
+2781,StraufLlewelyn,Walk outside (4),0
+2782,StraufLlewelyn,Organize calendar (5),0
+2783,StraufLlewelyn,Review project requirements (6),0
+2784,StraufLlewelyn,Optimize database query (7),0
+2785,StraufLlewelyn,Practice coding problems (8),1
+2786,StraufLlewelyn,Pay utility bill (9),1
+2787,StraufLlewelyn,Prepare lunch (10),0
+2788,StraufLlewelyn,Create JMeter test plan (11),0
+2789,StraufLlewelyn,Organize calendar (12),1
+2790,StraufLlewelyn,Update resume (13),0
+2791,StraufLlewelyn,Go to the gym (14),0
+2792,StraufLlewelyn,Go to the gym (15),0
+2793,StraufLlewelyn,Read a chapter (16),0
+2794,StraufLlewelyn,Prepare lunch (17),0
+2795,StraufLlewelyn,Update dependencies (18),0
+2796,StraufLlewelyn,Update dependencies (19),1
+2797,StraufLlewelyn,Prepare lunch (20),0
+2798,StraufLlewelyn,Update documentation (21),0
+2799,StraufLlewelyn,Create JMeter test plan (22),1
+2800,StraufLlewelyn,Organize calendar (23),0
+2801,StraufLlewelyn,Write unit tests (24),0
+2802,ShumskyUnknown,Organize calendar,0
+2803,ShumskyUnknown,Write integration tests (2),1
+2804,ShumskyUnknown,Refactor API endpoint (3),1
+2805,ShumskyUnknown,Prepare weekly report (4),1
+2806,ShumskyUnknown,Read a chapter (5),1
+2807,ShumskyUnknown,Submit expense report (6),0
+2808,ShumskyUnknown,Write integration tests (7),0
+2809,VanveckhovenEleuteria,Prepare lunch,1
+2810,VanveckhovenEleuteria,Deploy staging build (2),0
+2811,VanveckhovenEleuteria,Investigate slow response times (3),1
+2812,VanveckhovenEleuteria,Review pull request (4),0
+2813,VanveckhovenEleuteria,Review pull request (5),0
+2814,VanveckhovenEleuteria,Read a chapter (6),0
+2815,VanveckhovenEleuteria,Walk outside (7),0
+2816,VanveckhovenEleuteria,Create database migration (8),0
+2817,VanveckhovenEleuteria,Review error logs (9),0
+2818,VanveckhovenEleuteria,Review error logs (10),0
+2819,VanveckhovenEleuteria,Update dependencies (11),0
+2820,VanveckhovenEleuteria,Refactor API endpoint (12),0
+2821,VanveckhovenEleuteria,Review error logs (13),1
+2822,VanveckhovenEleuteria,Reply to important emails (14),0
+2823,VanveckhovenEleuteria,Review performance metrics (15),0
+2824,PearlmutterAndri,Pay utility bill,1
+2825,PearlmutterAndri,Go to the gym (2),0
+2826,PearlmutterAndri,Write unit tests (3),1
+2827,PearlmutterAndri,Prepare presentation (4),1
+2828,PearlmutterAndri,Submit expense report (5),1
+2829,PearlmutterAndri,Prepare lunch (6),1
+2830,PearlmutterAndri,Review budget (7),0
+2831,PearlmutterAndri,Clean up workspace (8),0
+2832,PearlmutterAndri,Review budget (9),0
+2833,BlackportTanjie,Review budget,0
+2834,BlackportTanjie,Investigate slow response times (2),0
+2835,BlackportTanjie,Write unit tests (3),0
+2836,BlackportTanjie,Update documentation (4),0
+2837,BlackportTanjie,Organize calendar (5),0
+2838,BlackportTanjie,Review project requirements (6),0
+2839,BlackportTanjie,Pay utility bill (7),0
+2840,BlackportTanjie,Clean kitchen (8),0
+2841,BlackportTanjie,Organize calendar (9),0
+2842,BlackportTanjie,Plan next sprint (10),1
+2843,BlackportTanjie,Review error logs (11),0
+2844,BlackportTanjie,Check application logs (12),0
+2845,BlackportTanjie,Prepare lunch (13),0
+2846,BlackportTanjie,Check server monitoring (14),0
+2847,BlackportTanjie,Read a chapter (15),1
+2848,BlackportTanjie,Write unit tests (16),0
+2849,BlackportTanjie,Clean kitchen (17),0
+2850,BlackportTanjie,Refactor API endpoint (18),1
+2851,BlackportTanjie,Walk outside (19),0
+2852,BlackportTanjie,Review error logs (20),1
+2853,BlackportTanjie,Investigate slow response times (21),0
+2854,BlackportTanjie,Check application logs (22),1
+2855,BlackportTanjie,Reply to important emails (23),1
+2856,BlackportTanjie,Review pull request (24),1
+2857,BlackportTanjie,Test mobile layout (25),0
+2858,BlackportTanjie,Refactor API endpoint (26),0
+2859,BlackportTanjie,Fix login validation (27),0
+2860,BlackportTanjie,Review pull request (28),0
+2861,BlackportTanjie,Write unit tests (29),0
+2862,BlackportTanjie,Optimize database query (30),1
+2863,BlackportTanjie,Prepare presentation (31),1
+2864,BlackportTanjie,Create JMeter test plan (32),1
+2865,BlackportTanjie,Fix login validation (33),0
+2866,BlackportTanjie,Write unit tests (34),0
+2867,BlackportTanjie,Write integration tests (35),0
+2868,BlackportTanjie,Write integration tests (36),0
+2869,BlackportTanjie,Read a chapter (37),0
+2870,BlackportTanjie,Submit expense report (38),0
+2871,BlackportTanjie,Clean up workspace (39),0
+2872,BlackportTanjie,Prepare lunch (40),0
+2873,BlackportTanjie,Clean kitchen (41),0
+2874,BlackportTanjie,Back up laptop files (42),0
+2875,BlackportTanjie,Update dependencies (43),0
+2876,BlackportTanjie,Clean kitchen (44),0
+2877,BlackportTanjie,Refactor API endpoint (45),0
+2878,BlackportTanjie,Update resume (46),0
+2879,BlackportTanjie,Update resume (47),1
+2880,BlackportTanjie,Schedule dentist appointment (48),1
+2881,BlackportTanjie,Clean kitchen (49),1
+2882,BlackportTanjie,Walk outside (50),0
+2883,BlackportTanjie,Clean kitchen (51),1
+2884,BlackportTanjie,Go to the gym (52),1
+2885,BlackportTanjie,Review pull request (53),1
+2886,BlackportTanjie,Write integration tests (54),0
+2887,BlackportTanjie,Fix login validation (55),0
+2888,TranbyBryne,Check server monitoring,1
+2889,TranbyBryne,Test mobile layout (2),0
+2890,TranbyBryne,Update resume (3),0
+2891,TranbyBryne,Clean kitchen (4),1
+2892,TranbyBryne,Go to the gym (5),1
+2893,TranbyBryne,Prepare weekly report (6),1
+2894,TranbyBryne,Review pull request (7),1
+2895,TranbyBryne,Clean up workspace (8),1
+2896,EmmLennette,Review performance metrics,0
+2897,EmmLennette,Review error logs (2),0
+2898,EmmLennette,Prepare lunch (3),0
+2899,EmmLennette,Review error logs (4),1
+2900,EmmLennette,Deploy staging build (5),0
+2901,EmmLennette,Investigate slow response times (6),1
+2902,EmmLennette,Run load test (7),0
+2903,EmmLennette,Deploy staging build (8),0
+2904,EmmLennette,Back up laptop files (9),0
+2905,EmmLennette,Test mobile layout (10),0
+2906,EmmLennette,Practice coding problems (11),0
+2907,EmmLennette,Update dependencies (12),0
+2908,EmmLennette,Optimize database query (13),0
+2909,EmmLennette,Investigate slow response times (14),1
+2910,EmmLennette,Practice coding problems (15),1
+2911,EmmLennette,Read a chapter (16),1
+2912,EmmLennette,Fix login validation (17),0
+2913,EmmLennette,Prepare lunch (18),1
+2914,EmmLennette,Refactor API endpoint (19),1
+2915,EmmLennette,Update resume (20),0
+2916,RannieQuincey,Schedule dentist appointment,0
+2917,RannieQuincey,Update documentation (2),0
+2918,RannieQuincey,Read a chapter (3),1
+2919,RannieQuincey,Review performance metrics (4),0
+2920,RannieQuincey,Deploy staging build (5),0
+2921,RannieQuincey,Deploy staging build (6),1
+2922,RannieQuincey,Write integration tests (7),1
+2923,RannieQuincey,Write integration tests (8),0
+2924,RannieQuincey,Back up laptop files (9),0
+2925,RannieQuincey,Walk outside (10),0
+2926,RannieQuincey,Organize calendar (11),1
+2927,RannieQuincey,Refactor API endpoint (12),1
+2928,RannieQuincey,Go to the gym (13),1
+2929,UmstedSitora,Plan weekend groceries,0
+2930,UmstedSitora,Review project requirements (2),0
+2931,UmstedSitora,Organize meeting notes (3),0
+2932,UmstedSitora,Read a chapter (4),0
+2933,UmstedSitora,Update documentation (5),0
+2934,UmstedSitora,Prepare weekly report (6),0
+2935,UmstedSitora,Clean up workspace (7),1
+2936,UmstedSitora,Refactor API endpoint (8),0
+2937,UmstedSitora,Back up laptop files (9),1
+2938,UmstedSitora,Test mobile layout (10),0
+2939,UmstedSitora,Prepare lunch (11),0
+2940,UmstedSitora,Go to the gym (12),0
+2941,UmstedSitora,Write integration tests (13),1
+2942,UmstedSitora,Pay utility bill (14),1
+2943,UmstedSitora,Walk outside (15),1
+2944,UmstedSitora,Update dependencies (16),1
+2945,UmstedSitora,Practice coding problems (17),0
+2946,UmstedSitora,Read a chapter (18),1
+2947,UmstedSitora,Review project requirements (19),0
+2948,UmstedSitora,Update documentation (20),0
+2949,UmstedSitora,Plan weekend groceries (21),0
+2950,UmstedSitora,Organize calendar (22),0
+2951,UmstedSitora,Run load test (23),1
+2952,UmstedSitora,Investigate slow response times (24),0
+2953,UmstedSitora,Back up laptop files (25),0
+2954,UmstedSitora,Refactor API endpoint (26),0
+2955,UmstedSitora,Plan next sprint (27),0
+2956,UmstedSitora,Plan next sprint (28),0
+2957,UmstedSitora,Schedule dentist appointment (29),1
+2958,UmstedSitora,Buy household supplies (30),1
+2959,UmstedSitora,Check application logs (31),0
+2960,UmstedSitora,Create database migration (32),0
+2961,UmstedSitora,Go to the gym (33),0
+2962,UmstedSitora,Create database migration (34),1
