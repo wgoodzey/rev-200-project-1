@@ -48,36 +48,36 @@
 - 50% - As a user I can create and edit subtask items to better organize my primary tasks
 
 ## Think Time and Pacing
-- Register successfully
+- Register successfully (Jacob)
     - Think time: 15-60 sec
     - Pacing: 65 sec
-- Register incorrectly
+- Register incorrectly (Christopher)
     - Think time: 15-60 sec
     - Pacing: 130 sec
-- Login Successfully and logout
+- Login Successfully and logout (Clinton)
     - Think time: 1-10 sec
     - Pacing: 22 sec
-- Use Incorrect Password, then correct password, then logout
+- Use Incorrect Password, then correct password, then logout (Jacob)
     - Think time: 10-30 sec
     - Pacing: 95 sec
-- Create todo task
+- Create todo task (Anthony)
     - Think time: 10–25 sec
     - Pacing: 30 sec
-- Edit todo task
+- Edit todo task (Clinton)
     - Think time: 10-20 sec
     - Pacing: 25 sec
-- Delete todo task
+- Delete todo task (Anthony)
     - Think time: 1 sec
     - Pacing: 5 sec
-- Tick todo task on/off
+- Tick todo task on/off (Christopher)
     - Think time: 1 sec
     - Pacing: 5 sec
-- Create subtask
+- Create subtask (Walter)
     - Think time: 10 sec
     - Pacing: 12 sec
-- Tick subtask on/off
+- Tick subtask on/off (Walter)
     - Think time: 1 sec
     - Pacing: 5 sec
-- Delete subtask
+- Delete subtask (Christopher)
     - Think time: 2 sec
     - Pacing: 5 sec
