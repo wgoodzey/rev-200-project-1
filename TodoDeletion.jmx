@@ -45,20 +45,32 @@
         <boolProp name="CookieManager.controlledByThreadGroup">false</boolProp>
       </CookieManager>
       <hashTree/>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Todo Deleting Users" enabled="true">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Todo Deleting Users">
         <intProp name="ThreadGroup.num_threads">1</intProp>
         <intProp name="ThreadGroup.ramp_time">1</intProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller">
-          <stringProp name="LoopController.loops">1</stringProp>
+          <stringProp name="LoopController.loops">2</stringProp>
           <boolProp name="LoopController.continue_forever">false</boolProp>
         </elementProp>
       </ThreadGroup>
       <hashTree>
         <RecordingController guiclass="RecordController" testclass="RecordingController" testname="Recording Controller"/>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Open Login" enabled="true">
+          <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
+            <stringProp name="delimiter">,</stringProp>
+            <stringProp name="fileEncoding">UTF-8</stringProp>
+            <stringProp name="filename">/Users/anthonylam/Desktop/rev-200-project-1/todoDeletionUserCredentials.csv</stringProp>
+            <boolProp name="ignoreFirstLine">true</boolProp>
+            <boolProp name="quotedData">false</boolProp>
+            <boolProp name="recycle">true</boolProp>
+            <stringProp name="shareMode">shareMode.all</stringProp>
+            <boolProp name="stopThread">false</boolProp>
+            <stringProp name="variableNames"></stringProp>
+          </CSVDataSet>
+          <hashTree/>
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Open Login">
             <stringProp name="HTTPSampler.port">8080</stringProp>
             <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
             <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
@@ -118,7 +130,20 @@
             </HeaderManager>
             <hashTree/>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Log into Account" enabled="true">
+          <TestAction guiclass="TestActionGui" testclass="TestAction" testname="Think Time - User Typing in Username and Password">
+            <intProp name="ActionProcessor.action">1</intProp>
+            <intProp name="ActionProcessor.target">0</intProp>
+            <stringProp name="ActionProcessor.duration">0</stringProp>
+            <stringProp name="TestPlan.comments">10-20 seconds</stringProp>
+          </TestAction>
+          <hashTree>
+            <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause">
+              <stringProp name="ConstantTimer.delay">10000</stringProp>
+              <stringProp name="RandomTimer.range">10000</stringProp>
+            </UniformRandomTimer>
+            <hashTree/>
+          </hashTree>
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Log into Account">
             <stringProp name="HTTPSampler.port">8080</stringProp>
             <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
             <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
@@ -131,7 +156,7 @@
               <collectionProp name="Arguments.arguments">
                 <elementProp name="" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value">{&quot;username&quot;:&quot;${login_username}&quot;,&quot;password&quot;:&quot;${login_username}&quot;}</stringProp>
+                  <stringProp name="Argument.value">{&quot;username&quot;:&quot;${username}&quot;,&quot;password&quot;:&quot;${password}&quot;}</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
               </collectionProp>
@@ -188,7 +213,7 @@
             </HeaderManager>
             <hashTree/>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Dashboard" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Dashboard">
             <stringProp name="HTTPSampler.port">8080</stringProp>
             <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
             <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
@@ -252,7 +277,7 @@
             </HeaderManager>
             <hashTree/>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Display Todos" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Display Todos">
             <stringProp name="HTTPSampler.port">8080</stringProp>
             <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
             <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
@@ -312,376 +337,228 @@
             </HeaderManager>
             <hashTree/>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Delete Todo 1" enabled="true">
-            <stringProp name="HTTPSampler.port">8080</stringProp>
-            <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
-            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-            <stringProp name="HTTPSampler.path">/todo/4</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-            <stringProp name="HTTPSampler.method">DELETE</stringProp>
-            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-            <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-              <collectionProp name="Arguments.arguments"/>
-            </elementProp>
-          </HTTPSamplerProxy>
+          <LoopController guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller: Create Batch">
+            <stringProp name="LoopController.loops">5</stringProp>
+          </LoopController>
           <hashTree>
-            <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
-              <collectionProp name="HeaderManager.headers">
-                <elementProp name="Sec-Fetch-Mode" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
-                  <stringProp name="Header.value">cors</stringProp>
-                </elementProp>
-                <elementProp name="Referer" elementType="Header">
-                  <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Site" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
-                  <stringProp name="Header.value">same-origin</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Language" elementType="Header">
-                  <stringProp name="Header.name">Accept-Language</stringProp>
-                  <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
-                </elementProp>
-                <elementProp name="Origin" elementType="Header">
-                  <stringProp name="Header.name">Origin</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080</stringProp>
-                </elementProp>
-                <elementProp name="Priority" elementType="Header">
-                  <stringProp name="Header.name">Priority</stringProp>
-                  <stringProp name="Header.value">u=0</stringProp>
-                </elementProp>
-                <elementProp name="Accept" elementType="Header">
-                  <stringProp name="Header.name">Accept</stringProp>
-                  <stringProp name="Header.value">*/*</stringProp>
-                </elementProp>
-                <elementProp name="Content-Type" elementType="Header">
-                  <stringProp name="Header.name">Content-Type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Encoding" elementType="Header">
-                  <stringProp name="Header.name">Accept-Encoding</stringProp>
-                  <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
-                </elementProp>
-                <elementProp name="User-Agent" elementType="Header">
-                  <stringProp name="Header.name">User-Agent</stringProp>
-                  <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Dest" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
-                  <stringProp name="Header.value">empty</stringProp>
-                </elementProp>
-              </collectionProp>
-            </HeaderManager>
-            <hashTree/>
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Create Todo">
+              <stringProp name="HTTPSampler.port">8080</stringProp>
+              <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
+              <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
+              <stringProp name="HTTPSampler.path">/todo</stringProp>
+              <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+              <stringProp name="HTTPSampler.method">POST</stringProp>
+              <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+              <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+              <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
+                <collectionProp name="Arguments.arguments"/>
+              </elementProp>
+            </HTTPSamplerProxy>
+            <hashTree>
+              <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
+                <collectionProp name="HeaderManager.headers">
+                  <elementProp name="Sec-Fetch-Mode" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
+                    <stringProp name="Header.value">cors</stringProp>
+                  </elementProp>
+                  <elementProp name="Referer" elementType="Header">
+                    <stringProp name="Header.name">Referer</stringProp>
+                    <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
+                  </elementProp>
+                  <elementProp name="Sec-Fetch-Site" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
+                    <stringProp name="Header.value">same-origin</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept-Language" elementType="Header">
+                    <stringProp name="Header.name">Accept-Language</stringProp>
+                    <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
+                  </elementProp>
+                  <elementProp name="Origin" elementType="Header">
+                    <stringProp name="Header.name">Origin</stringProp>
+                    <stringProp name="Header.value">${scheme}://${host}:8080</stringProp>
+                  </elementProp>
+                  <elementProp name="Priority" elementType="Header">
+                    <stringProp name="Header.name">Priority</stringProp>
+                    <stringProp name="Header.value">u=0</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept" elementType="Header">
+                    <stringProp name="Header.name">Accept</stringProp>
+                    <stringProp name="Header.value">*/*</stringProp>
+                  </elementProp>
+                  <elementProp name="Content-Type" elementType="Header">
+                    <stringProp name="Header.name">Content-Type</stringProp>
+                    <stringProp name="Header.value">application/json</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept-Encoding" elementType="Header">
+                    <stringProp name="Header.name">Accept-Encoding</stringProp>
+                    <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
+                  </elementProp>
+                  <elementProp name="User-Agent" elementType="Header">
+                    <stringProp name="Header.name">User-Agent</stringProp>
+                    <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
+                  </elementProp>
+                  <elementProp name="Sec-Fetch-Dest" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
+                    <stringProp name="Header.value">empty</stringProp>
+                  </elementProp>
+                </collectionProp>
+              </HeaderManager>
+              <hashTree/>
+            </hashTree>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Display Todos" enabled="true">
-            <stringProp name="HTTPSampler.port">8080</stringProp>
-            <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
-            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-            <stringProp name="HTTPSampler.path">/todo</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-            <stringProp name="HTTPSampler.method">GET</stringProp>
-            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-            <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-              <collectionProp name="Arguments.arguments"/>
-            </elementProp>
-          </HTTPSamplerProxy>
+          <LoopController guiclass="LoopControlPanel" testclass="LoopController" testname="User Deletes a Few Todos">
+            <stringProp name="LoopController.loops">3</stringProp>
+          </LoopController>
           <hashTree>
-            <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
-              <collectionProp name="HeaderManager.headers">
-                <elementProp name="Sec-Fetch-Mode" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
-                  <stringProp name="Header.value">cors</stringProp>
-                </elementProp>
-                <elementProp name="Referer" elementType="Header">
-                  <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Site" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
-                  <stringProp name="Header.value">same-origin</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Language" elementType="Header">
-                  <stringProp name="Header.name">Accept-Language</stringProp>
-                  <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
-                </elementProp>
-                <elementProp name="Priority" elementType="Header">
-                  <stringProp name="Header.name">Priority</stringProp>
-                  <stringProp name="Header.value">u=4</stringProp>
-                </elementProp>
-                <elementProp name="Accept" elementType="Header">
-                  <stringProp name="Header.name">Accept</stringProp>
-                  <stringProp name="Header.value">*/*</stringProp>
-                </elementProp>
-                <elementProp name="Content-Type" elementType="Header">
-                  <stringProp name="Header.name">Content-Type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Encoding" elementType="Header">
-                  <stringProp name="Header.name">Accept-Encoding</stringProp>
-                  <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
-                </elementProp>
-                <elementProp name="User-Agent" elementType="Header">
-                  <stringProp name="Header.name">User-Agent</stringProp>
-                  <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Dest" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
-                  <stringProp name="Header.value">empty</stringProp>
-                </elementProp>
-              </collectionProp>
-            </HeaderManager>
-            <hashTree/>
+            <TestAction guiclass="TestActionGui" testclass="TestAction" testname="Think Time - User Viewing and Clicking Delete">
+              <intProp name="ActionProcessor.action">1</intProp>
+              <intProp name="ActionProcessor.target">0</intProp>
+              <stringProp name="ActionProcessor.duration">0</stringProp>
+              <stringProp name="TestPlan.comments">1-5 seconds</stringProp>
+            </TestAction>
+            <hashTree>
+              <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause">
+                <stringProp name="ConstantTimer.delay">1000</stringProp>
+                <stringProp name="RandomTimer.range">4000</stringProp>
+              </UniformRandomTimer>
+              <hashTree/>
+            </hashTree>
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Delete Todo">
+              <stringProp name="HTTPSampler.port">8080</stringProp>
+              <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
+              <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
+              <stringProp name="HTTPSampler.path">/todo/4</stringProp>
+              <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+              <stringProp name="HTTPSampler.method">DELETE</stringProp>
+              <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+              <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+              <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
+                <collectionProp name="Arguments.arguments"/>
+              </elementProp>
+            </HTTPSamplerProxy>
+            <hashTree>
+              <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
+                <collectionProp name="HeaderManager.headers">
+                  <elementProp name="Sec-Fetch-Mode" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
+                    <stringProp name="Header.value">cors</stringProp>
+                  </elementProp>
+                  <elementProp name="Referer" elementType="Header">
+                    <stringProp name="Header.name">Referer</stringProp>
+                    <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
+                  </elementProp>
+                  <elementProp name="Sec-Fetch-Site" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
+                    <stringProp name="Header.value">same-origin</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept-Language" elementType="Header">
+                    <stringProp name="Header.name">Accept-Language</stringProp>
+                    <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
+                  </elementProp>
+                  <elementProp name="Origin" elementType="Header">
+                    <stringProp name="Header.name">Origin</stringProp>
+                    <stringProp name="Header.value">${scheme}://${host}:8080</stringProp>
+                  </elementProp>
+                  <elementProp name="Priority" elementType="Header">
+                    <stringProp name="Header.name">Priority</stringProp>
+                    <stringProp name="Header.value">u=0</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept" elementType="Header">
+                    <stringProp name="Header.name">Accept</stringProp>
+                    <stringProp name="Header.value">*/*</stringProp>
+                  </elementProp>
+                  <elementProp name="Content-Type" elementType="Header">
+                    <stringProp name="Header.name">Content-Type</stringProp>
+                    <stringProp name="Header.value">application/json</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept-Encoding" elementType="Header">
+                    <stringProp name="Header.name">Accept-Encoding</stringProp>
+                    <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
+                  </elementProp>
+                  <elementProp name="User-Agent" elementType="Header">
+                    <stringProp name="Header.name">User-Agent</stringProp>
+                    <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
+                  </elementProp>
+                  <elementProp name="Sec-Fetch-Dest" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
+                    <stringProp name="Header.value">empty</stringProp>
+                  </elementProp>
+                </collectionProp>
+              </HeaderManager>
+              <hashTree/>
+            </hashTree>
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Display Todos">
+              <stringProp name="HTTPSampler.port">8080</stringProp>
+              <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
+              <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
+              <stringProp name="HTTPSampler.path">/todo</stringProp>
+              <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+              <stringProp name="HTTPSampler.method">GET</stringProp>
+              <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+              <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+              <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
+                <collectionProp name="Arguments.arguments"/>
+              </elementProp>
+            </HTTPSamplerProxy>
+            <hashTree>
+              <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
+                <collectionProp name="HeaderManager.headers">
+                  <elementProp name="Sec-Fetch-Mode" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
+                    <stringProp name="Header.value">cors</stringProp>
+                  </elementProp>
+                  <elementProp name="Referer" elementType="Header">
+                    <stringProp name="Header.name">Referer</stringProp>
+                    <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
+                  </elementProp>
+                  <elementProp name="Sec-Fetch-Site" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
+                    <stringProp name="Header.value">same-origin</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept-Language" elementType="Header">
+                    <stringProp name="Header.name">Accept-Language</stringProp>
+                    <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
+                  </elementProp>
+                  <elementProp name="Priority" elementType="Header">
+                    <stringProp name="Header.name">Priority</stringProp>
+                    <stringProp name="Header.value">u=4</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept" elementType="Header">
+                    <stringProp name="Header.name">Accept</stringProp>
+                    <stringProp name="Header.value">*/*</stringProp>
+                  </elementProp>
+                  <elementProp name="Content-Type" elementType="Header">
+                    <stringProp name="Header.name">Content-Type</stringProp>
+                    <stringProp name="Header.value">application/json</stringProp>
+                  </elementProp>
+                  <elementProp name="Accept-Encoding" elementType="Header">
+                    <stringProp name="Header.name">Accept-Encoding</stringProp>
+                    <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
+                  </elementProp>
+                  <elementProp name="User-Agent" elementType="Header">
+                    <stringProp name="Header.name">User-Agent</stringProp>
+                    <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
+                  </elementProp>
+                  <elementProp name="Sec-Fetch-Dest" elementType="Header">
+                    <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
+                    <stringProp name="Header.value">empty</stringProp>
+                  </elementProp>
+                </collectionProp>
+              </HeaderManager>
+              <hashTree/>
+            </hashTree>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Delete Todo 2" enabled="true">
-            <stringProp name="HTTPSampler.port">8080</stringProp>
-            <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
-            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-            <stringProp name="HTTPSampler.path">/todo/5</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-            <stringProp name="HTTPSampler.method">DELETE</stringProp>
-            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-            <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-              <collectionProp name="Arguments.arguments"/>
-            </elementProp>
-          </HTTPSamplerProxy>
+          <TestAction guiclass="TestActionGui" testclass="TestAction" testname="Pacing - Time Before Workflow Restarts">
+            <intProp name="ActionProcessor.action">1</intProp>
+            <intProp name="ActionProcessor.target">0</intProp>
+            <stringProp name="ActionProcessor.duration">0</stringProp>
+            <stringProp name="TestPlan.comments">20-30 seconds. Users rarely delete their todo tasks and would prefer to simply check them off</stringProp>
+          </TestAction>
           <hashTree>
-            <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
-              <collectionProp name="HeaderManager.headers">
-                <elementProp name="Sec-Fetch-Mode" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
-                  <stringProp name="Header.value">cors</stringProp>
-                </elementProp>
-                <elementProp name="Referer" elementType="Header">
-                  <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Site" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
-                  <stringProp name="Header.value">same-origin</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Language" elementType="Header">
-                  <stringProp name="Header.name">Accept-Language</stringProp>
-                  <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
-                </elementProp>
-                <elementProp name="Origin" elementType="Header">
-                  <stringProp name="Header.name">Origin</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080</stringProp>
-                </elementProp>
-                <elementProp name="Priority" elementType="Header">
-                  <stringProp name="Header.name">Priority</stringProp>
-                  <stringProp name="Header.value">u=0</stringProp>
-                </elementProp>
-                <elementProp name="Accept" elementType="Header">
-                  <stringProp name="Header.name">Accept</stringProp>
-                  <stringProp name="Header.value">*/*</stringProp>
-                </elementProp>
-                <elementProp name="Content-Type" elementType="Header">
-                  <stringProp name="Header.name">Content-Type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Encoding" elementType="Header">
-                  <stringProp name="Header.name">Accept-Encoding</stringProp>
-                  <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
-                </elementProp>
-                <elementProp name="User-Agent" elementType="Header">
-                  <stringProp name="Header.name">User-Agent</stringProp>
-                  <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Dest" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
-                  <stringProp name="Header.value">empty</stringProp>
-                </elementProp>
-              </collectionProp>
-            </HeaderManager>
-            <hashTree/>
-          </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Display Todos" enabled="true">
-            <stringProp name="HTTPSampler.port">8080</stringProp>
-            <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
-            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-            <stringProp name="HTTPSampler.path">/todo</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-            <stringProp name="HTTPSampler.method">GET</stringProp>
-            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-            <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-              <collectionProp name="Arguments.arguments"/>
-            </elementProp>
-          </HTTPSamplerProxy>
-          <hashTree>
-            <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
-              <collectionProp name="HeaderManager.headers">
-                <elementProp name="Sec-Fetch-Mode" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
-                  <stringProp name="Header.value">cors</stringProp>
-                </elementProp>
-                <elementProp name="Referer" elementType="Header">
-                  <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Site" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
-                  <stringProp name="Header.value">same-origin</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Language" elementType="Header">
-                  <stringProp name="Header.name">Accept-Language</stringProp>
-                  <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
-                </elementProp>
-                <elementProp name="Priority" elementType="Header">
-                  <stringProp name="Header.name">Priority</stringProp>
-                  <stringProp name="Header.value">u=4</stringProp>
-                </elementProp>
-                <elementProp name="Accept" elementType="Header">
-                  <stringProp name="Header.name">Accept</stringProp>
-                  <stringProp name="Header.value">*/*</stringProp>
-                </elementProp>
-                <elementProp name="Content-Type" elementType="Header">
-                  <stringProp name="Header.name">Content-Type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Encoding" elementType="Header">
-                  <stringProp name="Header.name">Accept-Encoding</stringProp>
-                  <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
-                </elementProp>
-                <elementProp name="User-Agent" elementType="Header">
-                  <stringProp name="Header.name">User-Agent</stringProp>
-                  <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Dest" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
-                  <stringProp name="Header.value">empty</stringProp>
-                </elementProp>
-              </collectionProp>
-            </HeaderManager>
-            <hashTree/>
-          </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Delete Todo 3" enabled="true">
-            <stringProp name="HTTPSampler.port">8080</stringProp>
-            <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
-            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-            <stringProp name="HTTPSampler.path">/todo/6</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-            <stringProp name="HTTPSampler.method">DELETE</stringProp>
-            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-            <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-              <collectionProp name="Arguments.arguments"/>
-            </elementProp>
-          </HTTPSamplerProxy>
-          <hashTree>
-            <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
-              <collectionProp name="HeaderManager.headers">
-                <elementProp name="Sec-Fetch-Mode" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
-                  <stringProp name="Header.value">cors</stringProp>
-                </elementProp>
-                <elementProp name="Referer" elementType="Header">
-                  <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Site" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
-                  <stringProp name="Header.value">same-origin</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Language" elementType="Header">
-                  <stringProp name="Header.name">Accept-Language</stringProp>
-                  <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
-                </elementProp>
-                <elementProp name="Origin" elementType="Header">
-                  <stringProp name="Header.name">Origin</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080</stringProp>
-                </elementProp>
-                <elementProp name="Priority" elementType="Header">
-                  <stringProp name="Header.name">Priority</stringProp>
-                  <stringProp name="Header.value">u=0</stringProp>
-                </elementProp>
-                <elementProp name="Accept" elementType="Header">
-                  <stringProp name="Header.name">Accept</stringProp>
-                  <stringProp name="Header.value">*/*</stringProp>
-                </elementProp>
-                <elementProp name="Content-Type" elementType="Header">
-                  <stringProp name="Header.name">Content-Type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Encoding" elementType="Header">
-                  <stringProp name="Header.name">Accept-Encoding</stringProp>
-                  <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
-                </elementProp>
-                <elementProp name="User-Agent" elementType="Header">
-                  <stringProp name="Header.name">User-Agent</stringProp>
-                  <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Dest" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
-                  <stringProp name="Header.value">empty</stringProp>
-                </elementProp>
-              </collectionProp>
-            </HeaderManager>
-            <hashTree/>
-          </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Todo Deletion-Display Todos" enabled="true">
-            <stringProp name="HTTPSampler.port">8080</stringProp>
-            <stringProp name="HTTPSampler.protocol">${scheme}</stringProp>
-            <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
-            <stringProp name="HTTPSampler.path">/todo</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-            <stringProp name="HTTPSampler.method">GET</stringProp>
-            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-            <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-              <collectionProp name="Arguments.arguments"/>
-            </elementProp>
-          </HTTPSamplerProxy>
-          <hashTree>
-            <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
-              <collectionProp name="HeaderManager.headers">
-                <elementProp name="Sec-Fetch-Mode" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Mode</stringProp>
-                  <stringProp name="Header.value">cors</stringProp>
-                </elementProp>
-                <elementProp name="Referer" elementType="Header">
-                  <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${host}:8080/dashboard.html</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Site" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Site</stringProp>
-                  <stringProp name="Header.value">same-origin</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Language" elementType="Header">
-                  <stringProp name="Header.name">Accept-Language</stringProp>
-                  <stringProp name="Header.value">en-US,en;q=0.9</stringProp>
-                </elementProp>
-                <elementProp name="Priority" elementType="Header">
-                  <stringProp name="Header.name">Priority</stringProp>
-                  <stringProp name="Header.value">u=4</stringProp>
-                </elementProp>
-                <elementProp name="Accept" elementType="Header">
-                  <stringProp name="Header.name">Accept</stringProp>
-                  <stringProp name="Header.value">*/*</stringProp>
-                </elementProp>
-                <elementProp name="Content-Type" elementType="Header">
-                  <stringProp name="Header.name">Content-Type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
-                <elementProp name="Accept-Encoding" elementType="Header">
-                  <stringProp name="Header.name">Accept-Encoding</stringProp>
-                  <stringProp name="Header.value">gzip, deflate, br, zstd</stringProp>
-                </elementProp>
-                <elementProp name="User-Agent" elementType="Header">
-                  <stringProp name="Header.name">User-Agent</stringProp>
-                  <stringProp name="Header.value">Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0</stringProp>
-                </elementProp>
-                <elementProp name="Sec-Fetch-Dest" elementType="Header">
-                  <stringProp name="Header.name">Sec-Fetch-Dest</stringProp>
-                  <stringProp name="Header.value">empty</stringProp>
-                </elementProp>
-              </collectionProp>
-            </HeaderManager>
+            <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause">
+              <stringProp name="ConstantTimer.delay">20000</stringProp>
+              <stringProp name="RandomTimer.range">10000</stringProp>
+            </UniformRandomTimer>
             <hashTree/>
           </hashTree>
         </hashTree>
